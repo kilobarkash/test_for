@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "tests": [
+    {
+      "id": "test1",
+      "name": "Тест 1",
+      "url": "https://USERNAME.github.io/REPO/tests/test1.json"
+    }
+  ]
+}
