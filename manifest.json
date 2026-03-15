@@ -1,1 +1,9 @@
-manibfest.json
+{
+  "version": 1,
+  "tests": [
+    {
+      "id": "1",
+      "name": "Фалсафа",
+      "url": "https://kilobarkash.github.io/test_for/tests/falsafa.json"
+    },
+}
