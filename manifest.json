@@ -4,6 +4,7 @@
     {
       "id": "1",
       "name": "Фалсафа",
+      "teacher" : "Mirzoeva",
       "url": "https://kilobarkash.github.io/test_for/tests/falsafa.json"
     },
   ],
