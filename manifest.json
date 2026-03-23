@@ -13,5 +13,11 @@
       "teacher" : "Мелиев",
       "url": "https://kilobarkash.github.io/test_for/tests/meliev.json"
     },
+    {
+      "id": "3",
+      "name": "Асосҳои алгоритм ва забонҳои барномасози",
+      "teacher" : "Бобохонов Х",
+      "url": "https://kilobarkash.github.io/test_for/tests/Bobokhonov.json"
+    },
   ],
 }
