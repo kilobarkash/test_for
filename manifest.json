@@ -25,5 +25,11 @@
       "teacher" : "Ҷумаева П",
       "url": "https://kilobarkash.github.io/test_for/tests/english.json"
     },
+    {
+      "id": "5",
+      "name": "КТМ",
+      "teacher" : "Назарова З",
+      "url": "https://kilobarkash.github.io/test_for/tests/KTM.json"
+    },
   ],
 }
