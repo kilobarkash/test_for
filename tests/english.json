@@ -1,0 +1,4947 @@
+{
+  "teacher": "Ҷумаева П.А",
+  "test_name": "Забони Англиси",
+  "total_questions": 161,
+  "single_choice_count": 101,
+  "matching_count": 60,
+  "questions": [
+    {
+      "number": 1,
+      "question": "When do we read the letter S as (Z)?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Between the vowels;+"
+        },
+        {
+          "key": "B",
+          "text": "Before the vowels;"
+        },
+        {
+          "key": "C",
+          "text": "After the vowels;"
+        },
+        {
+          "key": "D",
+          "text": "Before the vowels e, i, y;"
+        },
+        {
+          "key": "E",
+          "text": "vowels e, i, y;"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Put the verb to be. Mary ____ 16 and Linda ____ 18?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, are;"
+        },
+        {
+          "key": "C",
+          "text": "Are, is;"
+        },
+        {
+          "key": "D",
+          "text": "Are, are;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Put the verb to be. Daler ____ at home, but Dilnoza ____?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, isn’t;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, is;"
+        },
+        {
+          "key": "C",
+          "text": "Are, is;"
+        },
+        {
+          "key": "D",
+          "text": "Is, are;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Put the verb to be. I ____ from Dushanbe, but Linda ____ from London?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Am, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Am, am;"
+        },
+        {
+          "key": "C",
+          "text": "Is, am;"
+        },
+        {
+          "key": "D",
+          "text": "Are, are;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Put the verb to be. What _____ your mane? My name _____ Umed?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, am;"
+        },
+        {
+          "key": "C",
+          "text": "Am, is;"
+        },
+        {
+          "key": "D",
+          "text": "Are, are;"
+        },
+        {
+          "key": "E",
+          "text": "Am;"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Put the verb to be. Where _____ you from? I _____ from Leningrad?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are, am;+"
+        },
+        {
+          "key": "B",
+          "text": "Am, are;"
+        },
+        {
+          "key": "C",
+          "text": "Is, am;"
+        },
+        {
+          "key": "D",
+          "text": "Are, is;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Put the verb to be. What _____ your friend? He _____ an engineer?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Are, is;"
+        },
+        {
+          "key": "C",
+          "text": "Are, are;"
+        },
+        {
+          "key": "D",
+          "text": "Is, ------;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Put the verb to be. What _____ you? I ____  the manager of the company?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are, am;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, am;"
+        },
+        {
+          "key": "C",
+          "text": "Are, are;"
+        },
+        {
+          "key": "D",
+          "text": "Is, is;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Put the verb to be. What _____ your friend’s name? His name ____ Faridun?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, are;"
+        },
+        {
+          "key": "C",
+          "text": "Are, are;"
+        },
+        {
+          "key": "D",
+          "text": "Are, is;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Put the verb to be. ______ you from Dushanbe? No, I _____ from Moscow?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are, am;+"
+        },
+        {
+          "key": "B",
+          "text": "Are, are;"
+        },
+        {
+          "key": "C",
+          "text": "Is, is;"
+        },
+        {
+          "key": "D",
+          "text": "Is, am;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Put the verb to be. Linda _____ an engineer, but Laura ____ a doctor?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, are;"
+        },
+        {
+          "key": "C",
+          "text": "Am, is;"
+        },
+        {
+          "key": "D",
+          "text": "Is, am;"
+        },
+        {
+          "key": "E",
+          "text": "am;"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Put the articles where necessary. Lavrov is _____ economist, but his wife is _____ teacher?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "An, a;+"
+        },
+        {
+          "key": "B",
+          "text": "An, an;"
+        },
+        {
+          "key": "C",
+          "text": "The, the;"
+        },
+        {
+          "key": "D",
+          "text": "An, the;"
+        },
+        {
+          "key": "E",
+          "text": "the;"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Put the articles where necessary. Mr. Bell is _____ company manager. He is in _____ office now?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, the;+"
+        },
+        {
+          "key": "B",
+          "text": "The, a;"
+        },
+        {
+          "key": "C",
+          "text": "A, a;"
+        },
+        {
+          "key": "D",
+          "text": "An, the;"
+        },
+        {
+          "key": "E",
+          "text": "the;"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Put the articles where necessary. Mr. White is in _____ office. He is sitting at ____ table?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, the;+"
+        },
+        {
+          "key": "B",
+          "text": "The, a;"
+        },
+        {
+          "key": "C",
+          "text": "A, the;"
+        },
+        {
+          "key": "D",
+          "text": "A, a;"
+        },
+        {
+          "key": "E",
+          "text": "the;"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Put the articles where necessary. What is on _____ desk? It is _____ offer from Blake and Company?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, an;+"
+        },
+        {
+          "key": "B",
+          "text": "The, a;"
+        },
+        {
+          "key": "C",
+          "text": "An, the;"
+        },
+        {
+          "key": "D",
+          "text": "A, a;"
+        },
+        {
+          "key": "E",
+          "text": "the;"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Put the articles where necessary. ______ offers are on ______ table?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, the;+"
+        },
+        {
+          "key": "B",
+          "text": "The, an;"
+        },
+        {
+          "key": "C",
+          "text": "The, a;"
+        },
+        {
+          "key": "D",
+          "text": "A, a;"
+        },
+        {
+          "key": "E",
+          "text": "an;"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Put the articles where necessary. Nancy is ____ secretary. She is a _____ nice woman?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "A, -----;+"
+        },
+        {
+          "key": "B",
+          "text": "A, a;"
+        },
+        {
+          "key": "C",
+          "text": "The, the;"
+        },
+        {
+          "key": "D",
+          "text": "A, the;"
+        },
+        {
+          "key": "E",
+          "text": "the;"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Put the articles where necessary. Mr. White is ______ engineer. He works at _____ Trade Delegation?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "An, the;+"
+        },
+        {
+          "key": "B",
+          "text": "An, an;"
+        },
+        {
+          "key": "C",
+          "text": "The, an;"
+        },
+        {
+          "key": "D",
+          "text": "The, the;"
+        },
+        {
+          "key": "E",
+          "text": "an;"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Put the articles where necessary. I come to ____ office at 8 in ____ morning every day?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, the;+"
+        },
+        {
+          "key": "B",
+          "text": "A, the;"
+        },
+        {
+          "key": "C",
+          "text": "The, a;"
+        },
+        {
+          "key": "D",
+          "text": "The, a;"
+        },
+        {
+          "key": "E",
+          "text": "a;"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Use the correct personal pronouns. Mr. Bell is the company manager. _____ is the company manager?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "He;+"
+        },
+        {
+          "key": "B",
+          "text": "She;"
+        },
+        {
+          "key": "C",
+          "text": "They;"
+        },
+        {
+          "key": "D",
+          "text": "I;"
+        },
+        {
+          "key": "E",
+          "text": "sister;"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Use the correct personal pronouns. The apples are red. ______ are red?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "She;"
+        },
+        {
+          "key": "D",
+          "text": "It;"
+        },
+        {
+          "key": "E",
+          "text": "the;"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Use the correct personal pronouns. Linda and Lack are brother and sister. ________ are brother and sister?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "She;"
+        },
+        {
+          "key": "D",
+          "text": "It;"
+        },
+        {
+          "key": "E",
+          "text": "an;"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Use the correct personal pronouns. Mrs. White is a good secretary. _____ is a good secretary?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "She;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "It;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        },
+        {
+          "key": "E",
+          "text": "the;"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Use the correct personal pronouns. The girl is in the garden. _____ is in the garden?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "She;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "You;"
+        },
+        {
+          "key": "D",
+          "text": "They;"
+        },
+        {
+          "key": "E",
+          "text": "an;"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Use the correct personal pronouns. The telephones are on the desk. _____ are on the desk?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They;+"
+        },
+        {
+          "key": "B",
+          "text": "It;"
+        },
+        {
+          "key": "C",
+          "text": "Are;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        },
+        {
+          "key": "E",
+          "text": "the;"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Use the correct personal pronouns. The cable is on the table. ______ is on the table?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It;+"
+        },
+        {
+          "key": "B",
+          "text": "They;"
+        },
+        {
+          "key": "C",
+          "text": "He;"
+        },
+        {
+          "key": "D",
+          "text": "She;"
+        },
+        {
+          "key": "E",
+          "text": "a;"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Use the correct personal pronouns. Linda and Amanda are good friends. ______ are good friends?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They;+"
+        },
+        {
+          "key": "B",
+          "text": "She;"
+        },
+        {
+          "key": "C",
+          "text": "He;"
+        },
+        {
+          "key": "D",
+          "text": "Them;"
+        },
+        {
+          "key": "E",
+          "text": "friends;"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Use the correct personal pronouns. Linda is in the office, but ____ am not?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "I;+"
+        },
+        {
+          "key": "B",
+          "text": "She;"
+        },
+        {
+          "key": "C",
+          "text": "He;"
+        },
+        {
+          "key": "D",
+          "text": "Me;"
+        },
+        {
+          "key": "E",
+          "text": "personal;"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Use the correct personal pronouns. _____ am the company manager?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "I;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "She;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        },
+        {
+          "key": "E",
+          "text": "am the;"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Use the correct demonstrative pronouns. _______ are stars?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Those;+"
+        },
+        {
+          "key": "B",
+          "text": "These;"
+        },
+        {
+          "key": "C",
+          "text": "This;"
+        },
+        {
+          "key": "D",
+          "text": "That;"
+        },
+        {
+          "key": "E",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Use the correct demonstrative pronouns. What are these? _______ are my notebooks?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These;+"
+        },
+        {
+          "key": "B",
+          "text": "That;"
+        },
+        {
+          "key": "C",
+          "text": "This;"
+        },
+        {
+          "key": "D",
+          "text": "Those’s;"
+        },
+        {
+          "key": "E",
+          "text": "What;"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Use the correct demonstrative pronouns. _______ is a painting by Mario Angelini?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "That;+"
+        },
+        {
+          "key": "B",
+          "text": "Those;"
+        },
+        {
+          "key": "C",
+          "text": "These;"
+        },
+        {
+          "key": "D",
+          "text": "That’s;"
+        },
+        {
+          "key": "E",
+          "text": "Use;"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Use the correct demonstrative pronouns. _________ offices are convenient and light?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These;+"
+        },
+        {
+          "key": "B",
+          "text": "This;"
+        },
+        {
+          "key": "C",
+          "text": "That;"
+        },
+        {
+          "key": "D",
+          "text": "These’s;"
+        },
+        {
+          "key": "E",
+          "text": "and;"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Use the correct demonstrative pronouns. Are _______ your notebooks. Yes _______ are my notebooks?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These, these;+"
+        },
+        {
+          "key": "B",
+          "text": "These, that;"
+        },
+        {
+          "key": "C",
+          "text": "That, those;"
+        },
+        {
+          "key": "D",
+          "text": "These. This;"
+        },
+        {
+          "key": "E",
+          "text": "This;"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Use the correct demonstrative pronouns. Is _______ a picture of your family Mr. White? Yes, _______ woman is my wife and these are my children?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This, this;+"
+        },
+        {
+          "key": "B",
+          "text": "This. These;"
+        },
+        {
+          "key": "C",
+          "text": "These, that;"
+        },
+        {
+          "key": "D",
+          "text": "These, these;"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "Use the correct demonstrative pronouns. What is _______ ? _______ is an offer from GML?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "That, that;+"
+        },
+        {
+          "key": "B",
+          "text": "This, these;"
+        },
+        {
+          "key": "C",
+          "text": "That, those;"
+        },
+        {
+          "key": "D",
+          "text": "Those, this;"
+        },
+        {
+          "key": "E",
+          "text": "those;"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Use the correct demonstrative pronouns. What are _____ ? _____ are the offers from Blake and Sons?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These, these;+"
+        },
+        {
+          "key": "B",
+          "text": "These, that;"
+        },
+        {
+          "key": "C",
+          "text": "That, these;"
+        },
+        {
+          "key": "D",
+          "text": "Those, this;"
+        },
+        {
+          "key": "E",
+          "text": "this;"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Use the correct demonstrative pronouns. ______ man is our manager. He works in ______ office for 10 years?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This, this;+"
+        },
+        {
+          "key": "B",
+          "text": "These, that;"
+        },
+        {
+          "key": "C",
+          "text": "That, these;"
+        },
+        {
+          "key": "D",
+          "text": "That, those;"
+        },
+        {
+          "key": "E",
+          "text": "those;"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Use possessive or objective cases of the personal pronouns. It is _____ first visit to this country?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Our;+"
+        },
+        {
+          "key": "B",
+          "text": "Him;"
+        },
+        {
+          "key": "C",
+          "text": "Us;"
+        },
+        {
+          "key": "D",
+          "text": "Them;"
+        },
+        {
+          "key": "E",
+          "text": "cases;"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Use possessive or objective cases of the personal pronouns. Mr. Bell works in _____ company for 15 years. He is very good engineer?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Our;+"
+        },
+        {
+          "key": "B",
+          "text": "It;"
+        },
+        {
+          "key": "C",
+          "text": "Me;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        },
+        {
+          "key": "E",
+          "text": "engineer;"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Use possessive or objective cases of the personal pronouns. Give _____ the book. This is _____ book?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me, my;+"
+        },
+        {
+          "key": "B",
+          "text": "My, me;"
+        },
+        {
+          "key": "C",
+          "text": "My, you;"
+        },
+        {
+          "key": "D",
+          "text": "Me. You;"
+        },
+        {
+          "key": "E",
+          "text": "You;"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Use possessive or objective cases of the personal pronouns. How long it takes _____ to get there?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me;+"
+        },
+        {
+          "key": "B",
+          "text": "My;"
+        },
+        {
+          "key": "C",
+          "text": "Your;"
+        },
+        {
+          "key": "D",
+          "text": "Their;"
+        },
+        {
+          "key": "E",
+          "text": "How;"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Use possessive or objective cases of the personal pronouns. I don’t find ______ story impossible?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "His;+"
+        },
+        {
+          "key": "B",
+          "text": "Him;"
+        },
+        {
+          "key": "C",
+          "text": "Me;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        },
+        {
+          "key": "E",
+          "text": "cases;"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Use possessive or objective cases of the personal pronouns. What are you looking for? Jack asks ______ friend?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "His;+"
+        },
+        {
+          "key": "B",
+          "text": "Him;"
+        },
+        {
+          "key": "C",
+          "text": "You;"
+        },
+        {
+          "key": "D",
+          "text": "Us;"
+        },
+        {
+          "key": "E",
+          "text": "What;"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Use possessive or objective cases of the personal pronouns. Excuse _____ ? Mr. Bell wants you on the phone?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me;+"
+        },
+        {
+          "key": "B",
+          "text": "My;"
+        },
+        {
+          "key": "C",
+          "text": "His;"
+        },
+        {
+          "key": "D",
+          "text": "Our;"
+        },
+        {
+          "key": "E",
+          "text": "objective;"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Use possessive or objective cases of the personal pronouns. Do you ask _____ to open the window?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me;+"
+        },
+        {
+          "key": "B",
+          "text": "My;"
+        },
+        {
+          "key": "C",
+          "text": "Your;"
+        },
+        {
+          "key": "D",
+          "text": "Our;"
+        },
+        {
+          "key": "E",
+          "text": "Do;"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Use possessive or objective cases of the personal pronouns. What is ______ friend’s name? ______ name is Farukh?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Your, his;+"
+        },
+        {
+          "key": "B",
+          "text": "Your, him;"
+        },
+        {
+          "key": "C",
+          "text": "His, your;"
+        },
+        {
+          "key": "D",
+          "text": "Him, your;"
+        },
+        {
+          "key": "E",
+          "text": "your;"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "Use possessive or objective cases of the personal pronouns. Does ______ friend speak English? Yes, _____ English is very good?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Your, his;+"
+        },
+        {
+          "key": "B",
+          "text": "Your, him;"
+        },
+        {
+          "key": "C",
+          "text": "His, your;"
+        },
+        {
+          "key": "D",
+          "text": "Him, your;"
+        },
+        {
+          "key": "E",
+          "text": "your;"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Use possessive or objective cases of the personal pronouns. I tell ______ to look through the quotation of GML?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Him;+"
+        },
+        {
+          "key": "B",
+          "text": "His;"
+        },
+        {
+          "key": "C",
+          "text": "Me;"
+        },
+        {
+          "key": "D",
+          "text": "My;"
+        },
+        {
+          "key": "E",
+          "text": "look;"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Use possessive or objective cases of the personal pronouns. Mr. Bell tell ______ to give an answer to GML?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me;+"
+        },
+        {
+          "key": "B",
+          "text": "My;"
+        },
+        {
+          "key": "C",
+          "text": "Your;"
+        },
+        {
+          "key": "D",
+          "text": "Our;"
+        },
+        {
+          "key": "E",
+          "text": "to;"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "question": "Use possessive or objective cases of the personal pronouns. Mr. Brown is interested in ______ latest model of cars?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Your;+"
+        },
+        {
+          "key": "B",
+          "text": "You;"
+        },
+        {
+          "key": "C",
+          "text": "Him;"
+        },
+        {
+          "key": "D",
+          "text": "Us;"
+        },
+        {
+          "key": "E",
+          "text": "cars;"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "question": "Put the correct preposition. Nancy works _____ the Tajik Trade Delegation?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "At;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "Of;"
+        },
+        {
+          "key": "D",
+          "text": "To;"
+        },
+        {
+          "key": "E",
+          "text": "cars;"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "question": "Put the correct preposition. Where are you now? I am ____ the lesson now?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "At;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "On;"
+        },
+        {
+          "key": "D",
+          "text": "To;"
+        },
+        {
+          "key": "E",
+          "text": "cars;"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "question": "Put the correct preposition. Mr. Bell, Lavrov and Mr. White come ______ the sitting – room?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Into;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "To;"
+        },
+        {
+          "key": "D",
+          "text": "On;"
+        },
+        {
+          "key": "E",
+          "text": "cars;"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "question": "Put the correct preposition. I am glad you are ____ London?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "In;+"
+        },
+        {
+          "key": "B",
+          "text": "Of;"
+        },
+        {
+          "key": "C",
+          "text": "At;"
+        },
+        {
+          "key": "D",
+          "text": "To;"
+        },
+        {
+          "key": "E",
+          "text": "correct;"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "question": "Put the correct preposition. What is it Nancy? It is an enquiry _______ GML, Mr. White?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "From;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "Of;"
+        },
+        {
+          "key": "D",
+          "text": "To;"
+        },
+        {
+          "key": "E",
+          "text": "correct;"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "question": "Put the correct preposition. I work _____ the Tajik Trade Delegation?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "At;+"
+        },
+        {
+          "key": "B",
+          "text": "To;"
+        },
+        {
+          "key": "C",
+          "text": "In;"
+        },
+        {
+          "key": "D",
+          "text": "Of;"
+        },
+        {
+          "key": "E",
+          "text": "correct;"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "question": "Put the correct preposition. The carpet _____ the floor makes the room comfortable?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "On;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "At;"
+        },
+        {
+          "key": "D",
+          "text": "Of;"
+        },
+        {
+          "key": "E",
+          "text": "correct;"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "question": "Put the correct preposition. We have got two red armchairs _____ our sitting – room?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "In;+"
+        },
+        {
+          "key": "B",
+          "text": "On;"
+        },
+        {
+          "key": "C",
+          "text": "At;"
+        },
+        {
+          "key": "D",
+          "text": "Of;"
+        },
+        {
+          "key": "E",
+          "text": "correct;"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "question": "Put the correct preposition. Where do you go after the lessons every day? I go _____ home?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To;+"
+        },
+        {
+          "key": "B",
+          "text": "At;"
+        },
+        {
+          "key": "C",
+          "text": "Of;"
+        },
+        {
+          "key": "D",
+          "text": "Where;"
+        },
+        {
+          "key": "E",
+          "text": "do;"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "question": "Put the correct preposition. I come _____ the office at 8 _____ the morning every day?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To, in;+"
+        },
+        {
+          "key": "B",
+          "text": "In, to;"
+        },
+        {
+          "key": "C",
+          "text": "To, to;"
+        },
+        {
+          "key": "D",
+          "text": "In, in;"
+        },
+        {
+          "key": "E",
+          "text": "to;"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "question": "Put the correct preposition. I want ____ speak ____ Mr. Brown?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To, to;+"
+        },
+        {
+          "key": "B",
+          "text": "To, in;"
+        },
+        {
+          "key": "C",
+          "text": "In, to;"
+        },
+        {
+          "key": "D",
+          "text": "In, in;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "question": "Put the correct preposition. I translate letters _____ English _____ Russian?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "From, into;+"
+        },
+        {
+          "key": "B",
+          "text": "Into, from;"
+        },
+        {
+          "key": "C",
+          "text": "To, for;"
+        },
+        {
+          "key": "D",
+          "text": "From, from;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "question": "Put the correct preposition. I have come _____ London to buy chemical equipment _____ Blake and Sons?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To, from;+"
+        },
+        {
+          "key": "B",
+          "text": "To, to;"
+        },
+        {
+          "key": "C",
+          "text": "From, to;"
+        },
+        {
+          "key": "D",
+          "text": "From, from;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "question": "Put the correct preposition. Every day I go _____ the University _____ bus?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To, by;+"
+        },
+        {
+          "key": "B",
+          "text": "To, to;"
+        },
+        {
+          "key": "C",
+          "text": "By, by;"
+        },
+        {
+          "key": "D",
+          "text": "By, to;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "question": "Put the correct preposition. Blake and Sons is interested ____ buying electronic equipment ______ Green and Sons?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "In, from;+"
+        },
+        {
+          "key": "B",
+          "text": "From, in;"
+        },
+        {
+          "key": "C",
+          "text": "In, in;"
+        },
+        {
+          "key": "D",
+          "text": "From, from;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "question": "Put the correct preposition. Where are you ______ ? I am ______ Dushanbe?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "From, from;+"
+        },
+        {
+          "key": "B",
+          "text": "In, from;"
+        },
+        {
+          "key": "C",
+          "text": "From, in;"
+        },
+        {
+          "key": "D",
+          "text": "In, in;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "question": "Put the verb to have got. Nancy _____ a three room flat in Moscow?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have got;"
+        },
+        {
+          "key": "B",
+          "text": "has got;+"
+        },
+        {
+          "key": "C",
+          "text": "have gotten;"
+        },
+        {
+          "key": "D",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "question": "Put the verb to have got. Voronin ____ a large family?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have gotten;"
+        },
+        {
+          "key": "B",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "C",
+          "text": "have got;"
+        },
+        {
+          "key": "D",
+          "text": "has got;+"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "question": "Put the verb to have got. We ___a large company in America?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have got;+"
+        },
+        {
+          "key": "B",
+          "text": "has got;"
+        },
+        {
+          "key": "C",
+          "text": "have gotten;"
+        },
+        {
+          "key": "D",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "question": "Put the verb to have got. We _____ many offices in this country?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have gotten;"
+        },
+        {
+          "key": "B",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "C",
+          "text": "have got;+"
+        },
+        {
+          "key": "D",
+          "text": "has got;"
+        },
+        {
+          "key": "E",
+          "text": "in;"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "question": "Put the verb to have got. They ______ many companies?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have got;+"
+        },
+        {
+          "key": "B",
+          "text": "has got;"
+        },
+        {
+          "key": "C",
+          "text": "have gotten;"
+        },
+        {
+          "key": "D",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "E",
+          "text": "gotten;"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "question": "Put the verb to have got. The girl _______ a computer?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have gotten;"
+        },
+        {
+          "key": "B",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "C",
+          "text": "have got;"
+        },
+        {
+          "key": "D",
+          "text": "has got;+"
+        },
+        {
+          "key": "E",
+          "text": "gotten;"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "question": "Put the verb to have got. The doctor _______ a study?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have got;"
+        },
+        {
+          "key": "B",
+          "text": "has got;+"
+        },
+        {
+          "key": "C",
+          "text": "have gotten;"
+        },
+        {
+          "key": "D",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "E",
+          "text": "gotten;"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "question": "Put the verb to have got. The boys ______ offers?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "B",
+          "text": "have gotten;"
+        },
+        {
+          "key": "C",
+          "text": "have got;+"
+        },
+        {
+          "key": "D",
+          "text": "has got;"
+        },
+        {
+          "key": "E",
+          "text": "gotten;"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "question": "Put the verb to have got. Mr. Bell daughter _______ flats?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have got;"
+        },
+        {
+          "key": "B",
+          "text": "has got;+"
+        },
+        {
+          "key": "C",
+          "text": "have gotten;"
+        },
+        {
+          "key": "D",
+          "text": "haven’t gotten;"
+        },
+        {
+          "key": "E",
+          "text": "gotten;"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "question": "Put the verb to have got. What have they got?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They have got books;+"
+        },
+        {
+          "key": "B",
+          "text": "I have got a telex;"
+        },
+        {
+          "key": "C",
+          "text": "She has got a flat;"
+        },
+        {
+          "key": "D",
+          "text": "You have got a telex;"
+        },
+        {
+          "key": "E",
+          "text": "haven’t gotten;"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "question": "Put the verb to have got. What have you got?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "I have got a telex;+"
+        },
+        {
+          "key": "B",
+          "text": "She has got books;"
+        },
+        {
+          "key": "C",
+          "text": "We have got a clocks;"
+        },
+        {
+          "key": "D",
+          "text": "They have got a pen;"
+        },
+        {
+          "key": "E",
+          "text": "haven’t gotten;"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "question": "Put the verb to have got. What has she got?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "She has got an office;+"
+        },
+        {
+          "key": "B",
+          "text": "We have got books;"
+        },
+        {
+          "key": "C",
+          "text": "The child has got a room;"
+        },
+        {
+          "key": "D",
+          "text": "She has a book;"
+        },
+        {
+          "key": "E",
+          "text": "haven’t gotten;"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "question": "What is the capital of Tajikistan?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dushanbe;+"
+        },
+        {
+          "key": "B",
+          "text": "Bukhara;"
+        },
+        {
+          "key": "C",
+          "text": "Kulob;"
+        },
+        {
+          "key": "D",
+          "text": "Hamadan;"
+        },
+        {
+          "key": "E",
+          "text": "Darvoz;"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "question": "Where is location of Tajikistan?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Location - the South-east of Central Asia;+"
+        },
+        {
+          "key": "B",
+          "text": "into Europe;"
+        },
+        {
+          "key": "C",
+          "text": "at New Zealand;"
+        },
+        {
+          "key": "D",
+          "text": "to;"
+        },
+        {
+          "key": "E",
+          "text": "few Motherland;"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "question": "Show the population of Tajikistan?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "9mln;+"
+        },
+        {
+          "key": "B",
+          "text": "13mln;"
+        },
+        {
+          "key": "C",
+          "text": "7mln on;"
+        },
+        {
+          "key": "D",
+          "text": "7.5mln;"
+        },
+        {
+          "key": "E",
+          "text": "I don’t know;"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "question": "How much is the territory of Tajikistan?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "143.1 thsd. square kilometers;+"
+        },
+        {
+          "key": "B",
+          "text": "147.1 thsd. square kilometers;"
+        },
+        {
+          "key": "C",
+          "text": "149.1 thsd. square kilometers;"
+        },
+        {
+          "key": "D",
+          "text": "148.1 thsd. square kilometers;"
+        },
+        {
+          "key": "E",
+          "text": "I don’t know;"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "question": "Тарљумаии бораи “иштирок кардан”-ро нишон дињед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "to take part;+"
+        },
+        {
+          "key": "B",
+          "text": "to be in;"
+        },
+        {
+          "key": "C",
+          "text": "took part;"
+        },
+        {
+          "key": "D",
+          "text": "to takes parts;"
+        },
+        {
+          "key": "E",
+          "text": "to be in the talks;"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "question": "Забони англисї – забони муоширати кадоме аз ин давлатњост?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Британияи Кабир, ЗеландияиНав;+"
+        },
+        {
+          "key": "B",
+          "text": "Франция, Белгия;"
+        },
+        {
+          "key": "C",
+          "text": "Германия, Чехия;"
+        },
+        {
+          "key": "D",
+          "text": "Япония, Хитой;"
+        },
+        {
+          "key": "E",
+          "text": "Тољикистон, Россия;"
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "question": "Артикл чанд намуд мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "2;+"
+        },
+        {
+          "key": "B",
+          "text": "21;"
+        },
+        {
+          "key": "C",
+          "text": "4;"
+        },
+        {
+          "key": "D",
+          "text": "6;"
+        },
+        {
+          "key": "E",
+          "text": "26;"
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "question": "Феъли - to be-ро дар замони њозираи номуайян нишондиҳед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "am, is, are;+"
+        },
+        {
+          "key": "B",
+          "text": "has been;"
+        },
+        {
+          "key": "C",
+          "text": "have been;"
+        },
+        {
+          "key": "D",
+          "text": "was, were;"
+        },
+        {
+          "key": "E",
+          "text": "do, does;"
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "question": "When did Kulob celebrated its 2700 anniversary?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "in 2006;+"
+        },
+        {
+          "key": "B",
+          "text": "2016;"
+        },
+        {
+          "key": "C",
+          "text": "2004;"
+        },
+        {
+          "key": "D",
+          "text": "1996;"
+        },
+        {
+          "key": "E",
+          "text": "1997;"
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "question": "How many percent of the territory of Tajikistan are mountain?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "93%;+"
+        },
+        {
+          "key": "B",
+          "text": "21%;"
+        },
+        {
+          "key": "C",
+          "text": "85%;"
+        },
+        {
+          "key": "D",
+          "text": "28%;"
+        },
+        {
+          "key": "E",
+          "text": "99%;"
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "question": "Шаклидурусти Numerals – роёбед. Nine hundred and ninety nine?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "99;"
+        },
+        {
+          "key": "B",
+          "text": "999;+"
+        },
+        {
+          "key": "C",
+          "text": "9999;"
+        },
+        {
+          "key": "D",
+          "text": "919;"
+        },
+        {
+          "key": "E",
+          "text": "99999;"
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "question": "Тарљумаи вожаи  “зиёфати расмї”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "banquet formal;+"
+        },
+        {
+          "key": "B",
+          "text": "formal;"
+        },
+        {
+          "key": "C",
+          "text": "food;"
+        },
+        {
+          "key": "D",
+          "text": "Europe;"
+        },
+        {
+          "key": "E",
+          "text": "North Ameriсa;"
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "question": "Тарљумаи вожаи  “њамкории дуљониба”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "bilateral cooperation;+"
+        },
+        {
+          "key": "B",
+          "text": "Africa;"
+        },
+        {
+          "key": "C",
+          "text": "Ameriсa cooperation;"
+        },
+        {
+          "key": "D",
+          "text": "Europe;"
+        },
+        {
+          "key": "E",
+          "text": "North;"
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "question": "Тарљумаи вожаи  “Сафир” ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "embassy   ambassador;+"
+        },
+        {
+          "key": "B",
+          "text": "embassy;"
+        },
+        {
+          "key": "C",
+          "text": "South Ameriсa;"
+        },
+        {
+          "key": "D",
+          "text": "Europe;"
+        },
+        {
+          "key": "E",
+          "text": "North Ameriсa;"
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "question": "Тарљумаи вожаи  “шартномањои дуљониба”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "bilateral contracts;+"
+        },
+        {
+          "key": "B",
+          "text": "Africa bilateral;"
+        },
+        {
+          "key": "C",
+          "text": "South Ameriсa;"
+        },
+        {
+          "key": "D",
+          "text": "speak;"
+        },
+        {
+          "key": "E",
+          "text": "North Ameriсa;"
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "question": "Тарљумаи вожаи  “Ташкилот”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Organization;+"
+        },
+        {
+          "key": "B",
+          "text": "Kulob;"
+        },
+        {
+          "key": "C",
+          "text": "South Ameriсa;"
+        },
+        {
+          "key": "D",
+          "text": "Europe;"
+        },
+        {
+          "key": "E",
+          "text": "Organize;"
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "question": "Тарљумаи вожаи  “нишасти матбуотї”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "press conference;+"
+        },
+        {
+          "key": "B",
+          "text": "AfriCa;"
+        },
+        {
+          "key": "C",
+          "text": "South Ameriсa;"
+        },
+        {
+          "key": "D",
+          "text": "Talk;"
+        },
+        {
+          "key": "E",
+          "text": "presss;"
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "question": "Тарљумаи вожаи  “бањсњои сиёсї”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Political Debate;+"
+        },
+        {
+          "key": "B",
+          "text": "AfriCa;"
+        },
+        {
+          "key": "C",
+          "text": "Discussion;"
+        },
+        {
+          "key": "D",
+          "text": "Europe;"
+        },
+        {
+          "key": "E",
+          "text": "North Ameriсa;"
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "question": "Тарљумаи вожаи  “масъалањо”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "issues;+"
+        },
+        {
+          "key": "B",
+          "text": "problemus;"
+        },
+        {
+          "key": "C",
+          "text": "South Ameriсa;"
+        },
+        {
+          "key": "D",
+          "text": "Europe;"
+        },
+        {
+          "key": "E",
+          "text": "North;"
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "question": "Тарљумаи вожаи  “тавозуни ќудрат”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "balance of power;+"
+        },
+        {
+          "key": "B",
+          "text": "Power;"
+        },
+        {
+          "key": "C",
+          "text": "South Ameriсa;"
+        },
+        {
+          "key": "D",
+          "text": "Europe;"
+        },
+        {
+          "key": "E",
+          "text": "balance;"
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "question": "Тарљумаи вожаи  “сиёсати дохилї”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "domestic policy;+"
+        },
+        {
+          "key": "B",
+          "text": "Africa;"
+        },
+        {
+          "key": "C",
+          "text": "South Ameriсa;"
+        },
+        {
+          "key": "D",
+          "text": "policy;"
+        },
+        {
+          "key": "E",
+          "text": "domestic;"
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "question": "Тарљумаи вожаи  “сиёсати хориљї”ёбед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "foreign policy;+"
+        },
+        {
+          "key": "B",
+          "text": "foreign;"
+        },
+        {
+          "key": "C",
+          "text": "South Ameriсa;"
+        },
+        {
+          "key": "D",
+          "text": "Europe;"
+        },
+        {
+          "key": "E",
+          "text": "North policy;"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "question": "Match the words with antonyms?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "like;",
+          "right_key": "1",
+          "right_text": "dislike;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "join;",
+          "right_key": "2",
+          "right_text": "disjoin;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "known;",
+          "right_key": "3",
+          "right_text": "unknown;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "cover;",
+          "right_key": "4",
+          "right_text": "uncover;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "love;"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "go;",
+          "right_key": "1",
+          "right_text": "shopping;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "play;",
+          "right_key": "2",
+          "right_text": "the piano;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "draw;",
+          "right_key": "3",
+          "right_text": "picture;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "eat;",
+          "right_key": "4",
+          "right_text": "cake;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "recorder;"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Match the Past Simple of verbs?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "send;",
+          "right_key": "1",
+          "right_text": "sent;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "drive;",
+          "right_key": "2",
+          "right_text": "drove;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "win;",
+          "right_key": "3",
+          "right_text": "won;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "speak;",
+          "right_key": "4",
+          "right_text": "spoke;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "wind;"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "send;",
+          "right_key": "1",
+          "right_text": "letter;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "drive;",
+          "right_key": "2",
+          "right_text": "car;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "win;",
+          "right_key": "3",
+          "right_text": "prize;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "speak;",
+          "right_key": "4",
+          "right_text": "fast;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "due;"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "to watch;",
+          "right_key": "1",
+          "right_text": "TV;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "go to;",
+          "right_key": "2",
+          "right_text": "bed;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "to cook;",
+          "right_key": "3",
+          "right_text": "meals;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to do;",
+          "right_key": "4",
+          "right_text": "homework;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "computer;"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "What is the Past Simple of these verbs?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "watch;",
+          "right_key": "1",
+          "right_text": "watched;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "move;",
+          "right_key": "2",
+          "right_text": "moved;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "start;",
+          "right_key": "3",
+          "right_text": "started;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "close;",
+          "right_key": "4",
+          "right_text": "closed;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "closing;"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "English;",
+          "right_key": "1",
+          "right_text": "language;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "personal;",
+          "right_key": "2",
+          "right_text": "computer;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "high;",
+          "right_key": "3",
+          "right_text": "building;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "How;",
+          "right_key": "4",
+          "right_text": "long;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "England;"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "company;",
+          "right_key": "1",
+          "right_text": "house;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "offer;",
+          "right_key": "2",
+          "right_text": "manager;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "large;",
+          "right_key": "3",
+          "right_text": "from GML;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "football;",
+          "right_key": "4",
+          "right_text": "player;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "computer;"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "What is the opposite adjective?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "easy;",
+          "right_key": "1",
+          "right_text": "difficult;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "sunny;",
+          "right_key": "2",
+          "right_text": "hot;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "cold;",
+          "right_key": "3",
+          "right_text": "cloudy;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "interesting;",
+          "right_key": "4",
+          "right_text": "boring;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "high;"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "What is the Past Simple of these verbs?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "translate;",
+          "right_key": "1",
+          "right_text": "translated;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "move;",
+          "right_key": "2",
+          "right_text": "moved;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "start;",
+          "right_key": "3",
+          "right_text": "started;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "open;",
+          "right_key": "4",
+          "right_text": "opened;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "moving;"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Where;",
+          "right_key": "1",
+          "right_text": "are you;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "When;",
+          "right_key": "2",
+          "right_text": "did you come;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "How much;",
+          "right_key": "3",
+          "right_text": "does it cost;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "How;",
+          "right_key": "4",
+          "right_text": "old;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "dog;"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "wash;",
+          "right_key": "1",
+          "right_text": "your hands;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "do you do your;",
+          "right_key": "2",
+          "right_text": "homework;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "to have;",
+          "right_key": "3",
+          "right_text": "a contract;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to make;",
+          "right_key": "4",
+          "right_text": "talks;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Russia;"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Match up?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "it is half past five;",
+          "right_key": "1",
+          "right_text": "5:30;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "it is five o’clock;",
+          "right_key": "2",
+          "right_text": "5:00;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "it is a quarter past five;",
+          "right_key": "3",
+          "right_text": "5:15;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "it is a quarter to six;",
+          "right_key": "4",
+          "right_text": "5:45;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "6:00;"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "political;",
+          "right_key": "1",
+          "right_text": "сиёси;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a holiday;",
+          "right_key": "2",
+          "right_text": "рухсати;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "football;",
+          "right_key": "3",
+          "right_text": "stadium;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "autumn;",
+          "right_key": "4",
+          "right_text": "тиромоњ;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Зимистон;"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "to want;",
+          "right_key": "1",
+          "right_text": "хостан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "tea;",
+          "right_key": "2",
+          "right_text": "чой;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "coffee;",
+          "right_key": "3",
+          "right_text": "кахва;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to drink;",
+          "right_key": "4",
+          "right_text": "нушидан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "давидан;"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "to discuss;",
+          "right_key": "1",
+          "right_text": "мухокима кардан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "difficult;",
+          "right_key": "2",
+          "right_text": "мушкил;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "to help;",
+          "right_key": "3",
+          "right_text": "ёри расонидан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to be tired;",
+          "right_key": "4",
+          "right_text": "хаста шудан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "кор кардан;"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "a cinema;",
+          "right_key": "1",
+          "right_text": "синамо, кинотеатр;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a film;",
+          "right_key": "2",
+          "right_text": "филм;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "especially;",
+          "right_key": "3",
+          "right_text": "махсус;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "yesterday;",
+          "right_key": "4",
+          "right_text": "дируз;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "ноутбук;"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "autumn;",
+          "right_key": "1",
+          "right_text": "тирамох;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "spring;",
+          "right_key": "2",
+          "right_text": "бахор;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "winter;",
+          "right_key": "3",
+          "right_text": "зимистон;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "summer;",
+          "right_key": "4",
+          "right_text": "тобистон;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "истирохат;"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "easy;",
+          "right_key": "1",
+          "right_text": "осон, сабук;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "an idea;",
+          "right_key": "2",
+          "right_text": "акида;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "to tell;",
+          "right_key": "3",
+          "right_text": "накл кардан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "a river;",
+          "right_key": "4",
+          "right_text": "дарё;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "кул;"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "a holiday;",
+          "right_key": "1",
+          "right_text": "рухсати;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a thing;",
+          "right_key": "2",
+          "right_text": "ашё;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "resort;",
+          "right_key": "3",
+          "right_text": "осоишгох;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to enjoy;",
+          "right_key": "4",
+          "right_text": "халоват бурдан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "бокс;"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "television;",
+          "right_key": "1",
+          "right_text": "оинаи нилгун;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a program;",
+          "right_key": "2",
+          "right_text": "барнома;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "a comedy;",
+          "right_key": "3",
+          "right_text": "мазхака;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "a documentary;",
+          "right_key": "4",
+          "right_text": "хуччати;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "себ;"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "book;",
+          "right_key": "1",
+          "right_text": "store;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "motor;",
+          "right_key": "2",
+          "right_text": "bike;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "sun;",
+          "right_key": "3",
+          "right_text": "lights;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "traffic;",
+          "right_key": "4",
+          "right_text": "glasses;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "cup;"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "a bookshelf;",
+          "right_key": "1",
+          "right_text": "рафи китоб;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a magazine;",
+          "right_key": "2",
+          "right_text": "мачалла;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "music;",
+          "right_key": "3",
+          "right_text": "мусики;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "quiet;",
+          "right_key": "4",
+          "right_text": "ором;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "гарм;"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "hand;",
+          "right_key": "1",
+          "right_text": "bag;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "football;",
+          "right_key": "2",
+          "right_text": "stadium;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "week;",
+          "right_key": "3",
+          "right_text": "end;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "bus;",
+          "right_key": "4",
+          "right_text": "stop;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "car;"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "to live;",
+          "right_key": "1",
+          "right_text": "зиндаги кардан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "to like;",
+          "right_key": "2",
+          "right_text": "маъкул шудан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "own;",
+          "right_key": "3",
+          "right_text": "худи, шахси;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "floor;",
+          "right_key": "4",
+          "right_text": "ошёна;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "об;"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "a garden;",
+          "right_key": "1",
+          "right_text": "бог;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a study;",
+          "right_key": "2",
+          "right_text": "утоки кори;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "to invite;",
+          "right_key": "3",
+          "right_text": "даъват намудан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to spend;",
+          "right_key": "4",
+          "right_text": "гузаронидан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "китоб;"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "watch;",
+          "right_key": "1",
+          "right_text": "TV;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "listen to;",
+          "right_key": "2",
+          "right_text": "music;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "get up;",
+          "right_key": "3",
+          "right_text": "late;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "cook;",
+          "right_key": "4",
+          "right_text": "dinner;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "look for;"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "toothache;",
+          "right_key": "1",
+          "right_text": "дандондард, дарди дандон;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "touch;",
+          "right_key": "2",
+          "right_text": "даст расондан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "treat;",
+          "right_key": "3",
+          "right_text": "табобат (муолиҷа) кардан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "treatment;",
+          "right_key": "4",
+          "right_text": "табобат (муолиҷа);"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "try;"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "typhoid;",
+          "right_key": "1",
+          "right_text": "домана, тифи шикам;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "widely;",
+          "right_key": "2",
+          "right_text": "васеъ, кушод;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "without;",
+          "right_key": "3",
+          "right_text": "бе, бидуни;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "wonderful;",
+          "right_key": "4",
+          "right_text": "ҳайратангез, тааҷҷубовар;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Worry;"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "wound;",
+          "right_key": "1",
+          "right_text": "захм;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "soap;",
+          "right_key": "2",
+          "right_text": "собун задан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "soft;",
+          "right_key": "3",
+          "right_text": "мулоим, нарм;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "solution;",
+          "right_key": "4",
+          "right_text": "Маҳлул;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "sore;"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "special;",
+          "right_key": "1",
+          "right_text": "Махсус;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "spit;",
+          "right_key": "2",
+          "right_text": "туф кардан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "sponge;",
+          "right_key": "3",
+          "right_text": "Исфанҷ;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "spot;",
+          "right_key": "4",
+          "right_text": "доғ, хол;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Spread;"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "stage;",
+          "right_key": "1",
+          "right_text": "давра, марҳала, марҳилаи беморй;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "stand;",
+          "right_key": "2",
+          "right_text": "истодан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "stay;",
+          "right_key": "3",
+          "right_text": "мондан, истодан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "sterile;",
+          "right_key": "4",
+          "right_text": "бесироят, тамъизкардашуда;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Stitch;"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "stomach;",
+          "right_key": "1",
+          "right_text": "Меъда;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "strength;",
+          "right_key": "2",
+          "right_text": "Қувва;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "take;",
+          "right_key": "3",
+          "right_text": "гирифтан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to take care of;",
+          "right_key": "4",
+          "right_text": "парасторй (нигоҳубин) кардан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Talk;"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "tall;",
+          "right_key": "1",
+          "right_text": "баланд;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "task;",
+          "right_key": "2",
+          "right_text": "Вазифа;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "taste;",
+          "right_key": "3",
+          "right_text": "маза, лаззат, таъм;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "teeth;",
+          "right_key": "4",
+          "right_text": "Дандонҳо;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Tell;"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "temperature;",
+          "right_key": "1",
+          "right_text": "ҳарорат;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "temporary;",
+          "right_key": "2",
+          "right_text": "муваққатй;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "reduce;",
+          "right_key": "3",
+          "right_text": "паст (кам) кардан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "refuse;",
+          "right_key": "4",
+          "right_text": "инкор кардан, рад кардан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "relieve;"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "remain;",
+          "right_key": "1",
+          "right_text": "мондан, боқй мондан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "remember;",
+          "right_key": "2",
+          "right_text": "дар хотир доштан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "remove;",
+          "right_key": "3",
+          "right_text": "гирифтан, бардоштан, бурдан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "research;",
+          "right_key": "4",
+          "right_text": "тадқиқот, таҳқиқот, муоина;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "rest;"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "restless;",
+          "right_key": "1",
+          "right_text": "ноором, нороҳат, беқарор;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "result;",
+          "right_key": "2",
+          "right_text": "натиҷа;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "rich;",
+          "right_key": "3",
+          "right_text": "бой, сарватманд;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "rickets;",
+          "right_key": "4",
+          "right_text": "бемории шмрзада, рахит;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Right;"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "rinse;",
+          "right_key": "1",
+          "right_text": "обгардон кардан,  чайқонидан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "rise;",
+          "right_key": "2",
+          "right_text": "бардоштан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "root;",
+          "right_key": "3",
+          "right_text": "реша;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "round;",
+          "right_key": "4",
+          "right_text": "гирда, доирашакл;"
+        },
+        {
+          "left_key": "E",
+          "left_text": "rub;",
+          "right_key": "5",
+          "right_text": "молидан, соидан, тарошидан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "6",
+          "text": "rude;"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "rule;",
+          "right_key": "1",
+          "right_text": "Қоида;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "run;",
+          "right_key": "2",
+          "right_text": "давидан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "running nose;",
+          "right_key": "3",
+          "right_text": "зуком;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "scarlet fever;",
+          "right_key": "4",
+          "right_text": "махмалак;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Science;"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "scientific;",
+          "right_key": "1",
+          "right_text": "олим, донишманд;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "scissors;",
+          "right_key": "2",
+          "right_text": "қайчй;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "scratch;",
+          "right_key": "3",
+          "right_text": "изи ханҷол (харош, харошида);"
+        },
+        {
+          "left_key": "D",
+          "left_text": "secure;",
+          "right_key": "4",
+          "right_text": "хоридан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "sedative;"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "send;",
+          "right_key": "1",
+          "right_text": "фиристондан, равон намудан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "separate;",
+          "right_key": "2",
+          "right_text": "ҷудогона, алоҳида;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "serious;",
+          "right_key": "3",
+          "right_text": "ҷиддй;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "set;",
+          "right_key": "4",
+          "right_text": "гирифтан, ҳуруфчинй, маҷмӯъ;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "severe;"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "shake;",
+          "right_key": "1",
+          "right_text": "ҷунбондан, афшондан, ҷунбонда;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "shallow;",
+          "right_key": "2",
+          "right_text": "болой, рӯякй, сатҳй;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "shiver;",
+          "right_key": "3",
+          "right_text": "табуларза гирифтан, ларзидан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "shock;",
+          "right_key": "4",
+          "right_text": "садма, шок;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "shoulder;"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "shower;",
+          "right_key": "1",
+          "right_text": "ҳаммоми аз боло обрезанда;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "sick;",
+          "right_key": "2",
+          "right_text": "касал, бемор;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "side-effect;",
+          "right_key": "3",
+          "right_text": "таъсироти нохуш;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "sign;",
+          "right_key": "4",
+          "right_text": "аломат, нишона;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "skin;"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "slight;",
+          "right_key": "1",
+          "right_text": "суст, нозук, зудшикан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "slow;",
+          "right_key": "2",
+          "right_text": "оҳиста;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "smallpox;",
+          "right_key": "3",
+          "right_text": "нағзак;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "smell;",
+          "right_key": "4",
+          "right_text": "бӯй;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Pills;"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "pillow;",
+          "right_key": "1",
+          "right_text": "болишт, тагсарй;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "place;",
+          "right_key": "2",
+          "right_text": "ҷой;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "plague;",
+          "right_key": "3",
+          "right_text": "тоун;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "plate;",
+          "right_key": "4",
+          "right_text": "табақча;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "pleasant;"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "pleasure;",
+          "right_key": "1",
+          "right_text": "хурсандй, лаззат, хузуру ҳаловат;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "pneumonia;",
+          "right_key": "2",
+          "right_text": "илтиҳоби шуш;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "poison;",
+          "right_key": "3",
+          "right_text": "заҳр;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "poisoning;",
+          "right_key": "4",
+          "right_text": "заҳролудшавй;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "poor;"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "popular;",
+          "right_key": "1",
+          "right_text": "машҳур, оммафаҳм;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "posture;",
+          "right_key": "2",
+          "right_text": "қомат;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "powder;",
+          "right_key": "3",
+          "right_text": "хока;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "prescribe;",
+          "right_key": "4",
+          "right_text": "дору фармудан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "prescription;"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "press;",
+          "right_key": "1",
+          "right_text": "зер (пахш) кардан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "prevent;",
+          "right_key": "2",
+          "right_text": "пешгирй кардан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "raise;",
+          "right_key": "3",
+          "right_text": "бардоштан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "rapid;",
+          "right_key": "4",
+          "right_text": "тезшуда, босуръат;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "rash;"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "rate;",
+          "right_key": "1",
+          "right_text": "касрат, басомад;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "rather;",
+          "right_key": "2",
+          "right_text": "хушҳолона, хушнудона;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "probe;",
+          "right_key": "3",
+          "right_text": "мисбор, санд;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "produce;",
+          "right_key": "4",
+          "right_text": "ба амал овардан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "product;"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "profession;",
+          "right_key": "1",
+          "right_text": "касб;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "prolong;",
+          "right_key": "2",
+          "right_text": "дароз кардан, давом додан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "promise;",
+          "right_key": "3",
+          "right_text": "ваъда додан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "prompt;",
+          "right_key": "4",
+          "right_text": "тез, босуръат;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Protect;"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "protein;",
+          "right_key": "1",
+          "right_text": "сафеда;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "pulse;",
+          "right_key": "2",
+          "right_text": "набз;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "put;",
+          "right_key": "3",
+          "right_text": "гузоштан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "nail;",
+          "right_key": "4",
+          "right_text": "нохун, мех;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Native;"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "nausea;",
+          "right_key": "1",
+          "right_text": "дилбехузурй, дилбеҷошавй;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "neck;",
+          "right_key": "2",
+          "right_text": "Гардан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "need;",
+          "right_key": "3",
+          "right_text": "эҳтиёҷ доштан;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "nerve;",
+          "right_key": "4",
+          "right_text": "Асаб;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Nervous;"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "aunt;",
+          "right_key": "1",
+          "right_text": "амма;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "aunt;",
+          "right_key": "2",
+          "right_text": "хола;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Australia;",
+          "right_key": "3",
+          "right_text": "Австралия;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Austria;",
+          "right_key": "4",
+          "right_text": "Австрия;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "эҳтиёҷ доштан;"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "authenticate;",
+          "right_key": "1",
+          "right_text": "тасдик кардан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "average;",
+          "right_key": "2",
+          "right_text": "миёна;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "averse;",
+          "right_key": "3",
+          "right_text": "безбр, бемайл;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "available;",
+          "right_key": "4",
+          "right_text": "дастрас;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Australia;"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "question": "awake?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "award;",
+          "right_key": "1",
+          "right_text": "мукофот;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "aware;",
+          "right_key": "2",
+          "right_text": "дарк кардан;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "awful;",
+          "right_key": "3",
+          "right_text": "Дахшатнок;"
+        }
+      ],
+      "extra_numeric_options": []
+    },
+    {
+      "number": 56,
+      "question": "Match up the words?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "wash;",
+          "right_key": "1",
+          "right_text": "your hands;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "do you do your;",
+          "right_key": "2",
+          "right_text": "homework;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "to have;",
+          "right_key": "3",
+          "right_text": "a contract;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to make;",
+          "right_key": "4",
+          "right_text": "talks;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Russia;"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "question": "Match up?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "it is half past five;",
+          "right_key": "1",
+          "right_text": "5:30;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "it is five o’clock;",
+          "right_key": "2",
+          "right_text": "5:00;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "it is a quarter past five;",
+          "right_key": "3",
+          "right_text": "5:15;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "it is a quarter to six;",
+          "right_key": "4",
+          "right_text": "5:45;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "22 :00;"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "question": "Match up the translations?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "to want;",
+          "right_key": "1",
+          "right_text": "хостан;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "tea;",
+          "right_key": "2",
+          "right_text": "чой;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "coffee;",
+          "right_key": "3",
+          "right_text": "кахва;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to drink;",
+          "right_key": "4",
+          "right_text": "нушидан;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "давидан;"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "question": "Complete the sentences?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "I have translated the letters;",
+          "right_key": "1",
+          "right_text": "from  Blake and Sons;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "In which room in your flat do you like to;",
+          "right_key": "2",
+          "right_text": "spend an evening;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Mr. Blake would like to;",
+          "right_key": "3",
+          "right_text": "drink some tea;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "What goods of Blake and Company are;",
+          "right_key": "4",
+          "right_text": "you interested in;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "your flat do you like to;"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "question": "Complete the sentences?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Our company has just started producing;",
+          "right_key": "1",
+          "right_text": "a new models of chemical equipment;"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Hello! Is that Steal and Company? Yes;",
+          "right_key": "2",
+          "right_text": "I would like to speak to Mr. Steal;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Mr. Blake has come to;",
+          "right_key": "3",
+          "right_text": "his office very late today;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "The machines of  Blake and Company;",
+          "right_key": "4",
+          "right_text": "are of high quality;"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "5",
+          "text": "Blake and Company;"
+        }
+      ]
+    }
+  ]
+}
