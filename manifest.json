@@ -31,5 +31,11 @@
       "teacher" : "Назарова З",
       "url": "https://kilobarkash.github.io/test_for/tests/KTM.json"
     },
+    {
+      "id": "6",
+      "name": "Java",
+      "teacher" : "Қадамшоев",
+      "url": "https://kilobarkash.github.io/test_for/tests/java.json"
+    },
   ],
 }
