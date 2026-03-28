@@ -1,0 +1,2710 @@
+{
+  "teacher": "Қадамшоев",
+  "test_name": "Java",
+  "total_questions": 110,
+  "single_choice_count": 99,
+  "matching_count": 11,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Синф дар Java чӣ маъно дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "сатҳи мураккабии барнома"
+        },
+        {
+          "key": "B",
+          "text": "унсури асосии барномасозии ба объект нигаронидашуда дар забони Java+"
+        },
+        {
+          "key": "C",
+          "text": "танҳо яке аз номҳои тағийрёбандахои имконпазир"
+        },
+        {
+          "key": "D",
+          "text": "ҳамаи операторҳо вобаста ба мураккабии истифодаашон ба синфҳо тақсим Мешаванд"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Чӣ тавр як синф дар код эълон карда мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "select*from  class MyClass {}"
+        },
+        {
+          "key": "B",
+          "text": "class MyClass {}+"
+        },
+        {
+          "key": "C",
+          "text": "new class MyClass {}"
+        },
+        {
+          "key": "D",
+          "text": "myClass extends class {}"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Коди мазкури барнома чӣ натиҷа медиҳад?int a = 5;
+
+int b = 5 + a;
+
+if (a > b) {
+
+System.out.println("a > b");
+
+} else if (a < b) { (ab)
+
+System.out.println("a < b");
+
+} else {
+
+System.out.println("a b");
+
+}
+",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a = b"
+        },
+        {
+          "key": "B",
+          "text": "a < b+"
+        },
+        {
+          "key": "C",
+          "text": "a > b"
+        },
+        {
+          "key": "D",
+          "text": "матни барнома нодуруст навишта шудааст ва ҳеҷ чизро нишон намедиҳад"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Оператори NEW барои чӣ истифода бурда мешавад ?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "барои сохтани тағйирёбандаи нав"
+        },
+        {
+          "key": "B",
+          "text": "барои эълон кардани синфи нав"
+        },
+        {
+          "key": "C",
+          "text": "барои сохтани нусхаи синф+"
+        },
+        {
+          "key": "D",
+          "text": "барои интиқоли маълумот"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Диапазони навъи маълумотњои  double дар Java чӣ  гуна қимат қабул мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "аз 4.9e-324 то 1.8e+308"
+        },
+        {
+          "key": "B",
+          "text": "аз -1.7*10308 то +1.7*10308+"
+        },
+        {
+          "key": "C",
+          "text": "аз -9223372036854775808 то 9223372036854775807"
+        },
+        {
+          "key": "D",
+          "text": "ҳеҷ кадоме аз гуфтаҳои боло"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Ба шарҳу эзоҳи бисёрсатра кадоме аз инҳо дохил мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "//"
+        },
+        {
+          "key": "B",
+          "text": "/*       */+"
+        },
+        {
+          "key": "C",
+          "text": "\\\\"
+        },
+        {
+          "key": "D",
+          "text": "!!"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Кадоме аз ин усулҳои синфи String барои гирифтани дарозии объекти String истифода  мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sizeof()"
+        },
+        {
+          "key": "B",
+          "text": "length()+"
+        },
+        {
+          "key": "C",
+          "text": "get()"
+        },
+        {
+          "key": "D",
+          "text": "lengthof()"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Ин код (матни барном чӣ натиҷа медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "my test this is"
+        },
+        {
+          "key": "B",
+          "text": "my test my test+"
+        },
+        {
+          "key": "C",
+          "text": "this is this is"
+        },
+        {
+          "key": "D",
+          "text": "this is my test"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Диапазони навъи маълумотҳои long дар Java чӣ гуна аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "аз -128 то 127"
+        },
+        {
+          "key": "B",
+          "text": "аз -9223372036854775808 то 9223372036854775807+"
+        },
+        {
+          "key": "C",
+          "text": "аз -32768 до 32767"
+        },
+        {
+          "key": "D",
+          "text": "аз -2147483648 то 2147483647"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Ба шарху эзоҳи яксатра кадоме аз инҳо дохил мешаванд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "/*       */"
+        },
+        {
+          "key": "B",
+          "text": "//+"
+        },
+        {
+          "key": "C",
+          "text": "!!"
+        },
+        {
+          "key": "D",
+          "text": "\\\\"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Диапазони навъи маълумотхои  char дар Java чӣ гуна аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "аз -128 то 127"
+        },
+        {
+          "key": "B",
+          "text": "аз 0 то 65535+"
+        },
+        {
+          "key": "C",
+          "text": "аз 0 то 256"
+        },
+        {
+          "key": "D",
+          "text": "ҳеҷ кадоме аз гуфтаҳои боло"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Кадоме аз инҳо калимаи калидӣ дар Java аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "file"
+        },
+        {
+          "key": "B",
+          "text": "if+"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "ҳеҷ кадоме аз гуфтаҳои боло"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Барои коркарди барнома дар забони Java кадом компонент зарур аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "RDK"
+        },
+        {
+          "key": "B",
+          "text": "JDK+"
+        },
+        {
+          "key": "C",
+          "text": "JDC"
+        },
+        {
+          "key": "D",
+          "text": "SDC"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Методи main дар Java кадом нақшро иҷро менамояд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "ҳеҷ кадоме аз гуфтаҳои боло"
+        },
+        {
+          "key": "B",
+          "text": "усули асоси дар барномаи Java буда, он нуқтаи воридшавӣ ба барнома мебошад+"
+        },
+        {
+          "key": "C",
+          "text": "дастрас будани синф ба ҳама, яъне мо метавонем онро аз тариқи сатри фамон ба кор дарорем"
+        },
+        {
+          "key": "D",
+          "text": "блоки асосии созанда дар барномаи Java мебошад, ки ҳамчун дастурамал фаҳмида мешавад"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Блоки асосии созанда дар барномаи Java, ки ҳамчун дастурамал(инстуркция) фаҳмида  мешавад, чӣ ном дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "string args"
+        },
+        {
+          "key": "B",
+          "text": "statement+"
+        },
+        {
+          "key": "C",
+          "text": "scanner"
+        },
+        {
+          "key": "D",
+          "text": "util"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Барои сабти маълумот дар барнома чӣ истифода бурда мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "байт"
+        },
+        {
+          "key": "B",
+          "text": "тағйирёбанда+"
+        },
+        {
+          "key": "C",
+          "text": "типи маълумот"
+        },
+        {
+          "key": "D",
+          "text": "базаи маълумот"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Навишт  int x; маънои чиро дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "эълонкунии таѓйирёбандаи х, ҳамчун намуди доимӣ"
+        },
+        {
+          "key": "B",
+          "text": "эълонкунии тағйирёбандаи х, ҳамчун намуди бутун+"
+        },
+        {
+          "key": "C",
+          "text": "эълонкунии тағйирёбандаи х, ҳамчун намуди ҳақиқӣ"
+        },
+        {
+          "key": "D",
+          "text": "ҳамаи ҷавобҳо дурустанд"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Намуди маълумот гуфта чиро дар назар медоранд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "хориҷкунии адад"
+        },
+        {
+          "key": "B",
+          "text": "диапазон қиматро муайян мекунад, ки метавонад тағйирёбанда  ё ин ки доимиро нигоҳ дорад+"
+        },
+        {
+          "key": "C",
+          "text": "дохилкунии маълумоти рамзӣ"
+        },
+        {
+          "key": "D",
+          "text": "ҳеҷ кадоме аз гуфтаҳои боло"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Ба ғайр аз тағйирёбанда дар Java  барои сабти маълумот боз чӣ истифода бурда мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "сатр"
+        },
+        {
+          "key": "B",
+          "text": "доимӣ+"
+        },
+        {
+          "key": "C",
+          "text": "рамз"
+        },
+        {
+          "key": "D",
+          "text": "адад"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Дар куҷо тағирёбандаи содда дуруст сохта шудааст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "int[] a;"
+        },
+        {
+          "key": "B",
+          "text": "float x = 23.3f;+"
+        },
+        {
+          "key": "C",
+          "text": "byte x = 100000;"
+        },
+        {
+          "key": "D",
+          "text": "char str = 'ab';"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Дар куҷо массив дуруст сохта шудааст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "int[] a = int[] {1, 2, 3, 4, 5};"
+        },
+        {
+          "key": "B",
+          "text": "int[] a = new int[] {1, 2, 3, 4, 5};+"
+        },
+        {
+          "key": "C",
+          "text": "int[] a = new int {1, 2, 3, 4, 5};"
+        },
+        {
+          "key": "D",
+          "text": "int a = new int[] {1, 2, 3, 4, 5};"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Дар куҷо хориҷкуни дуруст сурат мегирад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "System.out(“Hello World”);"
+        },
+        {
+          "key": "B",
+          "text": "print(“Hello World”);"
+        },
+        {
+          "key": "C",
+          "text": "System.print(“Hello World”);"
+        },
+        {
+          "key": "D",
+          "text": "System.out.println (“Hello World”);+"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Ин код чӣ натиҷа медиҳад? int a = 9; boolean isDone = false; if (a % 3 != 0 || !isDone) System.out.print(\"Иҷро шуд \");",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҳамат дуруст аст"
+        },
+        {
+          "key": "B",
+          "text": "Матнро нишон медиҳад: \"Иҷро шуд\"+"
+        },
+        {
+          "key": "C",
+          "text": "Хатогӣ дар код"
+        },
+        {
+          "key": "D",
+          "text": "Ҳеҷ чиз ба консол чоп карда намешавад"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Ҳар як файл бояд номгузорӣ шавад...",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "бо номи аввалин китобхонаи дар он буда"
+        },
+        {
+          "key": "B",
+          "text": "бо номи синф дар он+"
+        },
+        {
+          "key": "C",
+          "text": "аз рӯи номи баста"
+        },
+        {
+          "key": "D",
+          "text": "бо номи усули асосй дар он"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Ҳамаи унсурҳои массив чӣ умумияте доранд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "аз рӯи номи онҳо"
+        },
+        {
+          "key": "B",
+          "text": "аз рӯи навъи маълумоти онҳо+"
+        },
+        {
+          "key": "C",
+          "text": "аз рӯи суроғаи онҳо дар хотира"
+        },
+        {
+          "key": "D",
+          "text": "аз рӯи андозаи онҳо"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Роҳи дурусти бахшидани ќимати нав ба массиви бисёрченака дар куҷост?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a{0}{0} = 1;"
+        },
+        {
+          "key": "B",
+          "text": "a[0][0] = 1;+"
+        },
+        {
+          "key": "C",
+          "text": "a[0 0] = 1;"
+        },
+        {
+          "key": "D",
+          "text": "a[0, 0] = 1;"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Кадом усул ба шумо имкон медиҳад, ки барномаро дар Java иҷро кунед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "барнома тавассути тартиб додани лоиҳа оғоз карда мешавад, усули асосӣ вуҷуд надорад"
+        },
+        {
+          "key": "B",
+          "text": "аз усули main дар ҳама гуна синфҳо+"
+        },
+        {
+          "key": "C",
+          "text": "аз синфе, ки аввал навишта шудааст ва аз усулҳое, ки дар дохили он ҳастанд"
+        },
+        {
+          "key": "D",
+          "text": "ҳама гуна, он метавонад дар танзимоти лоиҳа муқаррар карда шавад"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Дар ин ҷо хатогӣ дар куҷо аст? int a, b; System.out.print(\"Адади якумро дохил кунед: \"); Scanner num = new Scanner(System.in); a = num.nextFloat ();",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "ба ҷои System.in шумо бояд System.out -ро истифода баред"
+        },
+        {
+          "key": "B",
+          "text": "ба ҷои nextFloat шумо бояд nextInt-ро истифода баред+"
+        },
+        {
+          "key": "C",
+          "text": "int a, b - бояд алоҳида навишта шавад"
+        },
+        {
+          "key": "D",
+          "text": "Хатогиҳо нест"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Кадом синф барои гирифтани маълумот аз корбар масъул аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "System"
+        },
+        {
+          "key": "B",
+          "text": "Scanner+"
+        },
+        {
+          "key": "C",
+          "text": "Out"
+        },
+        {
+          "key": "D",
+          "text": "Scaner"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Дар Java кадом амалҳои математикӣ мавҷуданд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "+, -, *, /, --, +"
+        },
+        {
+          "key": "B",
+          "text": "Ҳамаи ҷавобҳои номбаршуда+"
+        },
+        {
+          "key": "C",
+          "text": "+, -, *, /"
+        },
+        {
+          "key": "D",
+          "text": "+, -, *, /, %"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Функсия чанд параметр гирифта метавонад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "На бештар аз 5"
+        },
+        {
+          "key": "B",
+          "text": "Миқдори номаҳдуд+"
+        },
+        {
+          "key": "C",
+          "text": "На бештар аз 10"
+        },
+        {
+          "key": "D",
+          "text": "На бештар аз 3"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Кадом рақамҳо бароварда мешаванд? for (int i = 10; i < 20; i += 2) { if (i > 15) break; if (i % 4 == 0) continue; System.out.println (i); }",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "11, 13, 15"
+        },
+        {
+          "key": "B",
+          "text": "10, 14+"
+        },
+        {
+          "key": "C",
+          "text": "10, 12, 14"
+        },
+        {
+          "key": "D",
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Шумо Java-ро барои чӣ истифода бурда метавонед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Барои сохтани бозиҳо"
+        },
+        {
+          "key": "B",
+          "text": "Барои ҳама чизҳои дар боло зикршуда+"
+        },
+        {
+          "key": "C",
+          "text": "Барои сохтани барномаҳо барои компютер"
+        },
+        {
+          "key": "D",
+          "text": "Барои сохтани вебсайтҳо"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Ба оператори сегона(тернарный)  чї дохил аст:",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "^"
+        },
+        {
+          "key": "B",
+          "text": "? :+"
+        },
+        {
+          "key": "C",
+          "text": "!"
+        },
+        {
+          "key": "D",
+          "text": "&&"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Файлҳои коди ибтидоии Java кадом ќисми иловагиро доранд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": ".class"
+        },
+        {
+          "key": "B",
+          "text": ".java+"
+        },
+        {
+          "key": "C",
+          "text": ".classpath"
+        },
+        {
+          "key": "D",
+          "text": ".javac"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "Java ба кадом забони барномасозӣ дохил мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "забонии барномасозии сатҳ паст"
+        },
+        {
+          "key": "B",
+          "text": "забонии барномасозии сатҳи баланд+"
+        },
+        {
+          "key": "C",
+          "text": "забонии барномасозии сатҳи миёна"
+        },
+        {
+          "key": "D",
+          "text": "ҳамаи саволҳо дурустанд"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Кадом баста ба таври худкор ба Java ворид карда мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "java.text"
+        },
+        {
+          "key": "B",
+          "text": "java.lang+"
+        },
+        {
+          "key": "C",
+          "text": "java.util"
+        },
+        {
+          "key": "D",
+          "text": "ҳама бастаҳо бояд ба таври возеҳ нишон дода шаванд"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Нишон диҳед, ки кадом намуди додаҳо, аз ҷумлаи додаҳои нишондодашуда, миқдори бештари фазои хотираро ишғол мекунанд.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "float"
+        },
+        {
+          "key": "B",
+          "text": "double+"
+        },
+        {
+          "key": "C",
+          "text": "byte"
+        },
+        {
+          "key": "D",
+          "text": "int"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Кадом оператори арифметикӣ дар Java вуҷуд надорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "+;"
+        },
+        {
+          "key": "B",
+          "text": "*;"
+        },
+        {
+          "key": "C",
+          "text": "%;"
+        },
+        {
+          "key": "D",
+          "text": "?!;+"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Кадом намуди табдили худкор ба амал намеояд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "int в long"
+        },
+        {
+          "key": "B",
+          "text": "char в short+"
+        },
+        {
+          "key": "C",
+          "text": "byte в short"
+        },
+        {
+          "key": "D",
+          "text": "long в float"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Кадом намуди маълумот изҳороти switch дастгирӣ намекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "int"
+        },
+        {
+          "key": "B",
+          "text": "long+"
+        },
+        {
+          "key": "C",
+          "text": "char"
+        },
+        {
+          "key": "D",
+          "text": "string"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Кадом ифода барои сохтани тағирёбанда ва массив аз ҷиҳати синтаксисӣ нодуруст аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "int array = new int[1];+"
+        },
+        {
+          "key": "B",
+          "text": "int[] array = new int[1];"
+        },
+        {
+          "key": "C",
+          "text": "int array[] = new int[0];"
+        },
+        {
+          "key": "D",
+          "text": "int[] array = new int[] {1, 2};"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Конструктори синфи зеринро чӣ тавр даъват кардан мумкин аст? class SomeСlass { }",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "construct()"
+        },
+        {
+          "key": "B",
+          "text": "SomeClass()+"
+        },
+        {
+          "key": "C",
+          "text": "someClass()"
+        },
+        {
+          "key": "D",
+          "text": "constructor()"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Танҳо намудҳои бутунро интихоб кунед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "int+"
+        },
+        {
+          "key": "B",
+          "text": "short"
+        },
+        {
+          "key": "C",
+          "text": "long"
+        },
+        {
+          "key": "D",
+          "text": "char"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Дар натиҷаи иҷроиши код чӣ натиҷа дода мешавад? public class Main { public static void main(String[] args) { int a = 10; int b = 2; if ((a++ > 0) | (b++ > 0)) { b += 4; } System.out.println(b); } }",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "2. 6"
+        },
+        {
+          "key": "B",
+          "text": "1. 7+"
+        },
+        {
+          "key": "C",
+          "text": "3. 2"
+        },
+        {
+          "key": "D",
+          "text": "1.0"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Кадом сабт ҳангоми тартиб додан ба хатогӣ оварда мерасонад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "int a = 12;"
+        },
+        {
+          "key": "B",
+          "text": "Ҳама сабтҳо дурустанд.+"
+        },
+        {
+          "key": "C",
+          "text": "int a = 014;"
+        },
+        {
+          "key": "D",
+          "text": "int a = 1_2;"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Барои дар хотира нигоҳ доштани аломат кадом рамзгузорӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "ASCII"
+        },
+        {
+          "key": "B",
+          "text": "UTF-16+"
+        },
+        {
+          "key": "C",
+          "text": "UTF-8"
+        },
+        {
+          "key": "D",
+          "text": "Windows-1250"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "Мақсади оператори New  аз чї иборат аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Эълони тағирёбандаи нав."
+        },
+        {
+          "key": "B",
+          "text": "Эҷоди объекти нав.+"
+        },
+        {
+          "key": "C",
+          "text": "Эълони синфи нав."
+        },
+        {
+          "key": "D",
+          "text": "Эълони массив нав"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Чӣ тавр як синф дар код эълон карда мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "new class MyClass {}"
+        },
+        {
+          "key": "B",
+          "text": "class MyClass {}+"
+        },
+        {
+          "key": "C",
+          "text": "select * from class MyClass {}"
+        },
+        {
+          "key": "D",
+          "text": "myClass extends class {}"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? public class Test { public static void main(String[] args) { int x = 5; System.out.println(x++); } }",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "5+"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "Хатогӣ"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "question": "Амалӣ унариро нишон диҳед?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "/"
+        },
+        {
+          "key": "B",
+          "text": "+++"
+        },
+        {
+          "key": "C",
+          "text": "*-/"
+        },
+        {
+          "key": "D",
+          "text": "#@"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "question": "Кадом намуди маълумот барои нигоҳ доштани ададҳои даҳӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "int"
+        },
+        {
+          "key": "B",
+          "text": "double+"
+        },
+        {
+          "key": "C",
+          "text": "float"
+        },
+        {
+          "key": "D",
+          "text": "string"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "question": "Кадом калимаи калидӣ барои эҷоди объекти нав истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "creat"
+        },
+        {
+          "key": "B",
+          "text": "new+"
+        },
+        {
+          "key": "C",
+          "text": "эҷод кардан"
+        },
+        {
+          "key": "D",
+          "text": "инстанcия"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "question": "Коди зерин чӣ натиҷа медиҳад? Java int x = 5; int y = 3; System.out.println(x + y * 2);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "13"
+        },
+        {
+          "key": "B",
+          "text": "11+"
+        },
+        {
+          "key": "C",
+          "text": "16"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "question": "Матни  зерин чӣ гуна аст? Int x=5 System.out.println(x++);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "Хатогӣ+"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? int x = 10; int y = 5; System.out.println(x > y ? \"Калонтар\" : \"Хурдтар\");",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Хурдтар"
+        },
+        {
+          "key": "B",
+          "text": "Калонтар+"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "question": "Дар консол чи натиҷаи нишон дода мешавад? int x = 7; System.out.println(x % 3);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "1+"
+        },
+        {
+          "key": "C",
+          "text": "0"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "question": "Чӣ тавр рамзи зер иҷро мешавад? int x = 10; x += 5; System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "15+"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "question": "Рамзи дар поён овардашуда чӣ натиҷа медиҳад? boolean x = true; boolean y = false; System.out.println(x && y);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "дуруст"
+        },
+        {
+          "key": "B",
+          "text": "нодуруст+"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "question": "Пас аз иҷрои ин код чӣ рух медиҳад? boolean x = true; boolean y = false; System.out.println(x || y);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "нодуруст"
+        },
+        {
+          "key": "B",
+          "text": "дуруст+"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "question": "Баромади ин рамз чӣ гуна хоҳад буд? int x = 5; x = x << 2; System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "20+"
+        },
+        {
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "key": "D",
+          "text": "25"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "question": "Ин рамз чӣ гуна натиҷа медиҳад? int x = 20; x = x >> 2; System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "5+"
+        },
+        {
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "key": "D",
+          "text": "80"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "question": "Ин рамз чӣ гуна натиҷаи мантиқиро медиҳад? int x = 10; int y = 3; System.out.println(x & y);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "2+"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "question": "Натиҷаи иҷрои ин рамз чи гӯна аст? int x = 10; int y = 3; System.out.println(x | y);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "11+"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "13"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "question": "Ин рамз чӣ қиматҳоро бармегардонад? int x = 10; int y = 3; System.out.println(x ^ y);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "9+"
+        },
+        {
+          "key": "C",
+          "text": "11"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "question": "Рамзи дар поён овардашуда чӣ натиҷа медиҳад? int x = 10; int y = 5; System.out.println(x > y ? \"Калонтар\" : \"Хурдтар\");",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Хурдтар"
+        },
+        {
+          "key": "B",
+          "text": "Калонтар+"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "question": "Натиҷаи иҷрои рамзи зерин чӣ гуна аст? int x = 7; System.out.println(x % 3);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "1+"
+        },
+        {
+          "key": "C",
+          "text": "0"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "question": "Пас аз иҷрои ин код чӣ ҳодиса рух медиҳад? int x = 10; x += 5; System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "15+"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? boolean x = true; boolean y = false; System.out.println(x && y);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "дуруст"
+        },
+        {
+          "key": "B",
+          "text": "нодуруст+"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "question": "Ин рамз чӣ гуна натиҷаи таркибӣ медиҳад? boolean x = true; boolean y = false; System.out.println(x || y);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "нодуруст"
+        },
+        {
+          "key": "B",
+          "text": "дуруст+"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "question": "Натиҷаи матни барномаи зерин чӣ гуна аст? int x = 5; System.out.println(x++); System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "6+"
+        },
+        {
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "question": "Ин рамз чӣ натиҷа медиҳад? int x = 10; System.out.println(++x); System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "511"
+        },
+        {
+          "key": "B",
+          "text": "11+"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? boolean x = true; System.out.println(!x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "дуруст"
+        },
+        {
+          "key": "B",
+          "text": "нодуруст+"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "question": "Дар консол кадом натиҷа пайдо мешавад? int x = 10; x -= 3; System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "13"
+        },
+        {
+          "key": "B",
+          "text": "7+"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "-3"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "question": "Коди зерин чӣ гуна  натиҷа нишон медиҳад? int x = 10; x *= 2; System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "20+"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? int x = 10; x /= 2; System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "5+"
+        },
+        {
+          "key": "C",
+          "text": "20"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "question": "Ин кодро кор фармоем, чӣ натиҷа мегирем? int x = 10; x %= 3; System.out.println(x);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "1+"
+        },
+        {
+          "key": "C",
+          "text": "7"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? int x = 5; System.out.println(x > 3 && x < 10);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "нодуруст"
+        },
+        {
+          "key": "B",
+          "text": "дуруст+"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "question": "Пас аз иҷрои ин код чӣ натиҷа ба даст меояд? int x = 12; System.out.println(x < 10 || x > 15);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "дуруст"
+        },
+        {
+          "key": "B",
+          "text": "нодуруст+"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "15"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? int x = 10; System.out.println(x == 10 ? \"Баробар\" : \"Нобаробар\");",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Нобаробар"
+        },
+        {
+          "key": "B",
+          "text": "Баробар+"
+        },
+        {
+          "key": "C",
+          "text": "10"
+        },
+        {
+          "key": "D",
+          "text": "Хатогӣ"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "question": "Ин код чӣ гуна натиҷа медиҳад? int x = 5; System.out.println(x != 5 ? \"Нобаробар\" : \"Баробар\");",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Нобаробар"
+        },
+        {
+          "key": "B",
+          "text": "Баробар+"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "Хатогӣ"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? int x = 8; System.out.println(x & 3);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "0+"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? int x = 8; System.out.println(x | 3);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "11+"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "question": "Натиҷаи коди зерин чӣ гуна аст? int x = 8; System.out.println(x ^ 3);",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "11+"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "question": "Намудҳои шарҳу эзоҳ дар Jаva кадомҳоянд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "яксатра ,бисёрсатра"
+        },
+        {
+          "key": "B",
+          "text": "сатр оддӣ+"
+        },
+        {
+          "key": "C",
+          "text": "ҳеҷ кадоме аз гуфтаҳои боло"
+        },
+        {
+          "key": "D",
+          "text": "омехта"
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "question": "Кадоме аз инҳо калимаи калидӣ дар Java истифода бурда мешаванд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "nis"
+        },
+        {
+          "key": "B",
+          "text": "for, do, while+"
+        },
+        {
+          "key": "C",
+          "text": "yer"
+        },
+        {
+          "key": "D",
+          "text": "checkupsr"
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "question": "Хар як тағйирёбанда дар худ чӣ дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "сатр"
+        },
+        {
+          "key": "B",
+          "text": "намуд,ном,қимат+"
+        },
+        {
+          "key": "C",
+          "text": "сутун"
+        },
+        {
+          "key": "D",
+          "text": "ягонто"
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "question": "Чанд намуди амалҳои арифметикӣ дар Javа вуҷуд дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "cатрӣ"
+        },
+        {
+          "key": "B",
+          "text": "бинарӣ, унарӣ+"
+        },
+        {
+          "key": "C",
+          "text": "рамзӣ"
+        },
+        {
+          "key": "D",
+          "text": "алоҳида"
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "question": "Ба амалҳњои бинарӣ кадоме аз инҳо дохил мешаванд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "+"
+        },
+        {
+          "key": "B",
+          "text": "+,/,*+"
+        },
+        {
+          "key": "C",
+          "text": "--"
+        },
+        {
+          "key": "D",
+          "text": "//"
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "question": "Намудҳои давр дар забони Jаva кадомҳоянд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "else"
+        },
+        {
+          "key": "B",
+          "text": "for,do …while, while+"
+        },
+        {
+          "key": "C",
+          "text": "if"
+        },
+        {
+          "key": "D",
+          "text": "ҳама дурустанд"
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "question": "Cохторҳои шатрӣ дар Java кадомҳоянд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "if….end"
+        },
+        {
+          "key": "B",
+          "text": "if…..else, swich…case+"
+        },
+        {
+          "key": "C",
+          "text": "sub…case"
+        },
+        {
+          "key": "D",
+          "text": "ҳама саволҳо дурустанд"
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "question": "Намудҳои алгоритмро номбар кунед ?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "сунъӣ"
+        },
+        {
+          "key": "B",
+          "text": "хаттӣ,даврӣ, шоханок+"
+        },
+        {
+          "key": "C",
+          "text": "омехта"
+        },
+        {
+          "key": "D",
+          "text": "симметрӣ"
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "question": "Кадоме аз инхо ба  намудҳои маълумот дохил мешаванд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "caption"
+        },
+        {
+          "key": "B",
+          "text": "int, double, long+"
+        },
+        {
+          "key": "C",
+          "text": "button"
+        },
+        {
+          "key": "D",
+          "text": "cancel"
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "question": "Синтаксиси шарҳи қобили қабулро нишон диҳед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "/* Шарҳ */, // Шарҳ"
+        },
+        {
+          "key": "B",
+          "text": "# Шарҳ+"
+        },
+        {
+          "key": "C",
+          "text": "/* Шарҳ"
+        },
+        {
+          "key": "D",
+          "text": "Ҳама нодурустанд"
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "question": "Кадомҳо аз инҳо калимаҳои калидӣ барои дастрасии тағйирёбандаҳо ва усулҳо дар Java мебошанд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "button, static"
+        },
+        {
+          "key": "B",
+          "text": "public,private,protected+"
+        },
+        {
+          "key": "C",
+          "text": "label"
+        },
+        {
+          "key": "D",
+          "text": "text"
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "question": "Кадомҳо аз инҳо намуди додашудаи бутун дар Java мебошад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "int+"
+        },
+        {
+          "key": "C",
+          "text": "double"
+        },
+        {
+          "key": "D",
+          "text": "float"
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "question": "Кадомҳо аз инҳо намуди додашудаи ҳақиқӣ дар Java мебошад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "double,float+"
+        },
+        {
+          "key": "C",
+          "text": "int"
+        },
+        {
+          "key": "D",
+          "text": "byte"
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "question": "Кадомҳо аз инҳо намуди додашудаи рамзӣ дар Java мебошад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "char+"
+        },
+        {
+          "key": "C",
+          "text": "int"
+        },
+        {
+          "key": "D",
+          "text": "byte"
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "question": "Ин рамз  %f  чӣ маъно дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "барои дохилкунии маълумот"
+        },
+        {
+          "key": "B",
+          "text": "барои хориҷкунии ададҳои дорои нуқтаи шинокунанда+"
+        },
+        {
+          "key": "C",
+          "text": "барои хориҷкунии маълумоти матнӣ"
+        },
+        {
+          "key": "D",
+          "text": "барои хориҷкунии пайём"
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "question": "Мувофиқати зеринро барқарор кунед.",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Намуди  int",
+          "right_key": "1",
+          "right_text": "ададҳои бутун"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Намуди Float;",
+          "right_key": "2",
+          "right_text": "ададҳои ҳақиқӣ;"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Намуди  Char;",
+          "right_key": "3",
+          "right_text": "ададҳои рамзӣ;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Намуди long",
+          "right_key": "4",
+          "right_text": "ададҳои бутуни дароз"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "Ҳама нодурустанд"
+        }
+      ]
+    },
+    {
+      "number": 102,
+      "question": "Дар навишти зерин мувофиқатро  барқарор кунед.",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "%s",
+          "right_key": "1",
+          "right_text": "барои дохилкунии қимати сатрӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "%",
+          "right_key": "2",
+          "right_text": "бакия аз тақсим"
+        },
+        {
+          "left_key": "C",
+          "left_text": "%x",
+          "right_key": "3",
+          "right_text": "барои хориҷкунии ададҳои шонздаҳӣ"
+        },
+        {
+          "left_key": "D",
+          "left_text": "%f",
+          "right_key": "4",
+          "right_text": "барои хориҷкунии ададҳои дорои нуқтаи шинокунанда"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "дарозии сатр"
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "question": "Синфи Scanner  дорои кадом усулҳо аст ва мувофиқати ин синфро нишон диҳед?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "nextInt()",
+          "right_key": "1",
+          "right_text": "адади дохилкардаи бутунро мехонад"
+        },
+        {
+          "left_key": "B",
+          "left_text": "()",
+          "right_key": "2",
+          "right_text": "сатри дохилкардаи то фосилаи якумро мехонад"
+        },
+        {
+          "left_key": "C",
+          "left_text": "nextBooleant()",
+          "right_key": "3",
+          "right_text": "адади дохилкардаи мантиқиро мехонад"
+        },
+        {
+          "left_key": "D",
+          "left_text": "nextFloat()",
+          "right_key": "4",
+          "right_text": "адади дохилкардаи ҳақиқиро мехонад"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "адади воридкардашударо бармегардонад"
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "question": "Операторҳоро бо таъиноти онҳо мувофиқ кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "&&",
+          "right_key": "1",
+          "right_text": "Мантиқии \"ва\""
+        },
+        {
+          "left_key": "B",
+          "left_text": "||",
+          "right_key": "2",
+          "right_text": "Мантиқии \"ё\""
+        },
+        {
+          "left_key": "C",
+          "left_text": "!",
+          "right_key": "3",
+          "right_text": "Мантиқии \"не\""
+        },
+        {
+          "left_key": "D",
+          "left_text": "For",
+          "right_key": "4",
+          "right_text": "оператори даврӣ"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "оператори шартӣ"
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "question": "Намудҳои додаҳоро бо мисолҳои онҳо мувофиқ кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "==",
+          "right_key": "1",
+          "right_text": "оператори муқоисакунӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Int",
+          "right_key": "2",
+          "right_text": "10"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Boolean",
+          "right_key": "3",
+          "right_text": "true"
+        },
+        {
+          "left_key": "D",
+          "left_text": "String",
+          "right_key": "4",
+          "right_text": "\"Hello, world!\""
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "5.5"
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "question": "Операторҳои муқоисаро бо таъиноти онҳо мувофиқ кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "!=",
+          "right_key": "1",
+          "right_text": "Нобаробарӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": ">",
+          "right_key": "2",
+          "right_text": "Калонтар аз"
+        },
+        {
+          "left_key": "C",
+          "left_text": "<",
+          "right_key": "3",
+          "right_text": "Хурдтар аз"
+        },
+        {
+          "left_key": "D",
+          "left_text": "=",
+          "right_key": "4",
+          "right_text": "баробар"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "на хурд на баробар"
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "question": "Операторҳои арифметикиро бо таъиноти онҳо мувофиқ кунед?",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "+",
+          "right_key": "1",
+          "right_text": "ҷамъ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "/",
+          "right_key": "2",
+          "right_text": "тақсим"
+        },
+        {
+          "left_key": "C",
+          "left_text": "-",
+          "right_key": "3",
+          "right_text": "тарҳ"
+        },
+        {
+          "left_key": "D",
+          "left_text": "*",
+          "right_key": "4",
+          "right_text": "зарб"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "Беохир"
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "question": "Операторҳои таъинкуниро бо таъиноти онҳо мувофиқ кунед:*= Зарб кардан",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "*=",
+          "right_key": "1",
+          "right_text": "Зарб карда"
+        },
+        {
+          "left_key": "B",
+          "left_text": "=",
+          "right_key": "2",
+          "right_text": "Таъин кардан"
+        },
+        {
+          "left_key": "C",
+          "left_text": "+=",
+          "right_key": "3",
+          "right_text": "Ҷамъ кардан ва таъин кардан"
+        },
+        {
+          "left_key": "D",
+          "left_text": "-=",
+          "right_key": "4",
+          "right_text": "Кам кардан ва таъин кардан"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "Инкремент"
+        }
+      ]
+    },
+    {
+      "number": 109,
+      "question": "Операторҳои зиёдкунӣ ва камкуниро бо таъиноти онҳо мувофиқ кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "++",
+          "right_key": "1",
+          "right_text": "Зиёд кардан"
+        },
+        {
+          "left_key": "B",
+          "left_text": "--",
+          "right_key": "2",
+          "right_text": "Кам кардан"
+        },
+        {
+          "left_key": "C",
+          "left_text": "+=",
+          "right_key": "3",
+          "right_text": "Ҷамъ кардан ва таъин кардан"
+        },
+        {
+          "left_key": "D",
+          "left_text": "-=",
+          "right_key": "4",
+          "right_text": "Тарҳ кардан ва таъин кардан"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "Ҳамаи ҷавобҳо дурустанд"
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "question": "Операторҳои шартиро бо таъиноти онҳо мувофиқ кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "?:",
+          "right_key": "1",
+          "right_text": "Оператори шартии сегона"
+        },
+        {
+          "left_key": "B",
+          "left_text": "if",
+          "right_key": "2",
+          "right_text": "Оператори шартии оддӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "switch",
+          "right_key": "3",
+          "right_text": "Оператори шартии интихоб"
+        },
+        {
+          "left_key": "D",
+          "left_text": "for",
+          "right_key": "4",
+          "right_text": "оператори даврӣ"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "гузариш"
+        }
+      ]
+    },
+    {
+      "number": 111,
+      "question": "Калимаҳои калидиро бо таъиноти онҳо мувофиқ кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "break",
+          "right_key": "1",
+          "right_text": "Қатъи давр"
+        },
+        {
+          "left_key": "B",
+          "left_text": "continue",
+          "right_key": "2",
+          "right_text": "Гузаштан ба итератсияи навбатии давр"
+        },
+        {
+          "left_key": "C",
+          "left_text": "return",
+          "right_key": "3",
+          "right_text": "Баргардонидани  қимат  аз усул"
+        },
+        {
+          "left_key": "D",
+          "left_text": "if",
+          "right_key": "4",
+          "right_text": "Оператори шартии оддӣ"
+        }
+      ],
+      "extra_numeric_options": [
+        {
+          "key": "4",
+          "text": "Ҳамаи ҷавобҳо дурустанд"
+        }
+      ]
+    }
+  ]
+}
