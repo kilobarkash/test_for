@@ -8,12 +8,6 @@
       "url": "https://kilobarkash.github.io/test_for/tests/falsafa.json"
     },
     {
-      "id": "2",
-      "name": "Асосҳои ҳифзи иттилоот",
-      "teacher" : "Мелиев",
-      "url": "https://kilobarkash.github.io/test_for/tests/meliev.json"
-    },
-    {
       "id": "3",
       "name": "Асосҳои алгоритм ва забонҳои барномасози",
       "teacher" : "Бобохонов Х",
