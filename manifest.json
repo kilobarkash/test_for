@@ -31,5 +31,11 @@
       "teacher" : "Қадамшоев",
       "url": "https://kilobarkash.github.io/test_for/tests/java.json"
     },
+    {
+      "id": "7",
+      "name": "Фалсафа (рейтинги2 + экзамен)",
+      "teacher" : "Мирзоева З",
+      "url": "https://kilobarkash.github.io/test_for/tests/фалсафа.json"
+    },
   ],
 }
