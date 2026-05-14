@@ -37,5 +37,11 @@
       "teacher" : "Мирзоева З",
       "url": "https://kilobarkash.github.io/test_for/tests/фалсафа.json"
     },
+    {
+      "id": "7",
+      "name": "Асосҳои алгоритм ва забонҳои барномасози (рейтинги2)",
+      "teacher" : "Бобохонов Х",
+      "url": "https://kilobarkash.github.io/test_for/tests/бобохонов2.json"
+    },
   ],
 }
