@@ -1,0 +1,5310 @@
+{
+  "teacher": null,
+  "test_name": "Асосҳои алгоритм ва забонҳои барномасозӣ",
+  "total_questions": 200,
+  "single_choice_count": 100,
+  "multiple_choice_count": 50,
+  "matching_count": 50,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Мақсади асосии Windows Forms дар барномасозӣ чист?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сохтани интерфейси графикии корбар+"
+        },
+        {
+          "key": "B",
+          "text": "Танҳо сохтани файлҳои матнӣ"
+        },
+        {
+          "key": "C",
+          "text": "Идоракунии BIOS"
+        },
+        {
+          "key": "D",
+          "text": "Танҳо кор бо шабака"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Дар C++ Builder форма чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Танҳо ҷадвали базаи додаҳост"
+        },
+        {
+          "key": "B",
+          "text": "Файли иҷрошавандаи барнома аст"
+        },
+        {
+          "key": "C",
+          "text": "Компоненти чопгар аст"
+        },
+        {
+          "key": "D",
+          "text": "Равзанаи асосии барнома мебошад+"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Ҳангоми кушодани лоиҳаи нав одатан кадом форма пайдо мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Panel1"
+        },
+        {
+          "key": "B",
+          "text": "Menu1"
+        },
+        {
+          "key": "C",
+          "text": "Form1+"
+        },
+        {
+          "key": "D",
+          "text": "Button1"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Компонент дар интерфейси графикӣ чист?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Навъи хотираи компютер"
+        },
+        {
+          "key": "B",
+          "text": "Унсури визуалӣ ё идоракунандаи дар форма ҷойгиршаванда+"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо сатри коди барнома"
+        },
+        {
+          "key": "D",
+          "text": "Фақат номи файл"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Хосият (property) дар Windows Forms чиро муайян мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Намуд, ҳолат ва арзишҳои компонентро+"
+        },
+        {
+          "key": "B",
+          "text": "Суръати интернетро"
+        },
+        {
+          "key": "C",
+          "text": "Номи протсессорро"
+        },
+        {
+          "key": "D",
+          "text": "Ҳаҷми диски сахтро"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Рӯйдод (event) дар барнома кай ба кор меояд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Танҳо ҳангоми хомӯш шудани компютер"
+        },
+        {
+          "key": "B",
+          "text": "Ҳангоми тағйири номи файл"
+        },
+        {
+          "key": "C",
+          "text": "Пеш аз сохтани лоиҳа"
+        },
+        {
+          "key": "D",
+          "text": "Ҳангоми рух додани амали корбар ё система+"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Рӯйдоди OnClick кай иҷро мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҳангоми бастани Windows"
+        },
+        {
+          "key": "B",
+          "text": "Ҳангоми насби драйвер"
+        },
+        {
+          "key": "C",
+          "text": "Ҳангоми пахш кардани компонент бо муш+"
+        },
+        {
+          "key": "D",
+          "text": "Ҳангоми оғоз нашудани барнома"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Компоненти Button дар C++ Builder бештар бо кадом ном истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TTimer"
+        },
+        {
+          "key": "B",
+          "text": "TButton+"
+        },
+        {
+          "key": "C",
+          "text": "TLabel"
+        },
+        {
+          "key": "D",
+          "text": "TPanel"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Button барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Барои иҷрои амал баъди пахш кардан+"
+        },
+        {
+          "key": "B",
+          "text": "Барои нигоҳдории файл"
+        },
+        {
+          "key": "C",
+          "text": "Барои интихоби сана"
+        },
+        {
+          "key": "D",
+          "text": "Барои намоиши веб-саҳифа"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Хосияти Caption-и Button чиро нишон медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ранги системаи Windows"
+        },
+        {
+          "key": "B",
+          "text": "Рақами порти шабака"
+        },
+        {
+          "key": "C",
+          "text": "Андозаи диск"
+        },
+        {
+          "key": "D",
+          "text": "Навиштаҷоти рӯйи тугма+"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Хосияти Name-и компонент барои чӣ лозим аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Барои бастани система"
+        },
+        {
+          "key": "B",
+          "text": "Барои сохтани ҷузвдон"
+        },
+        {
+          "key": "C",
+          "text": "Барои муроҷиат ба компонент дар код+"
+        },
+        {
+          "key": "D",
+          "text": "Барои тағйири ранги экран"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Хосияти Enabled чӣ маъно дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Рақами версияи C++"
+        },
+        {
+          "key": "B",
+          "text": "Фаъол ё ғайрифаъол будани компонент+"
+        },
+        {
+          "key": "C",
+          "text": "Намоиши нишона дар ImageList"
+        },
+        {
+          "key": "D",
+          "text": "Сатҳи овоз"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Хосияти Visible чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Намоён ё пинҳон будани компонентро муайян мекунад+"
+        },
+        {
+          "key": "B",
+          "text": "Танҳо матнро ба адад табдил медиҳад"
+        },
+        {
+          "key": "C",
+          "text": "Файлро сабт мекунад"
+        },
+        {
+          "key": "D",
+          "text": "Рамзро рамзкушоӣ мекунад"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "TextBox дар C++ Builder VCL бештар бо кадом компонент мувофиқ аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TMainMenu"
+        },
+        {
+          "key": "B",
+          "text": "TStatusBar"
+        },
+        {
+          "key": "C",
+          "text": "TImageList"
+        },
+        {
+          "key": "D",
+          "text": "TEdit+"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Компоненти TEdit асосан барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сохтани меню"
+        },
+        {
+          "key": "B",
+          "text": "Сабти автоматии файл"
+        },
+        {
+          "key": "C",
+          "text": "Ворид намудани матн ё маълумот аз тарафи корбар+"
+        },
+        {
+          "key": "D",
+          "text": "Намоиши танҳо расм"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Барои гирифтани матни воридшуда аз Edit кадом муроҷиат истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Edit1->Interval"
+        },
+        {
+          "key": "B",
+          "text": "Edit1->Text+"
+        },
+        {
+          "key": "C",
+          "text": "Edit1->Caption"
+        },
+        {
+          "key": "D",
+          "text": "Edit1->ImageIndex"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Хосияти MaxLength дар Edit чӣ кор мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Шумораи максималии аломатҳои воридшавандаро маҳдуд мекунад+"
+        },
+        {
+          "key": "B",
+          "text": "Ранги формаҳоро иваз мекунад"
+        },
+        {
+          "key": "C",
+          "text": "Файлро мекушояд"
+        },
+        {
+          "key": "D",
+          "text": "Равзанаи шрифтро нишон медиҳад"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Хосияти PasswordChar барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сохтани панели асбобҳо"
+        },
+        {
+          "key": "B",
+          "text": "Интихоби сана"
+        },
+        {
+          "key": "C",
+          "text": "Ҳисоб кардани ҷамъ"
+        },
+        {
+          "key": "D",
+          "text": "Пинҳон нишон додани рамз дар майдони воридкунӣ+"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Label дар C++ Builder бештар бо кадом ном истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TButton"
+        },
+        {
+          "key": "B",
+          "text": "TTimer"
+        },
+        {
+          "key": "C",
+          "text": "TLabel+"
+        },
+        {
+          "key": "D",
+          "text": "TEdit"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Компоненти Label асосан барои чӣ хизмат мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сохтани базаи додаҳо"
+        },
+        {
+          "key": "B",
+          "text": "Намоиши матн, шарҳ ё натиҷа+"
+        },
+        {
+          "key": "C",
+          "text": "Кушодани файл"
+        },
+        {
+          "key": "D",
+          "text": "Интихоби ранг"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Барои иваз кардани матни Label кадом хосият истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Caption+"
+        },
+        {
+          "key": "B",
+          "text": "Interval"
+        },
+        {
+          "key": "C",
+          "text": "FileName"
+        },
+        {
+          "key": "D",
+          "text": "EditMask"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "LinkLabel чӣ гуна унсур мебошад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Диалоги интихоби ранг"
+        },
+        {
+          "key": "B",
+          "text": "Компоненти чоп"
+        },
+        {
+          "key": "C",
+          "text": "Контейнери ҷадвал"
+        },
+        {
+          "key": "D",
+          "text": "Унсуре, ки мисли пайванди интернетӣ амал мекунад+"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Кадом фармон барои кушодани сомона дар мисоли LinkLabel истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "IntToStr"
+        },
+        {
+          "key": "B",
+          "text": "SetError"
+        },
+        {
+          "key": "C",
+          "text": "ShellExecute+"
+        },
+        {
+          "key": "D",
+          "text": "StrToInt"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "MaskedTextBox дар C++ Builder бештар бо кадом компонент мувофиқат мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TImageList"
+        },
+        {
+          "key": "B",
+          "text": "TMaskEdit+"
+        },
+        {
+          "key": "C",
+          "text": "TMainMenu"
+        },
+        {
+          "key": "D",
+          "text": "TToolBar"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "TMaskEdit барои чӣ лозим аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ворид кардани маълумот бо қолаб ё формат+"
+        },
+        {
+          "key": "B",
+          "text": "Фақат сохтани меню"
+        },
+        {
+          "key": "C",
+          "text": "Нигоҳдории нишонаҳо"
+        },
+        {
+          "key": "D",
+          "text": "Ҷудо кардани панелҳо"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Хосияти EditMask дар MaskEdit чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ранги заминаи формаҳоро иваз мекунад"
+        },
+        {
+          "key": "B",
+          "text": "Матнро нусха мекунад"
+        },
+        {
+          "key": "C",
+          "text": "Сатри ҳолатро месозад"
+        },
+        {
+          "key": "D",
+          "text": "Қолаби воридкунии маълумотро муайян мекунад+"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Фармони StrToInt дар C++ Builder чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Файлро мекушояд"
+        },
+        {
+          "key": "B",
+          "text": "Рангро интихоб мекунад"
+        },
+        {
+          "key": "C",
+          "text": "Матнро ба адади бутун табдил медиҳад+"
+        },
+        {
+          "key": "D",
+          "text": "Ададро ба матн табдил медиҳад"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Фармони IntToStr чӣ кор мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Компонентро нест мекунад"
+        },
+        {
+          "key": "B",
+          "text": "Ададро ба матн табдил медиҳад+"
+        },
+        {
+          "key": "C",
+          "text": "Матнро ба сана табдил медиҳад"
+        },
+        {
+          "key": "D",
+          "text": "Формаро пинҳон мекунад"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "GroupBox барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Гурӯҳбандии компонентҳои вобаста+"
+        },
+        {
+          "key": "B",
+          "text": "Кушодани саҳифаи веб"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби файл"
+        },
+        {
+          "key": "D",
+          "text": "Идоракунии таймер"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Panel дар форма чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҳисоб кардани логарифм"
+        },
+        {
+          "key": "B",
+          "text": "Хондани файл аз диск"
+        },
+        {
+          "key": "C",
+          "text": "Табдили матн ба адад"
+        },
+        {
+          "key": "D",
+          "text": "Ҷойгир ва гурӯҳбандӣ кардани компонентҳо+"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "FlowLayoutPanel компонентҳоро чӣ гуна ҷойгир мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Фақат дар сатрҳои код"
+        },
+        {
+          "key": "B",
+          "text": "Тасодуфӣ бе тартиб"
+        },
+        {
+          "key": "C",
+          "text": "Пайдарпай, вобаста ба ҷойи озод+"
+        },
+        {
+          "key": "D",
+          "text": "Танҳо дар шакли ҷадвали база"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "TableLayoutPanel барои чӣ мувофиқ аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Кушодани браузер"
+        },
+        {
+          "key": "B",
+          "text": "Ҷойгиркунии компонентҳо дар сатр ва сутун+"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо кор бо файлҳои аудио"
+        },
+        {
+          "key": "D",
+          "text": "Иваз кардани шрифт"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "TabControl чӣ имкон медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сохтани варақаҳо ё ҷадвалчаҳои ҷудогона+"
+        },
+        {
+          "key": "B",
+          "text": "Сабти файл ба диск"
+        },
+        {
+          "key": "C",
+          "text": "Намоиши паёми хатогӣ"
+        },
+        {
+          "key": "D",
+          "text": "Танҳо интихоби ранг"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "SplitContainer барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Пинҳон кардани парол"
+        },
+        {
+          "key": "B",
+          "text": "Кушодани FontDialog"
+        },
+        {
+          "key": "C",
+          "text": "Намоиши нишонаи система"
+        },
+        {
+          "key": "D",
+          "text": "Ҷудо кардани равзана ба ду қисми тағйирёбанда+"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "RadioButton одатан барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Кушодани файл"
+        },
+        {
+          "key": "B",
+          "text": "Нигоҳдории тасвир"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби як вариант аз як гурӯҳ+"
+        },
+        {
+          "key": "D",
+          "text": "Интихоби якчанд вариант ҳамзамон"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "CheckBox чӣ гуна интихобро таъмин мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҷудо кардани меню"
+        },
+        {
+          "key": "B",
+          "text": "Интихоби мустақили фаъол/ғайрифаъол+"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо интихоби як вариант дар гурӯҳ"
+        },
+        {
+          "key": "D",
+          "text": "Сабти автоматии файл"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "ComboBox кадом хусусиятро дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Рӯйхати интихобӣ бо имкони интихоб ё воридкунӣ+"
+        },
+        {
+          "key": "B",
+          "text": "Фақат тугмаи фармонӣ"
+        },
+        {
+          "key": "C",
+          "text": "Нишонаи хатогӣ"
+        },
+        {
+          "key": "D",
+          "text": "Майдони тасвир"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "ListBox барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Кушодани диалоги шрифт"
+        },
+        {
+          "key": "B",
+          "text": "Интихоби ранги форма"
+        },
+        {
+          "key": "C",
+          "text": "Сохтани shortcut"
+        },
+        {
+          "key": "D",
+          "text": "Намоиши рӯйхати вариантҳо+"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "CheckedListBox аз ListBox бо чӣ фарқ мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Фақат вақтро чен мекунад"
+        },
+        {
+          "key": "B",
+          "text": "Сохтани менюи контекстӣ мекунад"
+        },
+        {
+          "key": "C",
+          "text": "Дар назди ҳар банд қуттии интихоб дорад+"
+        },
+        {
+          "key": "D",
+          "text": "Танҳо як расм нишон медиҳад"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "NumericUpDown барои чӣ хизмат мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сохтани сатри ҳолат"
+        },
+        {
+          "key": "B",
+          "text": "Интихоби адад аз диапазони муайян+"
+        },
+        {
+          "key": "C",
+          "text": "Намоиши саҳифаи интернетӣ"
+        },
+        {
+          "key": "D",
+          "text": "Кушодани файл"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "DomainUpDown бо чӣ кор мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Интихоби арзишҳои матнӣ ё рӯйхатӣ+"
+        },
+        {
+          "key": "B",
+          "text": "Танҳо ҳисобкунии адад"
+        },
+        {
+          "key": "C",
+          "text": "Фақат сабти файл"
+        },
+        {
+          "key": "D",
+          "text": "Иваз кардани ранг"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "ImageList чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Навиштани матни дароз"
+        },
+        {
+          "key": "B",
+          "text": "Интихоби сана"
+        },
+        {
+          "key": "C",
+          "text": "Бастани форма"
+        },
+        {
+          "key": "D",
+          "text": "Нигоҳдории маҷмӯи нишонаҳо ва тасвирҳои хурд+"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "ListView барои чӣ мувофиқ аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Иваз кардани шрифти Label"
+        },
+        {
+          "key": "B",
+          "text": "Ташкили shortcut"
+        },
+        {
+          "key": "C",
+          "text": "Намоиши маълумот дар намуди рӯйхат бо нишонаҳо ё сутунҳо+"
+        },
+        {
+          "key": "D",
+          "text": "Танҳо ворид кардани парол"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "TreeView маълумотро чӣ гуна нишон медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҳамчун MessageBox"
+        },
+        {
+          "key": "B",
+          "text": "Дар шакли дарахти иерархӣ+"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо дар як сатри матн"
+        },
+        {
+          "key": "D",
+          "text": "Фақат ҳамчун расм"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "TrackBar бештар барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Интихоби қимат бо лағжонак+"
+        },
+        {
+          "key": "B",
+          "text": "Сабти файл"
+        },
+        {
+          "key": "C",
+          "text": "Сохтани меню"
+        },
+        {
+          "key": "D",
+          "text": "Намоиши хато"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Timer чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Танҳо интихоби ранг"
+        },
+        {
+          "key": "B",
+          "text": "Нигоҳдории рӯйхат"
+        },
+        {
+          "key": "C",
+          "text": "Кушодани SaveDialog"
+        },
+        {
+          "key": "D",
+          "text": "Иҷрои амалҳо дар фосилаи муайяни вақт+"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Хосияти Interval-и Timer чиро муайян мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Номи файл"
+        },
+        {
+          "key": "B",
+          "text": "Шумораи сутунҳо"
+        },
+        {
+          "key": "C",
+          "text": "Фосилаи вақт байни иҷрои рӯйдод+"
+        },
+        {
+          "key": "D",
+          "text": "Ранги матн"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "ProgressBar барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Интихоби шрифт"
+        },
+        {
+          "key": "B",
+          "text": "Нишон додани сатҳи иҷро ё пешрафти амал+"
+        },
+        {
+          "key": "C",
+          "text": "Сохтани меню"
+        },
+        {
+          "key": "D",
+          "text": "Пинҳон кардани форма"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "DateTimePicker чӣ имкон медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Интихоби сана ё вақт+"
+        },
+        {
+          "key": "B",
+          "text": "Намоиши нишонаҳо"
+        },
+        {
+          "key": "C",
+          "text": "Иҷрои фармони Copy"
+        },
+        {
+          "key": "D",
+          "text": "Сохтани рӯйдоди OnClick"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "MonthCalendar барои чӣ лозим аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сабти тасвир"
+        },
+        {
+          "key": "B",
+          "text": "Танҳо интихоби шрифт"
+        },
+        {
+          "key": "C",
+          "text": "Пайваст ба ActionList"
+        },
+        {
+          "key": "D",
+          "text": "Намоиш ва интихоби санаҳо дар шакли тақвим+"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "question": "PictureBox барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Идоракунии shortcut"
+        },
+        {
+          "key": "B",
+          "text": "Санҷиши хатогӣ"
+        },
+        {
+          "key": "C",
+          "text": "Намоиши тасвир дар форма+"
+        },
+        {
+          "key": "D",
+          "text": "Кушодани файлҳои матнӣ"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "question": "WebBrowser дар барномаи графикӣ чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сохтани ToolButton"
+        },
+        {
+          "key": "B",
+          "text": "Намоиши саҳифаҳои веб ё HTML+"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби ранги матн"
+        },
+        {
+          "key": "D",
+          "text": "Ҳисоб кардани сумма"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "question": "NotifyIcon дар куҷо намоён мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Дар қисми системавии панели вазифаҳо (tray)+"
+        },
+        {
+          "key": "B",
+          "text": "Танҳо дар дохили Memo"
+        },
+        {
+          "key": "C",
+          "text": "Дар равзанаи BIOS"
+        },
+        {
+          "key": "D",
+          "text": "Дар рӯйхати база"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "question": "MessageBox барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Нигоҳдории нишонаҳо"
+        },
+        {
+          "key": "B",
+          "text": "Кушодани равзанаи ранг"
+        },
+        {
+          "key": "C",
+          "text": "Ҷойгиркунии компонентҳо дар ҷадвал"
+        },
+        {
+          "key": "D",
+          "text": "Намоиши паём, огоҳӣ ё савол ба корбар+"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "question": "OpenFileDialog барои чӣ хизмат мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Тағйири ранги форма"
+        },
+        {
+          "key": "B",
+          "text": "Сохтани рӯйхат"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби файл барои кушодан+"
+        },
+        {
+          "key": "D",
+          "text": "Сабти файл бе интихоб"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "question": "SaveFileDialog барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Намоиши расм"
+        },
+        {
+          "key": "B",
+          "text": "Интихоби ном ва ҷой барои сабти файл+"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо интихоби сана"
+        },
+        {
+          "key": "D",
+          "text": "Сохтани MaskEdit"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "question": "Хосияти Filter дар OpenFileDialog чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Маҳдуд ё гурӯҳбандӣ кардани намудҳои файл+"
+        },
+        {
+          "key": "B",
+          "text": "Иваз кардани шрифт"
+        },
+        {
+          "key": "C",
+          "text": "Нигоҳдории нишонаҳо"
+        },
+        {
+          "key": "D",
+          "text": "Ҷудо кардани форма"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "question": "FontDialog барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Интихоби файл"
+        },
+        {
+          "key": "B",
+          "text": "Намоиши дарахт"
+        },
+        {
+          "key": "C",
+          "text": "Санҷиши хатогӣ"
+        },
+        {
+          "key": "D",
+          "text": "Интихоби навъи ҳарф, андоза ва услуби он+"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "question": "ColorDialog барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Нигоҳдории файл"
+        },
+        {
+          "key": "B",
+          "text": "Сохтани меню"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби ранг+"
+        },
+        {
+          "key": "D",
+          "text": "Интихоби сана"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "question": "ErrorProvider дар Windows Forms чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Нусхагирии матн"
+        },
+        {
+          "key": "B",
+          "text": "Нишон додани хатогии дохилкунӣ дар назди компонент+"
+        },
+        {
+          "key": "C",
+          "text": "Кушодани веб-саҳифа"
+        },
+        {
+          "key": "D",
+          "text": "Иваз кардани Font"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "question": "Усули SetError дар ErrorProvider барои чӣ лозим аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Гузоштан ё тоза кардани паёми хатогӣ+"
+        },
+        {
+          "key": "B",
+          "text": "Кушодани файли интихобшуда"
+        },
+        {
+          "key": "C",
+          "text": "Сохтани ToolBar"
+        },
+        {
+          "key": "D",
+          "text": "Иваз кардани ImageIndex"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "question": "ShowDialog() дар FontDialog ё ColorDialog чӣ кор мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Барномаро мебандад"
+        },
+        {
+          "key": "B",
+          "text": "Рӯйхатро тоза мекунад"
+        },
+        {
+          "key": "C",
+          "text": "Клавиатураро фаъол мекунад"
+        },
+        {
+          "key": "D",
+          "text": "Равзанаи диалогиро мекушояд+"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "question": "DialogResult::OK чӣ маъно дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Форма пинҳон шудааст"
+        },
+        {
+          "key": "B",
+          "text": "Timer қатъ шудааст"
+        },
+        {
+          "key": "C",
+          "text": "Корбар интихобро тасдиқ кардааст+"
+        },
+        {
+          "key": "D",
+          "text": "Файл ҳатман нест шудааст"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "question": "Меню дар барномаи Windows Forms чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Танҳо интихоби сана"
+        },
+        {
+          "key": "B",
+          "text": "Гурӯҳбандӣ ва дастрас кардани фармонҳо+"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо нигоҳдории тасвир"
+        },
+        {
+          "key": "D",
+          "text": "Идоракунии RAM"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "question": "Панели асбобҳо барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Иҷрои зудтари фармонҳои асосӣ+"
+        },
+        {
+          "key": "B",
+          "text": "Кушодани BIOS"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо чопи ҳуҷҷат"
+        },
+        {
+          "key": "D",
+          "text": "Нест кардани форма"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "question": "Дар C++ Builder VCL аналоги MenuStrip кадом компонент аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TEdit"
+        },
+        {
+          "key": "B",
+          "text": "TTimer"
+        },
+        {
+          "key": "C",
+          "text": "TMaskEdit"
+        },
+        {
+          "key": "D",
+          "text": "TMainMenu+"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "question": "Дар C++ Builder VCL аналоги ToolStrip кадом компонент аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TColorDialog"
+        },
+        {
+          "key": "B",
+          "text": "TMonthCalendar"
+        },
+        {
+          "key": "C",
+          "text": "TToolBar+"
+        },
+        {
+          "key": "D",
+          "text": "TLabel"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "question": "TMenuItem чӣ мебошад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Диалоги файл"
+        },
+        {
+          "key": "B",
+          "text": "Банди меню+"
+        },
+        {
+          "key": "C",
+          "text": "Майдони воридкунӣ"
+        },
+        {
+          "key": "D",
+          "text": "Компоненти тасвир"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "question": "TToolButton чӣ мебошад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Тугмаи панели асбобҳо+"
+        },
+        {
+          "key": "B",
+          "text": "Формаи иловагӣ"
+        },
+        {
+          "key": "C",
+          "text": "Диалоги интихоби ранг"
+        },
+        {
+          "key": "D",
+          "text": "Нишонаи хатогӣ"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "question": "TActionList барои чӣ тавсия мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Танҳо захира кардани расмҳо"
+        },
+        {
+          "key": "B",
+          "text": "Санҷиши парол"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби сана"
+        },
+        {
+          "key": "D",
+          "text": "Идора кардани фармонҳои умумӣ барои меню ва toolbar+"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "question": "ImageIndex дар меню ё toolbar ба чӣ ишора мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҳаҷми файл"
+        },
+        {
+          "key": "B",
+          "text": "Суръати таймер"
+        },
+        {
+          "key": "C",
+          "text": "Рақами нишона дар ImageList+"
+        },
+        {
+          "key": "D",
+          "text": "Рақами порти шабака"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "question": "ShortCut дар банди меню чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сабти автоматии файл"
+        },
+        {
+          "key": "B",
+          "text": "Иҷрои фармон бо миёнбури клавиатура+"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби ранг"
+        },
+        {
+          "key": "D",
+          "text": "Пинҳон кардани матн"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "question": "Дар меню се нуқта (...) пас аз номи фармон чӣ маъно дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Фармон равзанаи иловагӣ мекушояд+"
+        },
+        {
+          "key": "B",
+          "text": "Фармон ғайрифаъол аст"
+        },
+        {
+          "key": "C",
+          "text": "Фармон хатост"
+        },
+        {
+          "key": "D",
+          "text": "Фармон танҳо барои принтер аст"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "question": "Барои сохтани ҷудокунанда дар TMainMenu одатан дар Caption чӣ менависанд?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "*"
+        },
+        {
+          "key": "B",
+          "text": "#"
+        },
+        {
+          "key": "C",
+          "text": "Ctrl"
+        },
+        {
+          "key": "D",
+          "text": "-+"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "question": "Checked дар банди меню чӣ маъно дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Танҳо намуди файл"
+        },
+        {
+          "key": "B",
+          "text": "Қатъи Timer"
+        },
+        {
+          "key": "C",
+          "text": "Ҳолати интихобшуда ё фаъол будани банд+"
+        },
+        {
+          "key": "D",
+          "text": "Нест шудани меню"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "question": "PopupMenu кай истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Барои санҷиши синтаксиси C++"
+        },
+        {
+          "key": "B",
+          "text": "Ҳангоми зарурати менюи контекстӣ бо тугмаи рости муш+"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо барои интихоби сана"
+        },
+        {
+          "key": "D",
+          "text": "Барои нигоҳдории нишона"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "question": "StatusBar дар равзана чӣ нишон медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ҳолати ҷорӣ ё паёми кӯтоҳи барнома+"
+        },
+        {
+          "key": "B",
+          "text": "Танҳо рӯйхати файлҳоро"
+        },
+        {
+          "key": "C",
+          "text": "Ранги интихобшударо ҳамчун ҷадвал"
+        },
+        {
+          "key": "D",
+          "text": "Сатҳи CPU"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "question": "TMemo бештар барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Нигоҳдории нишонаҳо"
+        },
+        {
+          "key": "B",
+          "text": "Ҷудо кардани равзана"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби файл"
+        },
+        {
+          "key": "D",
+          "text": "Ворид ва таҳрири матни бисёрсатрӣ+"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "question": "Фармони Memo1->Lines->LoadFromFile барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Иваз кардани ранги форма"
+        },
+        {
+          "key": "B",
+          "text": "Кушодани FontDialog"
+        },
+        {
+          "key": "C",
+          "text": "Хондани матн аз файл ба Memo+"
+        },
+        {
+          "key": "D",
+          "text": "Сабти расм ба PictureBox"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "question": "Фармони Memo1->Lines->SaveToFile чӣ кор мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Шрифтро нест мекунад"
+        },
+        {
+          "key": "B",
+          "text": "Матни Memo-ро ба файл сабт мекунад+"
+        },
+        {
+          "key": "C",
+          "text": "Рангро интихоб мекунад"
+        },
+        {
+          "key": "D",
+          "text": "OnClick месозад"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "question": "StreamReader барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Хондани маълумот аз файл ё ҷараён+"
+        },
+        {
+          "key": "B",
+          "text": "Намоиши расм"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби ранг"
+        },
+        {
+          "key": "D",
+          "text": "Сохтани меню"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "question": "StreamWriter барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Танҳо интихоби сана"
+        },
+        {
+          "key": "B",
+          "text": "Нигоҳдории ImageList"
+        },
+        {
+          "key": "C",
+          "text": "Пинҳон кардани форма"
+        },
+        {
+          "key": "D",
+          "text": "Навиштани маълумот ба файл ё ҷараён+"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "question": "Барои бастани форма дар C++ Builder кадом усул маъмул аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Read()"
+        },
+        {
+          "key": "B",
+          "text": "ShowColor()"
+        },
+        {
+          "key": "C",
+          "text": "Close()+"
+        },
+        {
+          "key": "D",
+          "text": "Open()"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "question": "Хосияти BorderStyle-и форма бештар ба чӣ дахл дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Рӯйхати нишонаҳо"
+        },
+        {
+          "key": "B",
+          "text": "Намуди ҳошия ва андозаи равзана+"
+        },
+        {
+          "key": "C",
+          "text": "Матни дохили Edit"
+        },
+        {
+          "key": "D",
+          "text": "Қолаби телефон"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "question": "Position = poScreenCenter чӣ натиҷа медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Формаро дар маркази экран мекушояд+"
+        },
+        {
+          "key": "B",
+          "text": "Файлро дар диск месозад"
+        },
+        {
+          "key": "C",
+          "text": "Timer-ро қатъ мекунад"
+        },
+        {
+          "key": "D",
+          "text": "TextBox-ро ба Label табдил медиҳад"
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "question": "Барои формаи ғайристандартӣ одатан кадом хусусият тағйир дода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "FileName"
+        },
+        {
+          "key": "B",
+          "text": "ImageIndex"
+        },
+        {
+          "key": "C",
+          "text": "EditMask"
+        },
+        {
+          "key": "D",
+          "text": "BorderStyle ё FormBorderStyle+"
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "question": "Фармони Show() барои формаи дуюм чӣ мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Матнро ба адад табдил медиҳад"
+        },
+        {
+          "key": "B",
+          "text": "Файлро чоп мекунад"
+        },
+        {
+          "key": "C",
+          "text": "Формаро ғайримодалӣ нишон медиҳад+"
+        },
+        {
+          "key": "D",
+          "text": "Барномаро комилан мебандад"
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "question": "Фармони ShowDialog() барои формаи дуюм чӣ гуна намоиш медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Timer месозад"
+        },
+        {
+          "key": "B",
+          "text": "Модалӣ, то бастанаш кор ба формаи аввал барнамегардад+"
+        },
+        {
+          "key": "C",
+          "text": "Танҳо пинҳон мекунад"
+        },
+        {
+          "key": "D",
+          "text": "Файлро нусха мекунад"
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "question": "Owner ё Parent дар муносибати байни формаҳо барои чӣ муҳим аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Муайян кардани робитаи моликият ё ҷойгиршавӣ+"
+        },
+        {
+          "key": "B",
+          "text": "Танҳо иваз кардани ранги матн"
+        },
+        {
+          "key": "C",
+          "text": "Кушодани SaveDialog"
+        },
+        {
+          "key": "D",
+          "text": "Сохтани shortcut"
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "question": "Application->Terminate() чӣ вазифа дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Танҳо тоза кардани Edit"
+        },
+        {
+          "key": "B",
+          "text": "Намоиши сана"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби ранг"
+        },
+        {
+          "key": "D",
+          "text": "Қатъ кардани кори тамоми барнома+"
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "question": "FormClosing ё OnCloseQuery барои чӣ истифода мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Интихоби шрифт"
+        },
+        {
+          "key": "B",
+          "text": "Намоиши дарахт"
+        },
+        {
+          "key": "C",
+          "text": "Санҷиш ва идоракунии раванди бастани форма+"
+        },
+        {
+          "key": "D",
+          "text": "Сабти худкори расм"
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "question": "Хосияти BackColor ба чӣ дахл дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Фосилаи Timer"
+        },
+        {
+          "key": "B",
+          "text": "Ранги замина+"
+        },
+        {
+          "key": "C",
+          "text": "Номи файл"
+        },
+        {
+          "key": "D",
+          "text": "Қолаби воридкунӣ"
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "question": "Хосияти ForeColor ба чӣ дахл дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ранги матн ё пешзамина+"
+        },
+        {
+          "key": "B",
+          "text": "Сатҳи диск"
+        },
+        {
+          "key": "C",
+          "text": "Номи ActionList"
+        },
+        {
+          "key": "D",
+          "text": "Миқдори сутунҳо"
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "question": "Хосияти Font чиро муайян мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Суроғаи веб"
+        },
+        {
+          "key": "B",
+          "text": "Номи файл"
+        },
+        {
+          "key": "C",
+          "text": "Фосилаи Timer"
+        },
+        {
+          "key": "D",
+          "text": "Навъи ҳарф, андоза ва услуб+"
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "question": "AutoSize дар Label чӣ кор мекунад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Таймерро фаъол мекунад"
+        },
+        {
+          "key": "B",
+          "text": "Рӯйхатро тоза мекунад"
+        },
+        {
+          "key": "C",
+          "text": "Андозаи Label-ро ба матн мувофиқ мекунад+"
+        },
+        {
+          "key": "D",
+          "text": "Файлро мекушояд"
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "question": "ReadOnly дар TextBox чӣ маъно дорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Меню нест мешавад"
+        },
+        {
+          "key": "B",
+          "text": "Матн танҳо хонда мешавад ва таҳрир намешавад+"
+        },
+        {
+          "key": "C",
+          "text": "Матн ҳатман рамз мешавад"
+        },
+        {
+          "key": "D",
+          "text": "Форма пинҳон мешавад"
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "question": "MultiSelect дар ListView ё ListBox барои чӣ аст?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Иҷозати интихоби якчанд банд+"
+        },
+        {
+          "key": "B",
+          "text": "Интихоби танҳо як ранг"
+        },
+        {
+          "key": "C",
+          "text": "Кушодани файл"
+        },
+        {
+          "key": "D",
+          "text": "Сохтани Form2"
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "question": "SelectedIndex дар рӯйхат чиро нишон медиҳад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ранги интихобшуда"
+        },
+        {
+          "key": "B",
+          "text": "Андозаи шрифт"
+        },
+        {
+          "key": "C",
+          "text": "Номи файл"
+        },
+        {
+          "key": "D",
+          "text": "Индекси банди интихобшуда+"
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "question": "Items дар ComboBox ё ListBox чиро нигоҳ медорад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Номи форма"
+        },
+        {
+          "key": "B",
+          "text": "Матни MessageBox"
+        },
+        {
+          "key": "C",
+          "text": "Маҷмӯи бандҳои рӯйхат+"
+        },
+        {
+          "key": "D",
+          "text": "Рақами Timer"
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "question": "Nodes дар TreeView чӣ мебошад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Рӯйдодҳои Button"
+        },
+        {
+          "key": "B",
+          "text": "Гиреҳҳои дарахт+"
+        },
+        {
+          "key": "C",
+          "text": "Файлҳои кушодашуда"
+        },
+        {
+          "key": "D",
+          "text": "Рангҳои ColorDialog"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "question": "Кадомҳо хосиятҳои маъмули форма ё компонент мебошанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Name+"
+        },
+        {
+          "key": "B",
+          "text": "Caption+"
+        },
+        {
+          "key": "C",
+          "text": "OnClick"
+        },
+        {
+          "key": "D",
+          "text": "CPU"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Кадомҳо рӯйдодҳои маъмул дар интерфейси графикӣ мебошанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "OnClose+"
+        },
+        {
+          "key": "B",
+          "text": "BackColor"
+        },
+        {
+          "key": "C",
+          "text": "FileName"
+        },
+        {
+          "key": "D",
+          "text": "OnClick+"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Кадом компонентҳо барои ворид намудани маълумот истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TLabel"
+        },
+        {
+          "key": "B",
+          "text": "TImageList"
+        },
+        {
+          "key": "C",
+          "text": "TEdit+"
+        },
+        {
+          "key": "D",
+          "text": "TMaskEdit+"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Кадом компонентҳо барои намоиши матн ё натиҷа мувофиқанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TTimer"
+        },
+        {
+          "key": "B",
+          "text": "TLabel+"
+        },
+        {
+          "key": "C",
+          "text": "TMemo+"
+        },
+        {
+          "key": "D",
+          "text": "TOpenDialog"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Кадомҳо ба компонентҳои гурӯҳбандӣ ва контейнерӣ дохил мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "GroupBox+"
+        },
+        {
+          "key": "B",
+          "text": "Panel+"
+        },
+        {
+          "key": "C",
+          "text": "FontDialog"
+        },
+        {
+          "key": "D",
+          "text": "MessageBox"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Кадом компонентҳо барои интихоби вариантҳо истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "CheckBox+"
+        },
+        {
+          "key": "B",
+          "text": "StreamWriter"
+        },
+        {
+          "key": "C",
+          "text": "TStatusBar"
+        },
+        {
+          "key": "D",
+          "text": "RadioButton+"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Кадом компонентҳо рӯйхат ё маҷмӯи интихобҳоро нишон медиҳанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "ErrorProvider"
+        },
+        {
+          "key": "B",
+          "text": "ColorDialog"
+        },
+        {
+          "key": "C",
+          "text": "ComboBox+"
+        },
+        {
+          "key": "D",
+          "text": "ListBox+"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Кадомҳо барои интихоби адад ё қимат истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TMainMenu"
+        },
+        {
+          "key": "B",
+          "text": "NumericUpDown+"
+        },
+        {
+          "key": "C",
+          "text": "TrackBar+"
+        },
+        {
+          "key": "D",
+          "text": "PictureBox"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Кадомҳо барои кор бо сана ва вақт мувофиқанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "DateTimePicker+"
+        },
+        {
+          "key": "B",
+          "text": "MonthCalendar+"
+        },
+        {
+          "key": "C",
+          "text": "ImageList"
+        },
+        {
+          "key": "D",
+          "text": "LinkLabel"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Кадомҳо барои намоиши тасвир ё веб-саҳифа истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "WebBrowser+"
+        },
+        {
+          "key": "B",
+          "text": "SaveFileDialog"
+        },
+        {
+          "key": "C",
+          "text": "ErrorProvider"
+        },
+        {
+          "key": "D",
+          "text": "PictureBox+"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Кадомҳо диалогҳои стандартии хизматӣ мебошанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "RadioButton"
+        },
+        {
+          "key": "B",
+          "text": "GroupBox"
+        },
+        {
+          "key": "C",
+          "text": "FontDialog+"
+        },
+        {
+          "key": "D",
+          "text": "ColorDialog+"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Кадомҳо барои кор бо файлҳо истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Button"
+        },
+        {
+          "key": "B",
+          "text": "OpenFileDialog+"
+        },
+        {
+          "key": "C",
+          "text": "SaveFileDialog+"
+        },
+        {
+          "key": "D",
+          "text": "Label"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Кадом синфҳо барои хондан ва навиштани файл истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "StreamReader+"
+        },
+        {
+          "key": "B",
+          "text": "StreamWriter+"
+        },
+        {
+          "key": "C",
+          "text": "TreeView"
+        },
+        {
+          "key": "D",
+          "text": "ProgressBar"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Кадомҳо дар сохтани меню ва панели асбобҳо истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TToolBar+"
+        },
+        {
+          "key": "B",
+          "text": "TMaskEdit"
+        },
+        {
+          "key": "C",
+          "text": "TMonthCalendar"
+        },
+        {
+          "key": "D",
+          "text": "TMainMenu+"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Кадомҳо барои ягонагии фармонҳо ва нишонаҳо дар меню/toolbar муҳиманд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TEdit"
+        },
+        {
+          "key": "B",
+          "text": "TMaskEdit"
+        },
+        {
+          "key": "C",
+          "text": "TActionList+"
+        },
+        {
+          "key": "D",
+          "text": "TImageList+"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Кадом хосиятҳо ба намуди зоҳирии компонент таъсир мерасонанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "FileMode"
+        },
+        {
+          "key": "B",
+          "text": "Font+"
+        },
+        {
+          "key": "C",
+          "text": "BackColor+"
+        },
+        {
+          "key": "D",
+          "text": "StreamReader"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Кадом хосиятҳо ба матни компонент вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Text+"
+        },
+        {
+          "key": "B",
+          "text": "Caption+"
+        },
+        {
+          "key": "C",
+          "text": "Interval"
+        },
+        {
+          "key": "D",
+          "text": "ImageIndex"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Кадомҳо ба идоракунии намоёнӣ ва фаъолият дахл доранд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Enabled+"
+        },
+        {
+          "key": "B",
+          "text": "Filter"
+        },
+        {
+          "key": "C",
+          "text": "PasswordChar"
+        },
+        {
+          "key": "D",
+          "text": "Visible+"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Кадомҳо барои санҷиши дурустии дохилкунӣ истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TToolButton"
+        },
+        {
+          "key": "B",
+          "text": "TMainMenu"
+        },
+        {
+          "key": "C",
+          "text": "ErrorProvider+"
+        },
+        {
+          "key": "D",
+          "text": "MaskedTextBox+"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Кадомҳо барои форматҳои махсуси воридкунӣ мувофиқанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TStatusBar"
+        },
+        {
+          "key": "B",
+          "text": "MaskEdit+"
+        },
+        {
+          "key": "C",
+          "text": "EditMask+"
+        },
+        {
+          "key": "D",
+          "text": "TImageList"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Кадом амалҳо дар мисолҳои Edit ва Label истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "StrToInt+"
+        },
+        {
+          "key": "B",
+          "text": "IntToStr+"
+        },
+        {
+          "key": "C",
+          "text": "ShowColor"
+        },
+        {
+          "key": "D",
+          "text": "ImageIndex"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Кадомҳо барои кушодан ва сабти матн дар TMemo истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "SaveToFile+"
+        },
+        {
+          "key": "B",
+          "text": "SetError"
+        },
+        {
+          "key": "C",
+          "text": "ShowDialog"
+        },
+        {
+          "key": "D",
+          "text": "LoadFromFile+"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Кадомҳо фармонҳои таҳрири матн дар TMemo мебошанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "ShowDialog"
+        },
+        {
+          "key": "B",
+          "text": "SetError"
+        },
+        {
+          "key": "C",
+          "text": "CopyToClipboard+"
+        },
+        {
+          "key": "D",
+          "text": "PasteFromClipboard+"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Кадом бандҳо одатан дар менюи «Файл» ҷой мегиранд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TrackBar"
+        },
+        {
+          "key": "B",
+          "text": "Кушодан+"
+        },
+        {
+          "key": "C",
+          "text": "Сабт+"
+        },
+        {
+          "key": "D",
+          "text": "RadioButton"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Кадом бандҳо одатан дар менюи «Таҳрир» ҷой мегиранд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Нусха+"
+        },
+        {
+          "key": "B",
+          "text": "Гузоштан+"
+        },
+        {
+          "key": "C",
+          "text": "OpenDialog"
+        },
+        {
+          "key": "D",
+          "text": "ColorDialog"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Кадомҳо аломатҳои муҳими меню мебошанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Checked+"
+        },
+        {
+          "key": "B",
+          "text": "PasswordChar"
+        },
+        {
+          "key": "C",
+          "text": "MaxLength"
+        },
+        {
+          "key": "D",
+          "text": "ShortCut+"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Кадомҳо барои менюи контекстӣ истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "MonthCalendar"
+        },
+        {
+          "key": "B",
+          "text": "NotifyIcon"
+        },
+        {
+          "key": "C",
+          "text": "PopupMenu+"
+        },
+        {
+          "key": "D",
+          "text": "Тугмаи рости муш+"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Кадомҳо дар панели асбобҳо маъмуланд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TFontDialog"
+        },
+        {
+          "key": "B",
+          "text": "TToolButton+"
+        },
+        {
+          "key": "C",
+          "text": "Separator+"
+        },
+        {
+          "key": "D",
+          "text": "TMaskEdit"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Кадомҳо натиҷаи истифодаи TActionList мебошанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Як фармон дар меню ва toolbar як хел иҷро мешавад+"
+        },
+        {
+          "key": "B",
+          "text": "Enabled/Caption дар як ҷой идора мешавад+"
+        },
+        {
+          "key": "C",
+          "text": "Файл худкор рамз мешавад"
+        },
+        {
+          "key": "D",
+          "text": "Шрифт худкор иваз мешавад"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Кадомҳо хосиятҳои OpenFileDialog ё SaveFileDialog мебошанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Filter+"
+        },
+        {
+          "key": "B",
+          "text": "Checked"
+        },
+        {
+          "key": "C",
+          "text": "Interval"
+        },
+        {
+          "key": "D",
+          "text": "FileName+"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Кадомҳо барои бастани форма ё барнома истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "StrToInt"
+        },
+        {
+          "key": "B",
+          "text": "LoadFromFile"
+        },
+        {
+          "key": "C",
+          "text": "Close()+"
+        },
+        {
+          "key": "D",
+          "text": "Application->Terminate()+"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Кадомҳо муносибати байни формаҳоро ташкил медиҳанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "ImageIndex"
+        },
+        {
+          "key": "B",
+          "text": "Show()+"
+        },
+        {
+          "key": "C",
+          "text": "ShowDialog()+"
+        },
+        {
+          "key": "D",
+          "text": "EditMask"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Кадомҳо барои формаи ғайристандартӣ бештар тағйир дода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "BorderStyle+"
+        },
+        {
+          "key": "B",
+          "text": "FormBorderStyle+"
+        },
+        {
+          "key": "C",
+          "text": "FileName"
+        },
+        {
+          "key": "D",
+          "text": "Items"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Кадомҳо барои ҷойгиркунии мутобиқшавандаи компонентҳо истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TableLayoutPanel+"
+        },
+        {
+          "key": "B",
+          "text": "Timer"
+        },
+        {
+          "key": "C",
+          "text": "FontDialog"
+        },
+        {
+          "key": "D",
+          "text": "FlowLayoutPanel+"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Кадомҳо ҷудокунии фазои равзанаро таъмин мекунанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "StreamWriter"
+        },
+        {
+          "key": "B",
+          "text": "ColorDialog"
+        },
+        {
+          "key": "C",
+          "text": "SplitContainer+"
+        },
+        {
+          "key": "D",
+          "text": "Panel+"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "Кадомҳо барои сатҳи пешрафти амалҳо истифода мешаванд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TMainMenu"
+        },
+        {
+          "key": "B",
+          "text": "ProgressBar+"
+        },
+        {
+          "key": "C",
+          "text": "Timer+"
+        },
+        {
+          "key": "D",
+          "text": "LinkLabel"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Кадомҳо ба NotifyIcon вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Намоиш дар system tray+"
+        },
+        {
+          "key": "B",
+          "text": "Истифодаи менюи контекстӣ+"
+        },
+        {
+          "key": "C",
+          "text": "Интихоби шрифт"
+        },
+        {
+          "key": "D",
+          "text": "Хондани файл"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Кадомҳо ба LinkLabel вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "ShellExecute+"
+        },
+        {
+          "key": "B",
+          "text": "SetError"
+        },
+        {
+          "key": "C",
+          "text": "SaveToFile"
+        },
+        {
+          "key": "D",
+          "text": "Кушодани пайванд+"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Кадомҳо ба FontDialog вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Filter"
+        },
+        {
+          "key": "B",
+          "text": "Nodes"
+        },
+        {
+          "key": "C",
+          "text": "Font+"
+        },
+        {
+          "key": "D",
+          "text": "ShowColor+"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Кадомҳо ба ColorDialog вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "ShortCut"
+        },
+        {
+          "key": "B",
+          "text": "Color+"
+        },
+        {
+          "key": "C",
+          "text": "FullOpen+"
+        },
+        {
+          "key": "D",
+          "text": "EditMask"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Кадомҳо ба ErrorProvider вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "SetError(control, message)+"
+        },
+        {
+          "key": "B",
+          "text": "SetError(control, \"\")+"
+        },
+        {
+          "key": "C",
+          "text": "LoadFromFile"
+        },
+        {
+          "key": "D",
+          "text": "ImageIndex"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Кадомҳо ба TreeView вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Иерархия+"
+        },
+        {
+          "key": "B",
+          "text": "Filter"
+        },
+        {
+          "key": "C",
+          "text": "DialogResult"
+        },
+        {
+          "key": "D",
+          "text": "Nodes+"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Кадомҳо ба ListView вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "EditMask"
+        },
+        {
+          "key": "B",
+          "text": "Application->Terminate"
+        },
+        {
+          "key": "C",
+          "text": "Items+"
+        },
+        {
+          "key": "D",
+          "text": "Columns+"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Кадомҳо ба ComboBox вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "TStatusBar"
+        },
+        {
+          "key": "B",
+          "text": "Items+"
+        },
+        {
+          "key": "C",
+          "text": "SelectedIndex+"
+        },
+        {
+          "key": "D",
+          "text": "TActionList"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Кадомҳо ба CheckBox вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Checked+"
+        },
+        {
+          "key": "B",
+          "text": "CheckState+"
+        },
+        {
+          "key": "C",
+          "text": "FileName"
+        },
+        {
+          "key": "D",
+          "text": "Filter"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Кадомҳо ба RadioButton вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "GroupBox барои гурӯҳбандӣ+"
+        },
+        {
+          "key": "B",
+          "text": "SaveDialog"
+        },
+        {
+          "key": "C",
+          "text": "StreamReader"
+        },
+        {
+          "key": "D",
+          "text": "Checked+"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Кадомҳо ба Timer вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "FileName"
+        },
+        {
+          "key": "B",
+          "text": "Caption"
+        },
+        {
+          "key": "C",
+          "text": "Interval+"
+        },
+        {
+          "key": "D",
+          "text": "Tick+"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "Кадомҳо ба PictureBox вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "SetError"
+        },
+        {
+          "key": "B",
+          "text": "Image+"
+        },
+        {
+          "key": "C",
+          "text": "SizeMode+"
+        },
+        {
+          "key": "D",
+          "text": "ShortCut"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Кадомҳо ба WebBrowser вобастаанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Navigate+"
+        },
+        {
+          "key": "B",
+          "text": "Url+"
+        },
+        {
+          "key": "C",
+          "text": "PasswordChar"
+        },
+        {
+          "key": "D",
+          "text": "Checked"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Кадомҳо дар барномаи графикии таълимӣ натиҷаи хуб медиҳанд?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Санҷиши дурусти дохилкунӣ+"
+        },
+        {
+          "key": "B",
+          "text": "Номҳои тасодуфии компонентҳо"
+        },
+        {
+          "key": "C",
+          "text": "Пинҳон кардани ҳамаи тугмаҳо"
+        },
+        {
+          "key": "D",
+          "text": "Интерфейси равшан+"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "question": "Истилоҳ ва маънои онро мувофиқат кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Form",
+          "right_key": "1",
+          "right_text": "Равзанаи асосии барнома"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Component",
+          "right_key": "2",
+          "right_text": "Унсури визуалӣ дар форма"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Property",
+          "right_key": "3",
+          "right_text": "Хосияти намуди зоҳирӣ ё ҳолат"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Event",
+          "right_key": "4",
+          "right_text": "Рӯйдоди ба амал вобаста"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Method",
+          "right_key": "5",
+          "right_text": "Амали иҷрошавандаи объект"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Компонент ва вазифаи онро мувофиқат кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Button",
+          "right_key": "1",
+          "right_text": "Иҷрои амал баъди пахш"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Edit",
+          "right_key": "2",
+          "right_text": "Ворид кардани матн"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Label",
+          "right_key": "3",
+          "right_text": "Намоиши шарҳ ё натиҷа"
+        },
+        {
+          "left_key": "D",
+          "left_text": "MaskEdit",
+          "right_key": "4",
+          "right_text": "Воридкунии қолабӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "LinkLabel",
+          "right_key": "5",
+          "right_text": "Кушодани пайванд"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Хосият ва вазифаи онро мувофиқат кунед:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Name",
+          "right_key": "1",
+          "right_text": "Номи дохилӣ барои код"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Caption",
+          "right_key": "2",
+          "right_text": "Матни намоишшаванда"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Enabled",
+          "right_key": "3",
+          "right_text": "Фаъол ё ғайрифаъол"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Visible",
+          "right_key": "4",
+          "right_text": "Намоён ё пинҳон"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Font",
+          "right_key": "5",
+          "right_text": "Навъи ҳарф ва андоза"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Хосияти Edit ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Text",
+          "right_key": "1",
+          "right_text": "Матни дохилшуда"
+        },
+        {
+          "left_key": "B",
+          "left_text": "MaxLength",
+          "right_key": "2",
+          "right_text": "Маҳдуди шумораи аломат"
+        },
+        {
+          "left_key": "C",
+          "left_text": "ReadOnly",
+          "right_key": "3",
+          "right_text": "Манъи таҳрири матн"
+        },
+        {
+          "left_key": "D",
+          "left_text": "PasswordChar",
+          "right_key": "4",
+          "right_text": "Пинҳон кардани рамз"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Clear",
+          "right_key": "5",
+          "right_text": "Тоза кардани майдон"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Рӯйдод ва ҳолати иҷро:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "OnClick",
+          "right_key": "1",
+          "right_text": "Пахш кардани тугма ё компонент"
+        },
+        {
+          "left_key": "B",
+          "left_text": "OnCreate",
+          "right_key": "2",
+          "right_text": "Сохта шудани форма"
+        },
+        {
+          "left_key": "C",
+          "left_text": "OnClose",
+          "right_key": "3",
+          "right_text": "Баста шудани форма"
+        },
+        {
+          "left_key": "D",
+          "left_text": "OnChange",
+          "right_key": "4",
+          "right_text": "Тағйири қимат"
+        },
+        {
+          "left_key": "E",
+          "left_text": "OnKeyPress",
+          "right_key": "5",
+          "right_text": "Пахши тугмаи клавиатура"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Фармон ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "StrToInt",
+          "right_key": "1",
+          "right_text": "Матнро ба адад табдил медиҳад"
+        },
+        {
+          "left_key": "B",
+          "left_text": "IntToStr",
+          "right_key": "2",
+          "right_text": "Ададро ба матн табдил медиҳад"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Close",
+          "right_key": "3",
+          "right_text": "Формаро мебандад"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Show",
+          "right_key": "4",
+          "right_text": "Формаро намоиш медиҳад"
+        },
+        {
+          "left_key": "E",
+          "left_text": "ShowDialog",
+          "right_key": "5",
+          "right_text": "Формаро модалӣ мекушояд"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Контейнер ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "GroupBox",
+          "right_key": "1",
+          "right_text": "Гурӯҳбандии элементҳои вобаста"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Panel",
+          "right_key": "2",
+          "right_text": "Ҷойгиркунии компонентҳо"
+        },
+        {
+          "left_key": "C",
+          "left_text": "FlowLayoutPanel",
+          "right_key": "3",
+          "right_text": "Ҷойгиркунии пайдарпай"
+        },
+        {
+          "left_key": "D",
+          "left_text": "TableLayoutPanel",
+          "right_key": "4",
+          "right_text": "Ҷойгиркунии сатрӣ-сутунӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "SplitContainer",
+          "right_key": "5",
+          "right_text": "Ҷудо кардани равзана ба ду қисм"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Компонентҳои интихоб ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "RadioButton",
+          "right_key": "1",
+          "right_text": "Интихоби як вариант"
+        },
+        {
+          "left_key": "B",
+          "left_text": "CheckBox",
+          "right_key": "2",
+          "right_text": "Интихоби мустақили вариант"
+        },
+        {
+          "left_key": "C",
+          "left_text": "ComboBox",
+          "right_key": "3",
+          "right_text": "Рӯйхати кушодашаванда"
+        },
+        {
+          "left_key": "D",
+          "left_text": "ListBox",
+          "right_key": "4",
+          "right_text": "Рӯйхати одӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "CheckedListBox",
+          "right_key": "5",
+          "right_text": "Рӯйхат бо қуттиҳои интихоб"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Компонентҳои ададӣ ва вақт:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "NumericUpDown",
+          "right_key": "1",
+          "right_text": "Интихоби адад"
+        },
+        {
+          "left_key": "B",
+          "left_text": "DomainUpDown",
+          "right_key": "2",
+          "right_text": "Интихоби арзиши рӯйхатӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "TrackBar",
+          "right_key": "3",
+          "right_text": "Интихоби қимат бо лағжонак"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Timer",
+          "right_key": "4",
+          "right_text": "Иҷрои амали даврӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "ProgressBar",
+          "right_key": "5",
+          "right_text": "Намоиши пешрафт"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Компонентҳои сана ва тасвир:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "DateTimePicker",
+          "right_key": "1",
+          "right_text": "Интихоби сана ё вақт"
+        },
+        {
+          "left_key": "B",
+          "left_text": "MonthCalendar",
+          "right_key": "2",
+          "right_text": "Намоиши тақвим"
+        },
+        {
+          "left_key": "C",
+          "left_text": "PictureBox",
+          "right_key": "3",
+          "right_text": "Намоиши расм"
+        },
+        {
+          "left_key": "D",
+          "left_text": "WebBrowser",
+          "right_key": "4",
+          "right_text": "Намоиши веб-саҳифа"
+        },
+        {
+          "left_key": "E",
+          "left_text": "NotifyIcon",
+          "right_key": "5",
+          "right_text": "Нишона дар system tray"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Диалог ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "OpenFileDialog",
+          "right_key": "1",
+          "right_text": "Интихоби файл барои кушодан"
+        },
+        {
+          "left_key": "B",
+          "left_text": "SaveFileDialog",
+          "right_key": "2",
+          "right_text": "Интихоби ҷойи сабти файл"
+        },
+        {
+          "left_key": "C",
+          "left_text": "FontDialog",
+          "right_key": "3",
+          "right_text": "Интихоби шрифт"
+        },
+        {
+          "left_key": "D",
+          "left_text": "ColorDialog",
+          "right_key": "4",
+          "right_text": "Интихоби ранг"
+        },
+        {
+          "left_key": "E",
+          "left_text": "MessageBox",
+          "right_key": "5",
+          "right_text": "Намоиши паём"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "FontDialog ва хосиятҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Font",
+          "right_key": "1",
+          "right_text": "Шрифти интихобшуда"
+        },
+        {
+          "left_key": "B",
+          "left_text": "ShowColor",
+          "right_key": "2",
+          "right_text": "Намоиши интихоби ранг"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Color",
+          "right_key": "3",
+          "right_text": "Ранги матни интихобшуда"
+        },
+        {
+          "left_key": "D",
+          "left_text": "MinSize",
+          "right_key": "4",
+          "right_text": "Андозаи хурдтарин"
+        },
+        {
+          "left_key": "E",
+          "left_text": "MaxSize",
+          "right_key": "5",
+          "right_text": "Андозаи калонтарин"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "ColorDialog ва хосиятҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Color",
+          "right_key": "1",
+          "right_text": "Ранги интихобшуда"
+        },
+        {
+          "left_key": "B",
+          "left_text": "AllowFullOpen",
+          "right_key": "2",
+          "right_text": "Иҷозати кушодани интихоби пурра"
+        },
+        {
+          "left_key": "C",
+          "left_text": "FullOpen",
+          "right_key": "3",
+          "right_text": "Кушодани қисми иловагӣ"
+        },
+        {
+          "left_key": "D",
+          "left_text": "SolidColorOnly",
+          "right_key": "4",
+          "right_text": "Маҳдуд ба рангҳои одӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "ShowDialog",
+          "right_key": "5",
+          "right_text": "Кушодани равзанаи диалогӣ"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "ErrorProvider ва амалҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "SetError(control, message)",
+          "right_key": "1",
+          "right_text": "Нишон додани хатогӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "SetError(control, \"\")",
+          "right_key": "2",
+          "right_text": "Тоза кардани хатогӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Icon",
+          "right_key": "3",
+          "right_text": "Аломати огоҳкунанда"
+        },
+        {
+          "left_key": "D",
+          "left_text": "BlinkStyle",
+          "right_key": "4",
+          "right_text": "Услуби милт-милт"
+        },
+        {
+          "left_key": "E",
+          "left_text": "TextBox",
+          "right_key": "5",
+          "right_text": "Компоненти санҷидашаванда"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Меню ва аналоги VCL:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "MenuStrip",
+          "right_key": "1",
+          "right_text": "TMainMenu"
+        },
+        {
+          "left_key": "B",
+          "left_text": "ToolStrip",
+          "right_key": "2",
+          "right_text": "TToolBar"
+        },
+        {
+          "left_key": "C",
+          "left_text": "ToolStripButton",
+          "right_key": "3",
+          "right_text": "TToolButton"
+        },
+        {
+          "left_key": "D",
+          "left_text": "ToolStripMenuItem",
+          "right_key": "4",
+          "right_text": "TMenuItem"
+        },
+        {
+          "left_key": "E",
+          "left_text": "ContextMenuStrip",
+          "right_key": "5",
+          "right_text": "TPopupMenu"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Компонентҳои меню ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "TMainMenu",
+          "right_key": "1",
+          "right_text": "Менюи асосӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "TMenuItem",
+          "right_key": "2",
+          "right_text": "Банди меню"
+        },
+        {
+          "left_key": "C",
+          "left_text": "TToolBar",
+          "right_key": "3",
+          "right_text": "Панели асбобҳо"
+        },
+        {
+          "left_key": "D",
+          "left_text": "TToolButton",
+          "right_key": "4",
+          "right_text": "Тугмаи toolbar"
+        },
+        {
+          "left_key": "E",
+          "left_text": "TStatusBar",
+          "right_key": "5",
+          "right_text": "Сатри ҳолат"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Аломатҳои меню ва маъно:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "ShortCut",
+          "right_key": "1",
+          "right_text": "Миёнбури клавиатура"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Checked",
+          "right_key": "2",
+          "right_text": "Ҳолати интихобшуда"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Enabled",
+          "right_key": "3",
+          "right_text": "Фаъол будани фармон"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Caption = '-'",
+          "right_key": "4",
+          "right_text": "Ҷудокунанда"
+        },
+        {
+          "left_key": "E",
+          "left_text": "...",
+          "right_key": "5",
+          "right_text": "Кушодани равзанаи иловагӣ"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "ActionList ва ҷузъҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "TActionList",
+          "right_key": "1",
+          "right_text": "Идораи фармонҳои умумӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Action",
+          "right_key": "2",
+          "right_text": "Фармони ягона"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Caption",
+          "right_key": "3",
+          "right_text": "Матни фармон"
+        },
+        {
+          "left_key": "D",
+          "left_text": "ImageIndex",
+          "right_key": "4",
+          "right_text": "Рақами нишона"
+        },
+        {
+          "left_key": "E",
+          "left_text": "OnExecute",
+          "right_key": "5",
+          "right_text": "Иҷрои фармон"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "ImageList ва истифода:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "TImageList",
+          "right_key": "1",
+          "right_text": "Нигоҳдории нишонаҳо"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Images",
+          "right_key": "2",
+          "right_text": "Пайвастшавӣ ба toolbar/menu"
+        },
+        {
+          "left_key": "C",
+          "left_text": "ImageIndex",
+          "right_key": "3",
+          "right_text": "Интихоби нишона"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Icon",
+          "right_key": "4",
+          "right_text": "Тасвири хурди фармон"
+        },
+        {
+          "left_key": "E",
+          "left_text": "16x16",
+          "right_key": "5",
+          "right_text": "Андозаи маъмули нишона"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Менюи «Файл» ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Нав",
+          "right_key": "1",
+          "right_text": "Сохтани ҳуҷҷати нав"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Кушодан",
+          "right_key": "2",
+          "right_text": "Кушодани файл"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Сабт",
+          "right_key": "3",
+          "right_text": "Сабт кардани файл"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Сабт ҳамчун",
+          "right_key": "4",
+          "right_text": "Интихоби ҷойи сабт"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Баромад",
+          "right_key": "5",
+          "right_text": "Бастани барнома"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Менюи «Таҳрир» ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Нусха",
+          "right_key": "1",
+          "right_text": "Copy"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Гузоштан",
+          "right_key": "2",
+          "right_text": "Paste"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Буридан",
+          "right_key": "3",
+          "right_text": "Cut"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Тоза кардан",
+          "right_key": "4",
+          "right_text": "Clear"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Ҳамаашро интихоб кардан",
+          "right_key": "5",
+          "right_text": "Select All"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "TMemo ва амалҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Clear",
+          "right_key": "1",
+          "right_text": "Тоза кардани матн"
+        },
+        {
+          "left_key": "B",
+          "left_text": "CopyToClipboard",
+          "right_key": "2",
+          "right_text": "Нусха ба буфер"
+        },
+        {
+          "left_key": "C",
+          "left_text": "PasteFromClipboard",
+          "right_key": "3",
+          "right_text": "Гузоштан аз буфер"
+        },
+        {
+          "left_key": "D",
+          "left_text": "CutToClipboard",
+          "right_key": "4",
+          "right_text": "Буридан ба буфер"
+        },
+        {
+          "left_key": "E",
+          "left_text": "SelLength",
+          "right_key": "5",
+          "right_text": "Дарозии матни интихобшуда"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "OpenDialog/SaveDialog ва хосият:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "FileName",
+          "right_key": "1",
+          "right_text": "Номи файли интихобшуда"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Filter",
+          "right_key": "2",
+          "right_text": "Филтри намудҳои файл"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Execute",
+          "right_key": "3",
+          "right_text": "Кушодани диалог"
+        },
+        {
+          "left_key": "D",
+          "left_text": "DefaultExt",
+          "right_key": "4",
+          "right_text": "Пасванди пешфарз"
+        },
+        {
+          "left_key": "E",
+          "left_text": "InitialDir",
+          "right_key": "5",
+          "right_text": "Ҷузвдони оғозӣ"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Кор бо файлҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "StreamReader",
+          "right_key": "1",
+          "right_text": "Хондани файл"
+        },
+        {
+          "left_key": "B",
+          "left_text": "StreamWriter",
+          "right_key": "2",
+          "right_text": "Навиштан ба файл"
+        },
+        {
+          "left_key": "C",
+          "left_text": "ReadLine",
+          "right_key": "3",
+          "right_text": "Хондани як сатр"
+        },
+        {
+          "left_key": "D",
+          "left_text": "WriteLine",
+          "right_key": "4",
+          "right_text": "Навиштани як сатр"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Close",
+          "right_key": "5",
+          "right_text": "Бастани ҷараён"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Форма ва намоиш:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Show",
+          "right_key": "1",
+          "right_text": "Намоиши ғайримодалӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "ShowDialog",
+          "right_key": "2",
+          "right_text": "Намоиши модалӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Hide",
+          "right_key": "3",
+          "right_text": "Пинҳон кардани форма"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Close",
+          "right_key": "4",
+          "right_text": "Бастани форма"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Position",
+          "right_key": "5",
+          "right_text": "Ҷойи пайдо шудани форма"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Хосиятҳои форма:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Caption/Text",
+          "right_key": "1",
+          "right_text": "Сарлавҳаи форма"
+        },
+        {
+          "left_key": "B",
+          "left_text": "BackColor",
+          "right_key": "2",
+          "right_text": "Ранги замина"
+        },
+        {
+          "left_key": "C",
+          "left_text": "BorderStyle",
+          "right_key": "3",
+          "right_text": "Намуди ҳошия"
+        },
+        {
+          "left_key": "D",
+          "left_text": "WindowState",
+          "right_key": "4",
+          "right_text": "Ҳолати равзана"
+        },
+        {
+          "left_key": "E",
+          "left_text": "StartPosition",
+          "right_key": "5",
+          "right_text": "Ҷойи оғоз"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Формаи ғайристандартӣ:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "BorderStyle = None",
+          "right_key": "1",
+          "right_text": "Бе ҳошияи стандартӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Region",
+          "right_key": "2",
+          "right_text": "Шакли махсус"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Close button",
+          "right_key": "3",
+          "right_text": "Тугмаи бастан"
+        },
+        {
+          "left_key": "D",
+          "left_text": "MouseDown",
+          "right_key": "4",
+          "right_text": "Оғози кашидани форма"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Opacity",
+          "right_key": "5",
+          "right_text": "Шаффофият"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "RadioButton ва CheckBox:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Checked",
+          "right_key": "1",
+          "right_text": "Интихоб шудааст"
+        },
+        {
+          "left_key": "B",
+          "left_text": "GroupBox",
+          "right_key": "2",
+          "right_text": "Гурӯҳ барои RadioButton"
+        },
+        {
+          "left_key": "C",
+          "left_text": "CheckState",
+          "right_key": "3",
+          "right_text": "Ҳолати CheckBox"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Text",
+          "right_key": "4",
+          "right_text": "Матни намоиш"
+        },
+        {
+          "left_key": "E",
+          "left_text": "OnCheckedChanged",
+          "right_key": "5",
+          "right_text": "Рӯйдоди тағйири интихоб"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "ComboBox/ListBox ва хосият:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Items",
+          "right_key": "1",
+          "right_text": "Бандҳои рӯйхат"
+        },
+        {
+          "left_key": "B",
+          "left_text": "SelectedIndex",
+          "right_key": "2",
+          "right_text": "Индекси интихоб"
+        },
+        {
+          "left_key": "C",
+          "left_text": "SelectedItem",
+          "right_key": "3",
+          "right_text": "Банди интихобшуда"
+        },
+        {
+          "left_key": "D",
+          "left_text": "DropDownStyle",
+          "right_key": "4",
+          "right_text": "Услуби кушодашавӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Sorted",
+          "right_key": "5",
+          "right_text": "Мураттабсозии рӯйхат"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "ListView ва TreeView:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "ListView",
+          "right_key": "1",
+          "right_text": "Рӯйхат бо сутунҳо ё нишонаҳо"
+        },
+        {
+          "left_key": "B",
+          "left_text": "TreeView",
+          "right_key": "2",
+          "right_text": "Дарахти иерархӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Columns",
+          "right_key": "3",
+          "right_text": "Сутунҳои ListView"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Nodes",
+          "right_key": "4",
+          "right_text": "Гиреҳҳои TreeView"
+        },
+        {
+          "left_key": "E",
+          "left_text": "SelectedNode",
+          "right_key": "5",
+          "right_text": "Гиреҳ интихобшуда"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "ProgressBar ва Timer:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "ProgressBar",
+          "right_key": "1",
+          "right_text": "Намоиши пешрафт"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Minimum",
+          "right_key": "2",
+          "right_text": "Қимати хурдтарин"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Maximum",
+          "right_key": "3",
+          "right_text": "Қимати калонтарин"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Value",
+          "right_key": "4",
+          "right_text": "Қимати ҷорӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Timer.Tick",
+          "right_key": "5",
+          "right_text": "Рӯйдоди даврӣ"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "PictureBox ва тасвир:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Image",
+          "right_key": "1",
+          "right_text": "Тасвири намоишшаванда"
+        },
+        {
+          "left_key": "B",
+          "left_text": "SizeMode",
+          "right_key": "2",
+          "right_text": "Услуби ҷойгиркунии расм"
+        },
+        {
+          "left_key": "C",
+          "left_text": "StretchImage",
+          "right_key": "3",
+          "right_text": "Кашидани расм ба андоза"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Zoom",
+          "right_key": "4",
+          "right_text": "Нигоҳ доштани таносуб"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Load",
+          "right_key": "5",
+          "right_text": "Бор кардани тасвир"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "WebBrowser ва амал:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Navigate",
+          "right_key": "1",
+          "right_text": "Гузаштан ба суроға"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Url",
+          "right_key": "2",
+          "right_text": "Суроғаи саҳифа"
+        },
+        {
+          "left_key": "C",
+          "left_text": "DocumentText",
+          "right_key": "3",
+          "right_text": "Матни HTML"
+        },
+        {
+          "left_key": "D",
+          "left_text": "GoBack",
+          "right_key": "4",
+          "right_text": "Бозгашт"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Refresh",
+          "right_key": "5",
+          "right_text": "Навсозӣ"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "NotifyIcon ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Icon",
+          "right_key": "1",
+          "right_text": "Нишона"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Visible",
+          "right_key": "2",
+          "right_text": "Намоён дар tray"
+        },
+        {
+          "left_key": "C",
+          "left_text": "BalloonTipText",
+          "right_key": "3",
+          "right_text": "Матни огоҳӣ"
+        },
+        {
+          "left_key": "D",
+          "left_text": "ContextMenu",
+          "right_key": "4",
+          "right_text": "Менюи контекстӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "DoubleClick",
+          "right_key": "5",
+          "right_text": "Амали дукарата пахш"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "MessageBox ва намудҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Information",
+          "right_key": "1",
+          "right_text": "Паёми иттилоотӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Warning",
+          "right_key": "2",
+          "right_text": "Огоҳӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Error",
+          "right_key": "3",
+          "right_text": "Хатогӣ"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Question",
+          "right_key": "4",
+          "right_text": "Савол"
+        },
+        {
+          "left_key": "E",
+          "left_text": "OKCancel",
+          "right_key": "5",
+          "right_text": "Тугмаҳои OK ва Cancel"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "MaskEdit ва қолабҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "EditMask",
+          "right_key": "1",
+          "right_text": "Қолаби воридкунӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "00/00/0000",
+          "right_key": "2",
+          "right_text": "Қолаби сана"
+        },
+        {
+          "left_key": "C",
+          "left_text": "!99 000-00-00",
+          "right_key": "3",
+          "right_text": "Қолаби телефон"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Text",
+          "right_key": "4",
+          "right_text": "Матни воридшуда"
+        },
+        {
+          "left_key": "E",
+          "left_text": "PromptChar",
+          "right_key": "5",
+          "right_text": "Аломати ҷойнишин"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Лоиҳа ва марҳилаҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "File -> New",
+          "right_key": "1",
+          "right_text": "Сохтани лоиҳаи нав"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Tool Palette",
+          "right_key": "2",
+          "right_text": "Интихоби компонентҳо"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Object Inspector",
+          "right_key": "3",
+          "right_text": "Танзими хосиятҳо"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Run",
+          "right_key": "4",
+          "right_text": "Иҷрои барнома"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Build",
+          "right_key": "5",
+          "right_text": "Компилятсия"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Компонент ва номи намунавӣ:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "TButton",
+          "right_key": "1",
+          "right_text": "Button1"
+        },
+        {
+          "left_key": "B",
+          "left_text": "TEdit",
+          "right_key": "2",
+          "right_text": "Edit1"
+        },
+        {
+          "left_key": "C",
+          "left_text": "TLabel",
+          "right_key": "3",
+          "right_text": "Label1"
+        },
+        {
+          "left_key": "D",
+          "left_text": "TOpenDialog",
+          "right_key": "4",
+          "right_text": "OpenDialog1"
+        },
+        {
+          "left_key": "E",
+          "left_text": "TSaveDialog",
+          "right_key": "5",
+          "right_text": "SaveDialog1"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Компонент ва макони маъмул:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "MainMenu",
+          "right_key": "1",
+          "right_text": "Болои равзана"
+        },
+        {
+          "left_key": "B",
+          "left_text": "ToolBar",
+          "right_key": "2",
+          "right_text": "Зери меню"
+        },
+        {
+          "left_key": "C",
+          "left_text": "StatusBar",
+          "right_key": "3",
+          "right_text": "Поёни равзана"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Panel",
+          "right_key": "4",
+          "right_text": "Қисми дохилии форма"
+        },
+        {
+          "left_key": "E",
+          "left_text": "NotifyIcon",
+          "right_key": "5",
+          "right_text": "System tray"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Ҷойгиркунӣ ва маъно:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Align = alTop",
+          "right_key": "1",
+          "right_text": "Ҷойгиршавӣ дар боло"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Align = alBottom",
+          "right_key": "2",
+          "right_text": "Ҷойгиршавӣ дар поён"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Align = alClient",
+          "right_key": "3",
+          "right_text": "Пур кардани қисми боқимонда"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Dock",
+          "right_key": "4",
+          "right_text": "Пайвастшавӣ ба канор"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Anchor",
+          "right_key": "5",
+          "right_text": "Нигоҳ доштани масофа то канор"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Хатогиҳои маъмул ва ислоҳ:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Меню намоён нест",
+          "right_key": "1",
+          "right_text": "TMainMenu илова карда шавад"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Нишона нест",
+          "right_key": "2",
+          "right_text": "Images ба ImageList пайваст шавад"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Shortcut кор намекунад",
+          "right_key": "3",
+          "right_text": "ShortCut дуруст танзим шавад"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Copy ҳамеша фаъол аст",
+          "right_key": "4",
+          "right_text": "OnUpdate истифода шавад"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Файл кушода намешавад",
+          "right_key": "5",
+          "right_text": "Execute ва FileName санҷида шавад"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Санҷиши дохилкунӣ:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "TextBox холӣ",
+          "right_key": "1",
+          "right_text": "Паёми 'Номро ворид кунед'"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Синну сол манфӣ",
+          "right_key": "2",
+          "right_text": "Хато бо ErrorProvider"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Телефон бе қолаб",
+          "right_key": "3",
+          "right_text": "Истифодаи MaskEdit"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Маълумот дуруст",
+          "right_key": "4",
+          "right_text": "Хатогӣ тоза мешавад"
+        },
+        {
+          "left_key": "E",
+          "left_text": "TryParse",
+          "right_key": "5",
+          "right_text": "Санҷиши ададӣ"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Фарқияти интихобҳо:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "RadioButton",
+          "right_key": "1",
+          "right_text": "Як интихоб дар гурӯҳ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "CheckBox",
+          "right_key": "2",
+          "right_text": "Интихоби мустақил"
+        },
+        {
+          "left_key": "C",
+          "left_text": "ComboBox",
+          "right_key": "3",
+          "right_text": "Рӯйхати кушодашаванда"
+        },
+        {
+          "left_key": "D",
+          "left_text": "CheckedListBox",
+          "right_key": "4",
+          "right_text": "Якчанд интихоби қайдшаванда"
+        },
+        {
+          "left_key": "E",
+          "left_text": "ListBox",
+          "right_key": "5",
+          "right_text": "Рӯйхати одӣ"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Компонентҳои дар муҳаррири матн:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "TMemo",
+          "right_key": "1",
+          "right_text": "Майдони матн"
+        },
+        {
+          "left_key": "B",
+          "left_text": "TMainMenu",
+          "right_key": "2",
+          "right_text": "Менюи асосӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "TToolBar",
+          "right_key": "3",
+          "right_text": "Фармонҳои зуд"
+        },
+        {
+          "left_key": "D",
+          "left_text": "TOpenDialog",
+          "right_key": "4",
+          "right_text": "Кушодани файл"
+        },
+        {
+          "left_key": "E",
+          "left_text": "TSaveDialog",
+          "right_key": "5",
+          "right_text": "Сабти файл"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Ҷузъи ToolBar ва вазифа:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "tbsButton",
+          "right_key": "1",
+          "right_text": "Тугмаи одӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "tbsCheck",
+          "right_key": "2",
+          "right_text": "Тугмаи интихобӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "tbsDropDown",
+          "right_key": "3",
+          "right_text": "Тугмаи дорои рӯйхат"
+        },
+        {
+          "left_key": "D",
+          "left_text": "tbsSeparator",
+          "right_key": "4",
+          "right_text": "Ҷудокунанда"
+        },
+        {
+          "left_key": "E",
+          "left_text": "tbsDivider",
+          "right_key": "5",
+          "right_text": "Ҷудокунии визуалӣ"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Хосиятҳои Action:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Caption",
+          "right_key": "1",
+          "right_text": "Матни фармон"
+        },
+        {
+          "left_key": "B",
+          "left_text": "ShortCut",
+          "right_key": "2",
+          "right_text": "Миёнбур"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Enabled",
+          "right_key": "3",
+          "right_text": "Фаъолият"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Checked",
+          "right_key": "4",
+          "right_text": "Ҳолати интихоб"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Hint",
+          "right_key": "5",
+          "right_text": "Маслиҳати кӯтоҳ"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Сатрҳои код ва маъно:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Label1->Caption = Edit1->Text",
+          "right_key": "1",
+          "right_text": "Намоиши матни воридшуда"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Edit1->Text = \"\"",
+          "right_key": "2",
+          "right_text": "Тоза кардани Edit"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Memo1->Clear()",
+          "right_key": "3",
+          "right_text": "Тоза кардани Memo"
+        },
+        {
+          "left_key": "D",
+          "left_text": "this->BackColor = color",
+          "right_key": "4",
+          "right_text": "Иваз кардани ранги форма"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Close()",
+          "right_key": "5",
+          "right_text": "Бастани равзана"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "Синф/компонент ва гурӯҳ:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "FontDialog",
+          "right_key": "1",
+          "right_text": "Диалоги хизматӣ"
+        },
+        {
+          "left_key": "B",
+          "left_text": "ErrorProvider",
+          "right_key": "2",
+          "right_text": "Назорати хатогӣ"
+        },
+        {
+          "left_key": "C",
+          "left_text": "ProgressBar",
+          "right_key": "3",
+          "right_text": "Намоиши пешрафт"
+        },
+        {
+          "left_key": "D",
+          "left_text": "TreeView",
+          "right_key": "4",
+          "right_text": "Намоиши иерархӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "OpenFileDialog",
+          "right_key": "5",
+          "right_text": "Диалоги файл"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Мафҳумҳои интерфейси хуб:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Меню",
+          "right_key": "1",
+          "right_text": "Фармонҳои гурӯҳбандишуда"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Toolbar",
+          "right_key": "2",
+          "right_text": "Дастрасии зуд"
+        },
+        {
+          "left_key": "C",
+          "left_text": "StatusBar",
+          "right_key": "3",
+          "right_text": "Маълумоти ҳолат"
+        },
+        {
+          "left_key": "D",
+          "left_text": "ErrorProvider",
+          "right_key": "4",
+          "right_text": "Огоҳии визуалӣ"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Dialog",
+          "right_key": "5",
+          "right_text": "Интихоби стандартӣ"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Саволҳои амалӣ ва ҷавоб:",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Ду адад ҷамъ кардан",
+          "right_key": "1",
+          "right_text": "StrToInt + IntToStr"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Номро нишон додан",
+          "right_key": "2",
+          "right_text": "Edit ва Label"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Телефон қабул кардан",
+          "right_key": "3",
+          "right_text": "MaskEdit"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Шрифт иваз кардан",
+          "right_key": "4",
+          "right_text": "FontDialog"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Ранг иваз кардан",
+          "right_key": "5",
+          "right_text": "ColorDialog"
+        }
+      ]
+    }
+  ]
+}
