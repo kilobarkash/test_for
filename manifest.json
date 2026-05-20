@@ -13,5 +13,11 @@
       "teacher" : "Бобохонов Х",
       "url": "https://kilobarkash.github.io/test_for/tests/бобохонов2.json"
     },
+    {
+      "id": "9",
+      "name": "Забони Англиси (рейтинги2)",
+      "teacher" : "Чумаева ",
+      "url": "https://kilobarkash.github.io/test_for/tests/англиси.json"
+    },
   ],
 }
