@@ -19,5 +19,11 @@
       "teacher" : "Чумаева ",
       "url": "https://kilobarkash.github.io/test_for/tests/англиси.json"
     },
+    {
+      "id": "9",
+      "name": "Мелиев (рейтинги2)",
+      "teacher" : "Мелиев ",
+      "url": "https://kilobarkash.github.io/test_for/tests/мелиев2.json"
+    },
   ],
 }
