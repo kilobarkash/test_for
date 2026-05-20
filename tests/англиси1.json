@@ -1,0 +1,7840 @@
+{
+  "teacher": "Давлатов Н., Ҷумаева П.А., Султонова Ф., Умаров С., Маҷидов П., Мавлоназаров С.",
+  "test_name": "Англиси",
+  "total_questions": 310,
+  "single_choice_count": 200,
+  "matching_count": 50,
+  "multiple_choice_count": 60,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Could you tell me where ______?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "is Green & Co;+"
+        },
+        {
+          "key": "B",
+          "text": "green is;"
+        },
+        {
+          "key": "C",
+          "text": "if library;"
+        },
+        {
+          "key": "D",
+          "text": "are company;"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "The dean asked them to go _________ the classroom.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "to;+"
+        },
+        {
+          "key": "B",
+          "text": "in;"
+        },
+        {
+          "key": "C",
+          "text": "out;"
+        },
+        {
+          "key": "D",
+          "text": "on;"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "The students ________ studying at the University.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "are;+"
+        },
+        {
+          "key": "B",
+          "text": "was;"
+        },
+        {
+          "key": "C",
+          "text": "am;"
+        },
+        {
+          "key": "D",
+          "text": "is;"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "It ______________ from Rossexport.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "is an offer;+"
+        },
+        {
+          "key": "B",
+          "text": "offer;"
+        },
+        {
+          "key": "C",
+          "text": "are offer;"
+        },
+        {
+          "key": "D",
+          "text": "am offer;"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "There are a lot of …. in my bookshelf.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "books;+"
+        },
+        {
+          "key": "B",
+          "text": "pen;"
+        },
+        {
+          "key": "C",
+          "text": "pencil;"
+        },
+        {
+          "key": "D",
+          "text": "notebook;"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "The book ____ on the table and my pen _____ in the bag.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "is/is;+"
+        },
+        {
+          "key": "B",
+          "text": "are/is;"
+        },
+        {
+          "key": "C",
+          "text": "is/are;"
+        },
+        {
+          "key": "D",
+          "text": "am/is;"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "__________ are playing football in the stadium.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "children;+"
+        },
+        {
+          "key": "B",
+          "text": "child;"
+        },
+        {
+          "key": "C",
+          "text": "boy;"
+        },
+        {
+          "key": "D",
+          "text": "book;"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "_______ there many offers on the table?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are;+"
+        },
+        {
+          "key": "B",
+          "text": "Is;"
+        },
+        {
+          "key": "C",
+          "text": "Do;"
+        },
+        {
+          "key": "D",
+          "text": "Does;"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "_____ there any paper on the table?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is;+"
+        },
+        {
+          "key": "B",
+          "text": "Are;"
+        },
+        {
+          "key": "C",
+          "text": "Am;"
+        },
+        {
+          "key": "D",
+          "text": "Be;"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "They ______ five companies.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have;+"
+        },
+        {
+          "key": "B",
+          "text": "has;"
+        },
+        {
+          "key": "C",
+          "text": "having;"
+        },
+        {
+          "key": "D",
+          "text": "to have;"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "He ______ two engineers in his office.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "has;+"
+        },
+        {
+          "key": "B",
+          "text": "have;"
+        },
+        {
+          "key": "C",
+          "text": "having;"
+        },
+        {
+          "key": "D",
+          "text": "to have;"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Where is _______ your new factory?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "situated;+"
+        },
+        {
+          "key": "B",
+          "text": "situating;"
+        },
+        {
+          "key": "C",
+          "text": "sit;"
+        },
+        {
+          "key": "D",
+          "text": "situate;"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "She was the president ….. our ______.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "of our company;+"
+        },
+        {
+          "key": "B",
+          "text": "in company;"
+        },
+        {
+          "key": "C",
+          "text": "off company;"
+        },
+        {
+          "key": "D",
+          "text": "at company;"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "_____ is your office? It is in the center of Moscow.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Where;+"
+        },
+        {
+          "key": "B",
+          "text": "Who;"
+        },
+        {
+          "key": "C",
+          "text": "Why;"
+        },
+        {
+          "key": "D",
+          "text": "When;"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "_______ will you leave the biology and chemistry faculty?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "When;+"
+        },
+        {
+          "key": "B",
+          "text": "Where;"
+        },
+        {
+          "key": "C",
+          "text": "What;"
+        },
+        {
+          "key": "D",
+          "text": "Who;"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "_______ does your friend study?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Where;+"
+        },
+        {
+          "key": "B",
+          "text": "Who;"
+        },
+        {
+          "key": "C",
+          "text": "Why;"
+        },
+        {
+          "key": "D",
+          "text": "What;"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "_______ you and all engineers in their factory?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are;+"
+        },
+        {
+          "key": "B",
+          "text": "Is;"
+        },
+        {
+          "key": "C",
+          "text": "Am;"
+        },
+        {
+          "key": "D",
+          "text": "Was;"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "…… are our ……",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These / tools;+"
+        },
+        {
+          "key": "B",
+          "text": "This / tool;"
+        },
+        {
+          "key": "C",
+          "text": "That / tool;"
+        },
+        {
+          "key": "D",
+          "text": "This / tools;"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "I do not like going to ______ cinema.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "the;+"
+        },
+        {
+          "key": "B",
+          "text": "an;"
+        },
+        {
+          "key": "C",
+          "text": "a;"
+        },
+        {
+          "key": "D",
+          "text": "-;"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "There is _______ very good cinema near my house.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a;+"
+        },
+        {
+          "key": "B",
+          "text": "the;"
+        },
+        {
+          "key": "C",
+          "text": "an;"
+        },
+        {
+          "key": "D",
+          "text": "-;"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Mr Bell _________ to the cinema last week.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "didn’t go;+"
+        },
+        {
+          "key": "B",
+          "text": "doesn’t go;"
+        },
+        {
+          "key": "C",
+          "text": "don’t go;"
+        },
+        {
+          "key": "D",
+          "text": "didn’t went;"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "______ you ever _____ Chinese food?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Have / eaten;+"
+        },
+        {
+          "key": "B",
+          "text": "Has / eaten;"
+        },
+        {
+          "key": "C",
+          "text": "Do / eat;"
+        },
+        {
+          "key": "D",
+          "text": "Have / ate;"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "When _____ Mr Blake _______ contract?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "did / make;+"
+        },
+        {
+          "key": "B",
+          "text": "does / make;"
+        },
+        {
+          "key": "C",
+          "text": "do / make;"
+        },
+        {
+          "key": "D",
+          "text": "did / made;"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "____ you like ______ English book?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Do / an;+"
+        },
+        {
+          "key": "B",
+          "text": "Does / an;"
+        },
+        {
+          "key": "C",
+          "text": "Do / a;"
+        },
+        {
+          "key": "D",
+          "text": "Are / an;"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "________ _____ is not far from my house, but it’s very comfortable.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Our University;+"
+        },
+        {
+          "key": "B",
+          "text": "Us University;"
+        },
+        {
+          "key": "C",
+          "text": "We University;"
+        },
+        {
+          "key": "D",
+          "text": "Our Universities;"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Have you got _________ brothers?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "any;+"
+        },
+        {
+          "key": "B",
+          "text": "some;"
+        },
+        {
+          "key": "C",
+          "text": "a;"
+        },
+        {
+          "key": "D",
+          "text": "an;"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "The buildings in London are _________ the buildings in New York.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "older than;+"
+        },
+        {
+          "key": "B",
+          "text": "old than;"
+        },
+        {
+          "key": "C",
+          "text": "more old than;"
+        },
+        {
+          "key": "D",
+          "text": "the oldest;"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Vienna is __________ city in Austria.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "the most beautiful;+"
+        },
+        {
+          "key": "B",
+          "text": "more beautiful;"
+        },
+        {
+          "key": "C",
+          "text": "beautifuler;"
+        },
+        {
+          "key": "D",
+          "text": "most beautiful;"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "This hotel is very good. It's __________ hotel in London.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "the best;+"
+        },
+        {
+          "key": "B",
+          "text": "the goodest;"
+        },
+        {
+          "key": "C",
+          "text": "the better;"
+        },
+        {
+          "key": "D",
+          "text": "gooder;"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "I ____ a jumper and a jacket because it's cold today.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "am wearing;+"
+        },
+        {
+          "key": "B",
+          "text": "is wearing;"
+        },
+        {
+          "key": "C",
+          "text": "wear;"
+        },
+        {
+          "key": "D",
+          "text": "wearing;"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "________ Voronin _____ today?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is / working;+"
+        },
+        {
+          "key": "B",
+          "text": "Does / work;"
+        },
+        {
+          "key": "C",
+          "text": "Do / work;"
+        },
+        {
+          "key": "D",
+          "text": "Are / working;"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Look, it's very cloudy. It __________.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "is going to rain;+"
+        },
+        {
+          "key": "B",
+          "text": "rains;"
+        },
+        {
+          "key": "C",
+          "text": "rained;"
+        },
+        {
+          "key": "D",
+          "text": "rain;"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "When _____ Mr Bell _____ with her friend in Madrid?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "is / going to stay;+"
+        },
+        {
+          "key": "B",
+          "text": "does / stay;"
+        },
+        {
+          "key": "C",
+          "text": "will / staying;"
+        },
+        {
+          "key": "D",
+          "text": "is / stay;"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "I'm going to Egypt ____ the pyramids.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "to see;+"
+        },
+        {
+          "key": "B",
+          "text": "see;"
+        },
+        {
+          "key": "C",
+          "text": "seeing;"
+        },
+        {
+          "key": "D",
+          "text": "seen;"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "________ did you buy your jacket from? At a shop in town.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Where;+"
+        },
+        {
+          "key": "B",
+          "text": "Why;"
+        },
+        {
+          "key": "C",
+          "text": "When;"
+        },
+        {
+          "key": "D",
+          "text": "Who;"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "'How much did you pay for chemical equipments?' ____.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "800;+"
+        },
+        {
+          "key": "B",
+          "text": "many;"
+        },
+        {
+          "key": "C",
+          "text": "money;"
+        },
+        {
+          "key": "D",
+          "text": "any;"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Mr. Bell had breakfast ________ ago.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "three hours;+"
+        },
+        {
+          "key": "B",
+          "text": "at 7 o'clock;"
+        },
+        {
+          "key": "C",
+          "text": "last day;"
+        },
+        {
+          "key": "D",
+          "text": "morning;"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Olivia __________ to Rome.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "has never been;+"
+        },
+        {
+          "key": "B",
+          "text": "have never been;"
+        },
+        {
+          "key": "C",
+          "text": "is never been;"
+        },
+        {
+          "key": "D",
+          "text": "was never been;"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "That _______ an office.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "is;+"
+        },
+        {
+          "key": "B",
+          "text": "am;"
+        },
+        {
+          "key": "C",
+          "text": "are;"
+        },
+        {
+          "key": "D",
+          "text": "be;"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "There ______ many letters on the table.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "are;+"
+        },
+        {
+          "key": "B",
+          "text": "is;"
+        },
+        {
+          "key": "C",
+          "text": "am;"
+        },
+        {
+          "key": "D",
+          "text": "be;"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Mr. Voronin and Mr. Bale are ___________.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "businessmen;+"
+        },
+        {
+          "key": "B",
+          "text": "businessman;"
+        },
+        {
+          "key": "C",
+          "text": "student;"
+        },
+        {
+          "key": "D",
+          "text": "doctor;"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "All the businessmen are very ________.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "busy;+"
+        },
+        {
+          "key": "B",
+          "text": "busily;"
+        },
+        {
+          "key": "C",
+          "text": "busied;"
+        },
+        {
+          "key": "D",
+          "text": "business;"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "_________ did you buy your jacket? Last week.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "When;+"
+        },
+        {
+          "key": "B",
+          "text": "Why;"
+        },
+        {
+          "key": "C",
+          "text": "Where;"
+        },
+        {
+          "key": "D",
+          "text": "How;"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "________ do you live? “I live in Moscow”.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Where;+"
+        },
+        {
+          "key": "B",
+          "text": "Why;"
+        },
+        {
+          "key": "C",
+          "text": "When;"
+        },
+        {
+          "key": "D",
+          "text": "Who;"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "I _______ two brothers.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "have;+"
+        },
+        {
+          "key": "B",
+          "text": "has;"
+        },
+        {
+          "key": "C",
+          "text": "having;"
+        },
+        {
+          "key": "D",
+          "text": "am;"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Mr. Petrov ______ a businessman.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "is;+"
+        },
+        {
+          "key": "B",
+          "text": "are;"
+        },
+        {
+          "key": "C",
+          "text": "am;"
+        },
+        {
+          "key": "D",
+          "text": "be;"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "________ Philip Blake _____ yesterday?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Did / work;+"
+        },
+        {
+          "key": "B",
+          "text": "Does / work;"
+        },
+        {
+          "key": "C",
+          "text": "Is / working;"
+        },
+        {
+          "key": "D",
+          "text": "Did / worked;"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "I am the ______ course student of chemistry and biology Faculty.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "first;+"
+        },
+        {
+          "key": "B",
+          "text": "one;"
+        },
+        {
+          "key": "C",
+          "text": "once;"
+        },
+        {
+          "key": "D",
+          "text": "firstly;"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Mr. Bale is talking to a __________ in the hotel.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "receptionist;+"
+        },
+        {
+          "key": "B",
+          "text": "pupil;"
+        },
+        {
+          "key": "C",
+          "text": "doctor;"
+        },
+        {
+          "key": "D",
+          "text": "nurse;"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Jack did his homework ______.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "on time;+"
+        },
+        {
+          "key": "B",
+          "text": "tomorrow;"
+        },
+        {
+          "key": "C",
+          "text": "next week;"
+        },
+        {
+          "key": "D",
+          "text": "in time;"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "question": "John doesn’t _____ much money as a waiter.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "earn;+"
+        },
+        {
+          "key": "B",
+          "text": "take;"
+        },
+        {
+          "key": "C",
+          "text": "win;"
+        },
+        {
+          "key": "D",
+          "text": "give;"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "question": "Mr Lavrov is a company …. .",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "manager;+"
+        },
+        {
+          "key": "B",
+          "text": "office;"
+        },
+        {
+          "key": "C",
+          "text": "work;"
+        },
+        {
+          "key": "D",
+          "text": "study;"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "question": "It’s lovely day, ______?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "isn’t it;+"
+        },
+        {
+          "key": "B",
+          "text": "is it;"
+        },
+        {
+          "key": "C",
+          "text": "doesn’t it;"
+        },
+        {
+          "key": "D",
+          "text": "it is;"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "question": "John ______ your school, wasn’t he?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "was at;+"
+        },
+        {
+          "key": "B",
+          "text": "were at;"
+        },
+        {
+          "key": "C",
+          "text": "is at;"
+        },
+        {
+          "key": "D",
+          "text": "are at;"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "question": "We meet them _______ the end of the month.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "at;+"
+        },
+        {
+          "key": "B",
+          "text": "in;"
+        },
+        {
+          "key": "C",
+          "text": "on;"
+        },
+        {
+          "key": "D",
+          "text": "of;"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "question": "We met them _________ the airport.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "at;+"
+        },
+        {
+          "key": "B",
+          "text": "in;"
+        },
+        {
+          "key": "C",
+          "text": "on;"
+        },
+        {
+          "key": "D",
+          "text": "to;"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "question": "Go to the end of _____ Street.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "the;+"
+        },
+        {
+          "key": "B",
+          "text": "a;"
+        },
+        {
+          "key": "C",
+          "text": "an;"
+        },
+        {
+          "key": "D",
+          "text": "-;"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "question": "My birthday is ________ February.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "in;+"
+        },
+        {
+          "key": "B",
+          "text": "on;"
+        },
+        {
+          "key": "C",
+          "text": "at;"
+        },
+        {
+          "key": "D",
+          "text": "to;"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "question": "I have got __________ English journals at home.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "some;+"
+        },
+        {
+          "key": "B",
+          "text": "any;"
+        },
+        {
+          "key": "C",
+          "text": "a;"
+        },
+        {
+          "key": "D",
+          "text": "an;"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "question": "They are working in __________ garden.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "their;+"
+        },
+        {
+          "key": "B",
+          "text": "they;"
+        },
+        {
+          "key": "C",
+          "text": "theirs;"
+        },
+        {
+          "key": "D",
+          "text": "them;"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "question": "Can you give me their address? I don’t know _______ address.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "their;+"
+        },
+        {
+          "key": "B",
+          "text": "them;"
+        },
+        {
+          "key": "C",
+          "text": "they;"
+        },
+        {
+          "key": "D",
+          "text": "theirs;"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "question": "Did you remember _______?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "me;+"
+        },
+        {
+          "key": "B",
+          "text": "I;"
+        },
+        {
+          "key": "C",
+          "text": "my;"
+        },
+        {
+          "key": "D",
+          "text": "mine;"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "question": "The company has offices in many places, but ____ head office is in New York.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "its;+"
+        },
+        {
+          "key": "B",
+          "text": "it;"
+        },
+        {
+          "key": "C",
+          "text": "it’s;"
+        },
+        {
+          "key": "D",
+          "text": "their;"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "question": "Where _________ he live?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "does;+"
+        },
+        {
+          "key": "B",
+          "text": "do;"
+        },
+        {
+          "key": "C",
+          "text": "is;"
+        },
+        {
+          "key": "D",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "question": "What kind of dishes _______ you usually eat for breakfast?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "do;+"
+        },
+        {
+          "key": "B",
+          "text": "does;"
+        },
+        {
+          "key": "C",
+          "text": "are;"
+        },
+        {
+          "key": "D",
+          "text": "is;"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "question": "Who __________ you that I am here?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "told;+"
+        },
+        {
+          "key": "B",
+          "text": "tell;"
+        },
+        {
+          "key": "C",
+          "text": "telling;"
+        },
+        {
+          "key": "D",
+          "text": "says;"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "question": "I _______ know Russian language better than you.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "don’t;+"
+        },
+        {
+          "key": "B",
+          "text": "doesn’t;"
+        },
+        {
+          "key": "C",
+          "text": "not;"
+        },
+        {
+          "key": "D",
+          "text": "am not;"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "question": "We ________ the work at 8 o’clock every day.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "begin;+"
+        },
+        {
+          "key": "B",
+          "text": "begins;"
+        },
+        {
+          "key": "C",
+          "text": "beginning;"
+        },
+        {
+          "key": "D",
+          "text": "are begin;"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "question": "Would you like ________ cup of tea?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a;+"
+        },
+        {
+          "key": "B",
+          "text": "an;"
+        },
+        {
+          "key": "C",
+          "text": "the;"
+        },
+        {
+          "key": "D",
+          "text": "some;"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "question": "She ________ a red dress.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "has;+"
+        },
+        {
+          "key": "B",
+          "text": "have;"
+        },
+        {
+          "key": "C",
+          "text": "is;"
+        },
+        {
+          "key": "D",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "question": "His name _________ Taylor.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "is;+"
+        },
+        {
+          "key": "B",
+          "text": "are;"
+        },
+        {
+          "key": "C",
+          "text": "am;"
+        },
+        {
+          "key": "D",
+          "text": "be;"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "question": "Her Parents ________ Pensioners.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "are;+"
+        },
+        {
+          "key": "B",
+          "text": "is;"
+        },
+        {
+          "key": "C",
+          "text": "am;"
+        },
+        {
+          "key": "D",
+          "text": "be;"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "question": "He _________ at the University yesterday.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "was;+"
+        },
+        {
+          "key": "B",
+          "text": "were;"
+        },
+        {
+          "key": "C",
+          "text": "is;"
+        },
+        {
+          "key": "D",
+          "text": "am;"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "question": "My office is not _______ from my flat.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "far;+"
+        },
+        {
+          "key": "B",
+          "text": "near;"
+        },
+        {
+          "key": "C",
+          "text": "close;"
+        },
+        {
+          "key": "D",
+          "text": "for;"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "question": "We often _________ English with our teacher.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "speak;+"
+        },
+        {
+          "key": "B",
+          "text": "speaks;"
+        },
+        {
+          "key": "C",
+          "text": "speaking;"
+        },
+        {
+          "key": "D",
+          "text": "spoken;"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "question": "What is your friend _________?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "doing;+"
+        },
+        {
+          "key": "B",
+          "text": "do;"
+        },
+        {
+          "key": "C",
+          "text": "does;"
+        },
+        {
+          "key": "D",
+          "text": "done;"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "question": "Please come __________ the room.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "into;+"
+        },
+        {
+          "key": "B",
+          "text": "out;"
+        },
+        {
+          "key": "C",
+          "text": "at;"
+        },
+        {
+          "key": "D",
+          "text": "on;"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "question": "Please put your book __________ your briefcase.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "into;+"
+        },
+        {
+          "key": "B",
+          "text": "out;"
+        },
+        {
+          "key": "C",
+          "text": "on;"
+        },
+        {
+          "key": "D",
+          "text": "over;"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "question": "___________ are they looking at?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "What;+"
+        },
+        {
+          "key": "B",
+          "text": "Who;"
+        },
+        {
+          "key": "C",
+          "text": "Where;"
+        },
+        {
+          "key": "D",
+          "text": "When;"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "question": "She is _________ her notebook out of her bag.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "taking;+"
+        },
+        {
+          "key": "B",
+          "text": "take;"
+        },
+        {
+          "key": "C",
+          "text": "takes;"
+        },
+        {
+          "key": "D",
+          "text": "took;"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "question": "She ________ two foreign languages - English and Russian.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "knows;+"
+        },
+        {
+          "key": "B",
+          "text": "know;"
+        },
+        {
+          "key": "C",
+          "text": "knowing;"
+        },
+        {
+          "key": "D",
+          "text": "known;"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "question": "We haven’t got ________ offers from British companies.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "any;+"
+        },
+        {
+          "key": "B",
+          "text": "some;"
+        },
+        {
+          "key": "C",
+          "text": "a;"
+        },
+        {
+          "key": "D",
+          "text": "an;"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "question": "She __________ a teacher after graduating the university.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "became;+"
+        },
+        {
+          "key": "B",
+          "text": "become;"
+        },
+        {
+          "key": "C",
+          "text": "becomes;"
+        },
+        {
+          "key": "D",
+          "text": "becoming;"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "question": "He translates very ________ letters into English.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "many;+"
+        },
+        {
+          "key": "B",
+          "text": "much;"
+        },
+        {
+          "key": "C",
+          "text": "a lot;"
+        },
+        {
+          "key": "D",
+          "text": "any;"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "question": "She is a secretary. ________ name is Nina.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her;+"
+        },
+        {
+          "key": "B",
+          "text": "His;"
+        },
+        {
+          "key": "C",
+          "text": "Its;"
+        },
+        {
+          "key": "D",
+          "text": "My;"
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "question": "Whose __________ are these?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "offers;+"
+        },
+        {
+          "key": "B",
+          "text": "offer;"
+        },
+        {
+          "key": "C",
+          "text": "book;"
+        },
+        {
+          "key": "D",
+          "text": "pen;"
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "question": "Gulru _________ to put on a raincoat.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "wants;+"
+        },
+        {
+          "key": "B",
+          "text": "want;"
+        },
+        {
+          "key": "C",
+          "text": "wanting;"
+        },
+        {
+          "key": "D",
+          "text": "wanted to;"
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "question": "Lavrov has got __________ good pictures of London.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "some;+"
+        },
+        {
+          "key": "B",
+          "text": "any;"
+        },
+        {
+          "key": "C",
+          "text": "a;"
+        },
+        {
+          "key": "D",
+          "text": "an;"
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "question": "He took _________ books and went away.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "his;+"
+        },
+        {
+          "key": "B",
+          "text": "him;"
+        },
+        {
+          "key": "C",
+          "text": "he;"
+        },
+        {
+          "key": "D",
+          "text": "himself;"
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "question": "That is ________ car.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a nice;+"
+        },
+        {
+          "key": "B",
+          "text": "nice;"
+        },
+        {
+          "key": "C",
+          "text": "the nice;"
+        },
+        {
+          "key": "D",
+          "text": "nicely;"
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "question": "I am from Tajikistan, ___ language is Tajik.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "my;+"
+        },
+        {
+          "key": "B",
+          "text": "me;"
+        },
+        {
+          "key": "C",
+          "text": "mine;"
+        },
+        {
+          "key": "D",
+          "text": "I;"
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "question": "There are many ___ in England.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "cities;+"
+        },
+        {
+          "key": "B",
+          "text": "city;"
+        },
+        {
+          "key": "C",
+          "text": "citys;"
+        },
+        {
+          "key": "D",
+          "text": "a city;"
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "question": "The competition ________ at 11 o’clock yesterday.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "finished;+"
+        },
+        {
+          "key": "B",
+          "text": "finish;"
+        },
+        {
+          "key": "C",
+          "text": "finishes;"
+        },
+        {
+          "key": "D",
+          "text": "finishing;"
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "question": "All the ________ of this factory _________ in the office.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "workers / are;+"
+        },
+        {
+          "key": "B",
+          "text": "worker / is;"
+        },
+        {
+          "key": "C",
+          "text": "workers / is;"
+        },
+        {
+          "key": "D",
+          "text": "worker / are;"
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "question": "Nancy, the secretary __________ the company went _____ Moscow.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "of / to;+"
+        },
+        {
+          "key": "B",
+          "text": "to / of;"
+        },
+        {
+          "key": "C",
+          "text": "in / at;"
+        },
+        {
+          "key": "D",
+          "text": "at / to;"
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "question": "This is my sister. ___________ name is Laura.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her;+"
+        },
+        {
+          "key": "B",
+          "text": "His;"
+        },
+        {
+          "key": "C",
+          "text": "My;"
+        },
+        {
+          "key": "D",
+          "text": "Its;"
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "question": "_________ studies at the University.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "He;+"
+        },
+        {
+          "key": "B",
+          "text": "They;"
+        },
+        {
+          "key": "C",
+          "text": "We;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "question": "There are many _______ in London.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "museums;+"
+        },
+        {
+          "key": "B",
+          "text": "museum;"
+        },
+        {
+          "key": "C",
+          "text": "park;"
+        },
+        {
+          "key": "D",
+          "text": "river;"
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "question": "The postman ______ not receive letters every day.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "does;+"
+        },
+        {
+          "key": "B",
+          "text": "do;"
+        },
+        {
+          "key": "C",
+          "text": "is;"
+        },
+        {
+          "key": "D",
+          "text": "are;"
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "question": "Ted wrote two _____ to his friend last year.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "letters;+"
+        },
+        {
+          "key": "B",
+          "text": "letter;"
+        },
+        {
+          "key": "C",
+          "text": "book;"
+        },
+        {
+          "key": "D",
+          "text": "note;"
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "question": "Тарҷумаи вожаи “сиёсати дохилӣ”-ро ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "domestic policy;+"
+        },
+        {
+          "key": "B",
+          "text": "foreign policy;"
+        },
+        {
+          "key": "C",
+          "text": "local news;"
+        },
+        {
+          "key": "D",
+          "text": "state border;"
+        }
+      ]
+    },
+    {
+      "number": 102,
+      "question": "Тарҷумаи вожаи “сиёсати хориҷӣ”-ро ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "foreign policy;+"
+        },
+        {
+          "key": "B",
+          "text": "domestic policy;"
+        },
+        {
+          "key": "C",
+          "text": "international law;"
+        },
+        {
+          "key": "D",
+          "text": "public talk;"
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "question": "When do we read the letter S as (Z)?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Between the vowels;+"
+        },
+        {
+          "key": "B",
+          "text": "Before the vowels;"
+        },
+        {
+          "key": "C",
+          "text": "After the vowels;"
+        },
+        {
+          "key": "D",
+          "text": "At the beginning of a word;"
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "question": "Put the verb to be. Mary ____ 16 and Linda ____ 18.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, are;"
+        },
+        {
+          "key": "C",
+          "text": "Are, is;"
+        },
+        {
+          "key": "D",
+          "text": "Are, are;"
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "question": "Put the verb to be. Daler ____ at home, but Dilnoza ____ .",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, isn’t;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, is;"
+        },
+        {
+          "key": "C",
+          "text": "Are, is;"
+        },
+        {
+          "key": "D",
+          "text": "Is, are;"
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "question": "Put the verb to be. I ____ from Dushanbe, but Linda ____ from London.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Am, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Am, am;"
+        },
+        {
+          "key": "C",
+          "text": "Is, am;"
+        },
+        {
+          "key": "D",
+          "text": "Are, are;"
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "question": "Put the verb to be. What _____ your name? My name _____ Umed.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, am;"
+        },
+        {
+          "key": "C",
+          "text": "Am, is;"
+        },
+        {
+          "key": "D",
+          "text": "Are, are;"
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "question": "Put the verb to be. Where _____ you from? I _____ from Leningrad.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are, am;+"
+        },
+        {
+          "key": "B",
+          "text": "Am, are;"
+        },
+        {
+          "key": "C",
+          "text": "Is, am;"
+        },
+        {
+          "key": "D",
+          "text": "Are, is;"
+        }
+      ]
+    },
+    {
+      "number": 109,
+      "question": "Put the verb to be. What _____ your friend? He _____ an engineer.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Are, is;"
+        },
+        {
+          "key": "C",
+          "text": "Are, are;"
+        },
+        {
+          "key": "D",
+          "text": "Is, am;"
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "question": "Put the verb to be. What _____ you? I ____ the manager of the company.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are, am;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, am;"
+        },
+        {
+          "key": "C",
+          "text": "Are, are;"
+        },
+        {
+          "key": "D",
+          "text": "Is, is;"
+        }
+      ]
+    },
+    {
+      "number": 111,
+      "question": "Put the verb to be. What _____ your friend’s name? His name ____ Faridun.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, are;"
+        },
+        {
+          "key": "C",
+          "text": "Are, are;"
+        },
+        {
+          "key": "D",
+          "text": "Are, is;"
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "question": "Put the verb to be. ______ you from Dushanbe? No, I _____ from Moscow.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are, am;+"
+        },
+        {
+          "key": "B",
+          "text": "Are, are;"
+        },
+        {
+          "key": "C",
+          "text": "Is, is;"
+        },
+        {
+          "key": "D",
+          "text": "Is, am;"
+        }
+      ]
+    },
+    {
+      "number": 113,
+      "question": "Put the verb to be. Linda _____ an engineer, but Laura ____ a doctor.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is, is;+"
+        },
+        {
+          "key": "B",
+          "text": "Is, are;"
+        },
+        {
+          "key": "C",
+          "text": "Am, is;"
+        },
+        {
+          "key": "D",
+          "text": "Is, am;"
+        }
+      ]
+    },
+    {
+      "number": 114,
+      "question": "Put the articles where necessary. Lavrov is _____ economist, but his wife is _____ teacher.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "An, a;+"
+        },
+        {
+          "key": "B",
+          "text": "An, an;"
+        },
+        {
+          "key": "C",
+          "text": "The, the;"
+        },
+        {
+          "key": "D",
+          "text": "A, an;"
+        }
+      ]
+    },
+    {
+      "number": 115,
+      "question": "Put the articles where necessary. Mr. Bell is _____ company manager. He is in _____ office now.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "A, the;+"
+        },
+        {
+          "key": "B",
+          "text": "The, a;"
+        },
+        {
+          "key": "C",
+          "text": "A, a;"
+        },
+        {
+          "key": "D",
+          "text": "An, the;"
+        }
+      ]
+    },
+    {
+      "number": 116,
+      "question": "Put the articles where necessary. Mr. White is in _____ office. He is sitting at ____ table.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, the;+"
+        },
+        {
+          "key": "B",
+          "text": "The, a;"
+        },
+        {
+          "key": "C",
+          "text": "A, the;"
+        },
+        {
+          "key": "D",
+          "text": "A, a;"
+        }
+      ]
+    },
+    {
+      "number": 117,
+      "question": "Put the articles where necessary. What is on _____ desk? It is _____ offer from Blake and Company.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, an;+"
+        },
+        {
+          "key": "B",
+          "text": "The, a;"
+        },
+        {
+          "key": "C",
+          "text": "An, the;"
+        },
+        {
+          "key": "D",
+          "text": "A, a;"
+        }
+      ]
+    },
+    {
+      "number": 118,
+      "question": "Put the articles where necessary. ______ offers are on ______ table.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, the;+"
+        },
+        {
+          "key": "B",
+          "text": "The, an;"
+        },
+        {
+          "key": "C",
+          "text": "The, a;"
+        },
+        {
+          "key": "D",
+          "text": "A, a;"
+        }
+      ]
+    },
+    {
+      "number": 119,
+      "question": "Put the articles where necessary. Nancy is ____ secretary. She is a _____ nice woman.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "A, - ;+"
+        },
+        {
+          "key": "B",
+          "text": "A, a;"
+        },
+        {
+          "key": "C",
+          "text": "The, the;"
+        },
+        {
+          "key": "D",
+          "text": "A, the;"
+        }
+      ]
+    },
+    {
+      "number": 120,
+      "question": "Put the articles where necessary. Mr. White is ______ engineer. He works at _____ Trade Delegation.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "An, the;+"
+        },
+        {
+          "key": "B",
+          "text": "An, an;"
+        },
+        {
+          "key": "C",
+          "text": "The, an;"
+        },
+        {
+          "key": "D",
+          "text": "The, the;"
+        }
+      ]
+    },
+    {
+      "number": 121,
+      "question": "Put the articles where necessary. I come to ____ office at 8 in ____ morning every day.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The, the;+"
+        },
+        {
+          "key": "B",
+          "text": "A, the;"
+        },
+        {
+          "key": "C",
+          "text": "The, a;"
+        },
+        {
+          "key": "D",
+          "text": "A, a;"
+        }
+      ]
+    },
+    {
+      "number": 122,
+      "question": "Use the correct personal pronouns. Mr. Bell is the company manager. _____ is the company manager.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "He;+"
+        },
+        {
+          "key": "B",
+          "text": "She;"
+        },
+        {
+          "key": "C",
+          "text": "They;"
+        },
+        {
+          "key": "D",
+          "text": "It;"
+        }
+      ]
+    },
+    {
+      "number": 123,
+      "question": "Use the correct personal pronouns. The apples are red. ______ are red.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "She;"
+        },
+        {
+          "key": "D",
+          "text": "It;"
+        }
+      ]
+    },
+    {
+      "number": 124,
+      "question": "Use the correct personal pronouns. Linda and Jack are brother and sister. ________ are brother and sister.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "She;"
+        },
+        {
+          "key": "D",
+          "text": "It;"
+        }
+      ]
+    },
+    {
+      "number": 125,
+      "question": "Use the correct personal pronouns. Mrs. White is a good secretary. _____ is a good secretary.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "She;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "It;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        }
+      ]
+    },
+    {
+      "number": 126,
+      "question": "Use the correct personal pronouns. The girl is in the garden. _____ is in the garden.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "She;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "You;"
+        },
+        {
+          "key": "D",
+          "text": "They;"
+        }
+      ]
+    },
+    {
+      "number": 127,
+      "question": "Use the correct personal pronouns. The telephones are on the desk. _____ are on the desk.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They;+"
+        },
+        {
+          "key": "B",
+          "text": "It;"
+        },
+        {
+          "key": "C",
+          "text": "Are;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        }
+      ]
+    },
+    {
+      "number": 128,
+      "question": "Use the correct personal pronouns. The cable is on the table. ______ is on the table.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It;+"
+        },
+        {
+          "key": "B",
+          "text": "They;"
+        },
+        {
+          "key": "C",
+          "text": "He;"
+        },
+        {
+          "key": "D",
+          "text": "She;"
+        }
+      ]
+    },
+    {
+      "number": 129,
+      "question": "Use the correct personal pronouns. Linda and Amanda are good friends. ______ are good friends.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They;+"
+        },
+        {
+          "key": "B",
+          "text": "She;"
+        },
+        {
+          "key": "C",
+          "text": "He;"
+        },
+        {
+          "key": "D",
+          "text": "Them;"
+        }
+      ]
+    },
+    {
+      "number": 130,
+      "question": "Use the correct personal pronouns. Linda is in the office, but ____ am not.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "I;+"
+        },
+        {
+          "key": "B",
+          "text": "She;"
+        },
+        {
+          "key": "C",
+          "text": "He;"
+        },
+        {
+          "key": "D",
+          "text": "Me;"
+        }
+      ]
+    },
+    {
+      "number": 131,
+      "question": "Use the correct personal pronouns. _____ am the company manager.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "I;+"
+        },
+        {
+          "key": "B",
+          "text": "He;"
+        },
+        {
+          "key": "C",
+          "text": "She;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        }
+      ]
+    },
+    {
+      "number": 132,
+      "question": "Use the correct demonstrative pronouns. _______ are stars.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Those;+"
+        },
+        {
+          "key": "B",
+          "text": "These;"
+        },
+        {
+          "key": "C",
+          "text": "This;"
+        },
+        {
+          "key": "D",
+          "text": "That;"
+        }
+      ]
+    },
+    {
+      "number": 133,
+      "question": "Use the correct demonstrative pronouns. What are these? _______ are my notebooks.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These;+"
+        },
+        {
+          "key": "B",
+          "text": "That;"
+        },
+        {
+          "key": "C",
+          "text": "This;"
+        },
+        {
+          "key": "D",
+          "text": "Those;"
+        }
+      ]
+    },
+    {
+      "number": 134,
+      "question": "Use the correct demonstrative pronouns. _______ is a painting by Mario Angelini.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This;+"
+        },
+        {
+          "key": "B",
+          "text": "Those;"
+        },
+        {
+          "key": "C",
+          "text": "These;"
+        },
+        {
+          "key": "D",
+          "text": "They;"
+        }
+      ]
+    },
+    {
+      "number": 135,
+      "question": "Use the correct demonstrative pronouns. _________ offices are convenient and light.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These;+"
+        },
+        {
+          "key": "B",
+          "text": "This;"
+        },
+        {
+          "key": "C",
+          "text": "That;"
+        },
+        {
+          "key": "D",
+          "text": "There;"
+        }
+      ]
+    },
+    {
+      "number": 136,
+      "question": "Use the correct demonstrative pronouns. Are _______ your notebooks? Yes, _______ are my notebooks.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These, these;+"
+        },
+        {
+          "key": "B",
+          "text": "These, that;"
+        },
+        {
+          "key": "C",
+          "text": "That, those;"
+        },
+        {
+          "key": "D",
+          "text": "This, this;"
+        }
+      ]
+    },
+    {
+      "number": 137,
+      "question": "Use the correct demonstrative pronouns. Is _______ a picture of your family, Mr. White? Yes, _______ woman is my wife.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This, this;+"
+        },
+        {
+          "key": "B",
+          "text": "These, that;"
+        },
+        {
+          "key": "C",
+          "text": "That, those;"
+        },
+        {
+          "key": "D",
+          "text": "This, those;"
+        }
+      ]
+    },
+    {
+      "number": 138,
+      "question": "Use the correct demonstrative pronouns. Who is _____ ? ______ is my friend Daler.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "That, this;+"
+        },
+        {
+          "key": "B",
+          "text": "These, that;"
+        },
+        {
+          "key": "C",
+          "text": "That, these;"
+        },
+        {
+          "key": "D",
+          "text": "That, those;"
+        }
+      ]
+    },
+    {
+      "number": 139,
+      "question": "Use the correct demonstrative pronouns. What is _______ ? _______ is an offer from GML.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "That, that;+"
+        },
+        {
+          "key": "B",
+          "text": "This, these;"
+        },
+        {
+          "key": "C",
+          "text": "That, those;"
+        },
+        {
+          "key": "D",
+          "text": "Those, this;"
+        }
+      ]
+    },
+    {
+      "number": 140,
+      "question": "Use the correct demonstrative pronouns. What are _____ ? _____ are the offers from Blake and Sons.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These, these;+"
+        },
+        {
+          "key": "B",
+          "text": "These, that;"
+        },
+        {
+          "key": "C",
+          "text": "That, these;"
+        },
+        {
+          "key": "D",
+          "text": "Those, this;"
+        }
+      ]
+    },
+    {
+      "number": 141,
+      "question": "Use the correct demonstrative pronouns. ______ man is our manager. He works in ______ office.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This, this;+"
+        },
+        {
+          "key": "B",
+          "text": "These, that;"
+        },
+        {
+          "key": "C",
+          "text": "That, these;"
+        },
+        {
+          "key": "D",
+          "text": "Those, that;"
+        }
+      ]
+    },
+    {
+      "number": 142,
+      "question": "Use possessive pronouns. It is _____ first visit to this country.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Our;+"
+        },
+        {
+          "key": "B",
+          "text": "Him;"
+        },
+        {
+          "key": "C",
+          "text": "Us;"
+        },
+        {
+          "key": "D",
+          "text": "Them;"
+        }
+      ]
+    },
+    {
+      "number": 143,
+      "question": "Use possessive pronouns. Mr. Bell works in _____ company for 15 years.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Our;+"
+        },
+        {
+          "key": "B",
+          "text": "It;"
+        },
+        {
+          "key": "C",
+          "text": "Me;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        }
+      ]
+    },
+    {
+      "number": 144,
+      "question": "Use possessive or objective pronouns. Give _____ the book. This is _____ book.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me, my;+"
+        },
+        {
+          "key": "B",
+          "text": "My, me;"
+        },
+        {
+          "key": "C",
+          "text": "My, you;"
+        },
+        {
+          "key": "D",
+          "text": "Me, you;"
+        }
+      ]
+    },
+    {
+      "number": 145,
+      "question": "Use possessive or objective pronouns. How long it takes _____ to get there?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me;+"
+        },
+        {
+          "key": "B",
+          "text": "My;"
+        },
+        {
+          "key": "C",
+          "text": "Your;"
+        },
+        {
+          "key": "D",
+          "text": "Their;"
+        }
+      ]
+    },
+    {
+      "number": 146,
+      "question": "Use possessive pronouns. I don’t find ______ story impossible.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "His;+"
+        },
+        {
+          "key": "B",
+          "text": "Him;"
+        },
+        {
+          "key": "C",
+          "text": "Me;"
+        },
+        {
+          "key": "D",
+          "text": "You;"
+        }
+      ]
+    },
+    {
+      "number": 147,
+      "question": "Use possessive pronouns. What are you looking for? Jack asks ______ friend.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "His;+"
+        },
+        {
+          "key": "B",
+          "text": "Him;"
+        },
+        {
+          "key": "C",
+          "text": "You;"
+        },
+        {
+          "key": "D",
+          "text": "Us;"
+        }
+      ]
+    },
+    {
+      "number": 148,
+      "question": "Use objective pronouns. Excuse _____ ? Mr. Bell wants you on the phone.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me;+"
+        },
+        {
+          "key": "B",
+          "text": "My;"
+        },
+        {
+          "key": "C",
+          "text": "His;"
+        },
+        {
+          "key": "D",
+          "text": "Our;"
+        }
+      ]
+    },
+    {
+      "number": 149,
+      "question": "Use objective pronouns. Do you ask _____ to open the window?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me;+"
+        },
+        {
+          "key": "B",
+          "text": "My;"
+        },
+        {
+          "key": "C",
+          "text": "Your;"
+        },
+        {
+          "key": "D",
+          "text": "Our;"
+        }
+      ]
+    },
+    {
+      "number": 150,
+      "question": "Use possessive pronouns. What is ______ friend’s name? ______ name is Farukh.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Your, his;+"
+        },
+        {
+          "key": "B",
+          "text": "Your, him;"
+        },
+        {
+          "key": "C",
+          "text": "His, your;"
+        },
+        {
+          "key": "D",
+          "text": "Him, your;"
+        }
+      ]
+    },
+    {
+      "number": 151,
+      "question": "Use possessive pronouns. Does ______ friend speak English? Yes, _____ English is very good.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Your, his;+"
+        },
+        {
+          "key": "B",
+          "text": "Your, him;"
+        },
+        {
+          "key": "C",
+          "text": "His, your;"
+        },
+        {
+          "key": "D",
+          "text": "Him, your;"
+        }
+      ]
+    },
+    {
+      "number": 152,
+      "question": "Use objective pronouns. I tell ______ to look through the quotation of GML.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Him;+"
+        },
+        {
+          "key": "B",
+          "text": "His;"
+        },
+        {
+          "key": "C",
+          "text": "Me;"
+        },
+        {
+          "key": "D",
+          "text": "My;"
+        }
+      ]
+    },
+    {
+      "number": 153,
+      "question": "Use objective pronouns. Mr. Bell tell ______ to give an answer to GML.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Me;+"
+        },
+        {
+          "key": "B",
+          "text": "My;"
+        },
+        {
+          "key": "C",
+          "text": "Your;"
+        },
+        {
+          "key": "D",
+          "text": "Our;"
+        }
+      ]
+    },
+    {
+      "number": 154,
+      "question": "Use possessive pronouns. Mr. Brown is interested in ______ latest model of cars.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Your;+"
+        },
+        {
+          "key": "B",
+          "text": "You;"
+        },
+        {
+          "key": "C",
+          "text": "Him;"
+        },
+        {
+          "key": "D",
+          "text": "Us;"
+        }
+      ]
+    },
+    {
+      "number": 155,
+      "question": "Put the correct preposition. Nancy works _____ the Tajik Trade Delegation.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "At;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "Of;"
+        },
+        {
+          "key": "D",
+          "text": "To;"
+        }
+      ]
+    },
+    {
+      "number": 156,
+      "question": "Put the correct preposition. Where are you now? I am ____ the lesson now.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "At;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "On;"
+        },
+        {
+          "key": "D",
+          "text": "To;"
+        }
+      ]
+    },
+    {
+      "number": 157,
+      "question": "Put the correct preposition. Mr. Bell, Lavrov and Mr. White come ______ the sitting-room.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Into;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "To;"
+        },
+        {
+          "key": "D",
+          "text": "On;"
+        }
+      ]
+    },
+    {
+      "number": 158,
+      "question": "Put the correct preposition. I am glad you are ____ London.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "In;+"
+        },
+        {
+          "key": "B",
+          "text": "Of;"
+        },
+        {
+          "key": "C",
+          "text": "At;"
+        },
+        {
+          "key": "D",
+          "text": "To;"
+        }
+      ]
+    },
+    {
+      "number": 159,
+      "question": "Put the correct preposition. What is it Nancy? It is an enquiry _______ GML, Mr. White.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "From;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "Of;"
+        },
+        {
+          "key": "D",
+          "text": "To;"
+        }
+      ]
+    },
+    {
+      "number": 160,
+      "question": "Put the correct preposition. I work _____ the Tajik Trade Delegation.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "At;+"
+        },
+        {
+          "key": "B",
+          "text": "To;"
+        },
+        {
+          "key": "C",
+          "text": "In;"
+        },
+        {
+          "key": "D",
+          "text": "Of;"
+        }
+      ]
+    },
+    {
+      "number": 161,
+      "question": "Put the correct preposition. The carpet _____ the floor makes the room comfortable.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "On;+"
+        },
+        {
+          "key": "B",
+          "text": "In;"
+        },
+        {
+          "key": "C",
+          "text": "At;"
+        },
+        {
+          "key": "D",
+          "text": "Of;"
+        }
+      ]
+    },
+    {
+      "number": 162,
+      "question": "Put the correct preposition. We have got two red armchairs _____ our sitting-room.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "In;+"
+        },
+        {
+          "key": "B",
+          "text": "On;"
+        },
+        {
+          "key": "C",
+          "text": "At;"
+        },
+        {
+          "key": "D",
+          "text": "Of;"
+        }
+      ]
+    },
+    {
+      "number": 163,
+      "question": "Put the correct preposition. Where do you go after the lessons every day? I go _____ home.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "- (no preposition);+"
+        },
+        {
+          "key": "B",
+          "text": "To;"
+        },
+        {
+          "key": "C",
+          "text": "At;"
+        },
+        {
+          "key": "D",
+          "text": "Of;"
+        }
+      ]
+    },
+    {
+      "number": 164,
+      "question": "Put the correct preposition. I come _____ the office at 8 _____ the morning every day.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To, in;+"
+        },
+        {
+          "key": "B",
+          "text": "In, to;"
+        },
+        {
+          "key": "C",
+          "text": "To, to;"
+        },
+        {
+          "key": "D",
+          "text": "In, in;"
+        }
+      ]
+    },
+    {
+      "number": 165,
+      "question": "Put the correct preposition. I want ____ speak ____ Mr. Brown.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To, to;+"
+        },
+        {
+          "key": "B",
+          "text": "To, in;"
+        },
+        {
+          "key": "C",
+          "text": "In, to;"
+        },
+        {
+          "key": "D",
+          "text": "In, in;"
+        }
+      ]
+    },
+    {
+      "number": 166,
+      "question": "Put the correct preposition. I translate letters _____ English _____ Russian.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "From, into;+"
+        },
+        {
+          "key": "B",
+          "text": "Into, from;"
+        },
+        {
+          "key": "C",
+          "text": "To, for;"
+        },
+        {
+          "key": "D",
+          "text": "From, from;"
+        }
+      ]
+    },
+    {
+      "number": 167,
+      "question": "Put the correct preposition. I have come _____ London to buy chemical equipment _____ Blake and Sons.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To, from;+"
+        },
+        {
+          "key": "B",
+          "text": "To, to;"
+        },
+        {
+          "key": "C",
+          "text": "From, to;"
+        },
+        {
+          "key": "D",
+          "text": "From, from;"
+        }
+      ]
+    },
+    {
+      "number": 168,
+      "question": "Put the correct preposition. Every day I go _____ the University _____ bus.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To, by;+"
+        },
+        {
+          "key": "B",
+          "text": "To, to;"
+        },
+        {
+          "key": "C",
+          "text": "By, by;"
+        },
+        {
+          "key": "D",
+          "text": "By, to;"
+        }
+      ]
+    },
+    {
+      "number": 169,
+      "question": "Put the correct preposition. Blake and Sons is interested ____ buying electronic equipment ______ Green and Sons.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "In, from;+"
+        },
+        {
+          "key": "B",
+          "text": "From, in;"
+        },
+        {
+          "key": "C",
+          "text": "In, in;"
+        },
+        {
+          "key": "D",
+          "text": "From, from;"
+        }
+      ]
+    },
+    {
+      "number": 170,
+      "question": "Put the correct preposition. Where are you ______ ? I am ______ Dushanbe.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "From, from;+"
+        },
+        {
+          "key": "B",
+          "text": "In, from;"
+        },
+        {
+          "key": "C",
+          "text": "From, in;"
+        },
+        {
+          "key": "D",
+          "text": "In, in;"
+        }
+      ]
+    },
+    {
+      "number": 171,
+      "question": "Put the verb to have got. Nancy _____ a three room flat in Moscow.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Has got;+"
+        },
+        {
+          "key": "B",
+          "text": "Have got;"
+        },
+        {
+          "key": "C",
+          "text": "Having got;"
+        },
+        {
+          "key": "D",
+          "text": "Has;"
+        }
+      ]
+    },
+    {
+      "number": 172,
+      "question": "Put the verb to have got. Voronin ____ a large family.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Has got;+"
+        },
+        {
+          "key": "B",
+          "text": "Have got;"
+        },
+        {
+          "key": "C",
+          "text": "Having got;"
+        },
+        {
+          "key": "D",
+          "text": "Had;"
+        }
+      ]
+    },
+    {
+      "number": 173,
+      "question": "Put the verb to have got. We ___ a large company in America.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Have got;+"
+        },
+        {
+          "key": "B",
+          "text": "Has got;"
+        },
+        {
+          "key": "C",
+          "text": "Has;"
+        },
+        {
+          "key": "D",
+          "text": "Having;"
+        }
+      ]
+    },
+    {
+      "number": 174,
+      "question": "Put the verb to have got. We _____ many offices in this country.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Have got;+"
+        },
+        {
+          "key": "B",
+          "text": "Has got;"
+        },
+        {
+          "key": "C",
+          "text": "Having;"
+        },
+        {
+          "key": "D",
+          "text": "Had;"
+        }
+      ]
+    },
+    {
+      "number": 175,
+      "question": "Put the verb to have got. They ______ many companies.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Have got;+"
+        },
+        {
+          "key": "B",
+          "text": "Has got;"
+        },
+        {
+          "key": "C",
+          "text": "Having got;"
+        },
+        {
+          "key": "D",
+          "text": "Has;"
+        }
+      ]
+    },
+    {
+      "number": 176,
+      "question": "Put the verb to have got. The girl _______ a computer.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Has got;+"
+        },
+        {
+          "key": "B",
+          "text": "Have got;"
+        },
+        {
+          "key": "C",
+          "text": "Having got;"
+        },
+        {
+          "key": "D",
+          "text": "Had got;"
+        }
+      ]
+    },
+    {
+      "number": 177,
+      "question": "Put the verb to have got. The doctor _______ a study.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Has got;+"
+        },
+        {
+          "key": "B",
+          "text": "Have got;"
+        },
+        {
+          "key": "C",
+          "text": "Having;"
+        },
+        {
+          "key": "D",
+          "text": "Had;"
+        }
+      ]
+    },
+    {
+      "number": 178,
+      "question": "Put the verb to have got. The boys ______ offers.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Have got;+"
+        },
+        {
+          "key": "B",
+          "text": "Has got;"
+        },
+        {
+          "key": "C",
+          "text": "Having got;"
+        },
+        {
+          "key": "D",
+          "text": "Has;"
+        }
+      ]
+    },
+    {
+      "number": 179,
+      "question": "Put the verb to have got. Mr. Bell's daughter _______ flats.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Has got;+"
+        },
+        {
+          "key": "B",
+          "text": "Have got;"
+        },
+        {
+          "key": "C",
+          "text": "Has;"
+        },
+        {
+          "key": "D",
+          "text": "Having;"
+        }
+      ]
+    },
+    {
+      "number": 180,
+      "question": "Put the verb to have got. What have they got?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They have got books;+"
+        },
+        {
+          "key": "B",
+          "text": "I have got a telex;"
+        },
+        {
+          "key": "C",
+          "text": "She has got a flat;"
+        },
+        {
+          "key": "D",
+          "text": "You have got a telex;"
+        }
+      ]
+    },
+    {
+      "number": 181,
+      "question": "What is the capital of Tajikistan?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dushanbe;+"
+        },
+        {
+          "key": "B",
+          "text": "Bukhara;"
+        },
+        {
+          "key": "C",
+          "text": "Kulob;"
+        },
+        {
+          "key": "D",
+          "text": "Khujand;"
+        }
+      ]
+    },
+    {
+      "number": 182,
+      "question": "Where is the location of Tajikistan?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The South-east of Central Asia;+"
+        },
+        {
+          "key": "B",
+          "text": "Western Europe;"
+        },
+        {
+          "key": "C",
+          "text": "North America;"
+        },
+        {
+          "key": "D",
+          "text": "East Asia;"
+        }
+      ]
+    },
+    {
+      "number": 183,
+      "question": "Show the population of Tajikistan?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "More than 10 mln;+"
+        },
+        {
+          "key": "B",
+          "text": "5 mln;"
+        },
+        {
+          "key": "C",
+          "text": "20 mln;"
+        },
+        {
+          "key": "D",
+          "text": "100 mln;"
+        }
+      ]
+    },
+    {
+      "number": 184,
+      "question": "How much is the territory of Tajikistan?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "143.1 thsd. square kilometers;+"
+        },
+        {
+          "key": "B",
+          "text": "100 thsd. square kilometers;"
+        },
+        {
+          "key": "C",
+          "text": "200 thsd. square kilometers;"
+        },
+        {
+          "key": "D",
+          "text": "50 thsd. square kilometers;"
+        }
+      ]
+    },
+    {
+      "number": 185,
+      "question": "Тарҷумаи \"иштирок кардан\"-ро нишон диҳед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "To take part;+"
+        },
+        {
+          "key": "B",
+          "text": "To be in;"
+        },
+        {
+          "key": "C",
+          "text": "To talk;"
+        },
+        {
+          "key": "D",
+          "text": "To listen;"
+        }
+      ]
+    },
+    {
+      "number": 186,
+      "question": "Забони англисӣ – забони муоширати кадоме аз ин давлатҳост?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Great Britain, New Zealand;+"
+        },
+        {
+          "key": "B",
+          "text": "France, Belgium;"
+        },
+        {
+          "key": "C",
+          "text": "Germany, Czech Republic;"
+        },
+        {
+          "key": "D",
+          "text": "Japan, China;"
+        }
+      ]
+    },
+    {
+      "number": 187,
+      "question": "Артикл чанд намуд мешавад?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 (definite and indefinite);+"
+        },
+        {
+          "key": "B",
+          "text": "5;"
+        },
+        {
+          "key": "C",
+          "text": "10;"
+        },
+        {
+          "key": "D",
+          "text": "1;"
+        }
+      ]
+    },
+    {
+      "number": 188,
+      "question": "Феъли -to be-ро дар замони ҳозираи номуайян нишон диҳед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Am, is, are;+"
+        },
+        {
+          "key": "B",
+          "text": "Was, were;"
+        },
+        {
+          "key": "C",
+          "text": "Shall be, will be;"
+        },
+        {
+          "key": "D",
+          "text": "Have been;"
+        }
+      ]
+    },
+    {
+      "number": 189,
+      "question": "When did Kulob celebrate its 2700 anniversary?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "In 2006;+"
+        },
+        {
+          "key": "B",
+          "text": "In 2010;"
+        },
+        {
+          "key": "C",
+          "text": "In 2000;"
+        },
+        {
+          "key": "D",
+          "text": "In 1990;"
+        }
+      ]
+    },
+    {
+      "number": 190,
+      "question": "How many percent of the territory of Tajikistan are mountains?",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "93%;+"
+        },
+        {
+          "key": "B",
+          "text": "50%;"
+        },
+        {
+          "key": "C",
+          "text": "10%;"
+        },
+        {
+          "key": "D",
+          "text": "75%;"
+        }
+      ]
+    },
+    {
+      "number": 191,
+      "question": "Шакли дурусти Numerals-ро ёбед: Nine hundred and ninety nine.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "999;+"
+        },
+        {
+          "key": "B",
+          "text": "99;"
+        },
+        {
+          "key": "C",
+          "text": "909;"
+        },
+        {
+          "key": "D",
+          "text": "900;"
+        }
+      ]
+    },
+    {
+      "number": 192,
+      "question": "Тарҷумаи вожаи “зиёфати расмӣ” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Formal banquet;+"
+        },
+        {
+          "key": "B",
+          "text": "Fast food;"
+        },
+        {
+          "key": "C",
+          "text": "Breakfast;"
+        },
+        {
+          "key": "D",
+          "text": "Dinner;"
+        }
+      ]
+    },
+    {
+      "number": 193,
+      "question": "Тарҷумаи вожаи “ҳамкории дуҷониба” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bilateral cooperation;+"
+        },
+        {
+          "key": "B",
+          "text": "World news;"
+        },
+        {
+          "key": "C",
+          "text": "Private meeting;"
+        },
+        {
+          "key": "D",
+          "text": "State border;"
+        }
+      ]
+    },
+    {
+      "number": 194,
+      "question": "Тарҷумаи вожаи “Сафир” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ambassador;+"
+        },
+        {
+          "key": "B",
+          "text": "Secretary;"
+        },
+        {
+          "key": "C",
+          "text": "Manager;"
+        },
+        {
+          "key": "D",
+          "text": "Teacher;"
+        }
+      ]
+    },
+    {
+      "number": 195,
+      "question": "Тарҷумаи вожаи “шартномаҳои дуҷониба” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bilateral contracts;+"
+        },
+        {
+          "key": "B",
+          "text": "Peace agreements;"
+        },
+        {
+          "key": "C",
+          "text": "International law;"
+        },
+        {
+          "key": "D",
+          "text": "Business letters;"
+        }
+      ]
+    },
+    {
+      "number": 196,
+      "question": "Тарҷумаи вожаи “Ташкилот” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Organization;+"
+        },
+        {
+          "key": "B",
+          "text": "Company;"
+        },
+        {
+          "key": "C",
+          "text": "Office;"
+        },
+        {
+          "key": "D",
+          "text": "Factory;"
+        }
+      ]
+    },
+    {
+      "number": 197,
+      "question": "Тарҷумаи вожаи “нишасти матбуотӣ” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Press conference;+"
+        },
+        {
+          "key": "B",
+          "text": "Political talk;"
+        },
+        {
+          "key": "C",
+          "text": "News agency;"
+        },
+        {
+          "key": "D",
+          "text": "Radio program;"
+        }
+      ]
+    },
+    {
+      "number": 198,
+      "question": "Тарҷумаи вожаи “баҳсҳои сиёсӣ” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Political debate;+"
+        },
+        {
+          "key": "B",
+          "text": "Economic conflict;"
+        },
+        {
+          "key": "C",
+          "text": "Cultural event;"
+        },
+        {
+          "key": "D",
+          "text": "Social meeting;"
+        }
+      ]
+    },
+    {
+      "number": 199,
+      "question": "Тарҷумаи вожаи “масъалаҳо” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Issues;+"
+        },
+        {
+          "key": "B",
+          "text": "Letters;"
+        },
+        {
+          "key": "C",
+          "text": "Documents;"
+        },
+        {
+          "key": "D",
+          "text": "Books;"
+        }
+      ]
+    },
+    {
+      "number": 200,
+      "question": "Тарҷумаи вожаи “тавозуни қудрат” ёбед.",
+      "type": "single_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Balance of power;+"
+        },
+        {
+          "key": "B",
+          "text": "State security;"
+        },
+        {
+          "key": "C",
+          "text": "International law;"
+        },
+        {
+          "key": "D",
+          "text": "Military force;"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Were",
+          "right_key": "1",
+          "right_text": "been"
+        },
+        {
+          "left_key": "B",
+          "left_text": "Gave",
+          "right_key": "2",
+          "right_text": "given"
+        },
+        {
+          "left_key": "C",
+          "left_text": "Shine",
+          "right_key": "3",
+          "right_text": "shone"
+        },
+        {
+          "left_key": "D",
+          "left_text": "beat",
+          "right_key": "4",
+          "right_text": "beaten"
+        },
+        {
+          "left_key": "E",
+          "left_text": "went",
+          "right_key": "5",
+          "right_text": "gone"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "shoot",
+          "right_key": "1",
+          "right_text": "shot"
+        },
+        {
+          "left_key": "B",
+          "left_text": "become",
+          "right_key": "2",
+          "right_text": "became"
+        },
+        {
+          "left_key": "C",
+          "left_text": "grew",
+          "right_key": "3",
+          "right_text": "grown"
+        },
+        {
+          "left_key": "D",
+          "left_text": "showed",
+          "right_key": "4",
+          "right_text": "shown"
+        },
+        {
+          "left_key": "E",
+          "left_text": "began",
+          "right_key": "5",
+          "right_text": "begun"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "hang",
+          "right_key": "1",
+          "right_text": "hung"
+        },
+        {
+          "left_key": "B",
+          "left_text": "shrink",
+          "right_key": "2",
+          "right_text": "shrank"
+        },
+        {
+          "left_key": "C",
+          "left_text": "bend",
+          "right_key": "3",
+          "right_text": "bent"
+        },
+        {
+          "left_key": "D",
+          "left_text": "have",
+          "right_key": "4",
+          "right_text": "had"
+        },
+        {
+          "left_key": "E",
+          "left_text": "hear",
+          "right_key": "5",
+          "right_text": "heard"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "sang",
+          "right_key": "1",
+          "right_text": "sung"
+        },
+        {
+          "left_key": "B",
+          "left_text": "bit",
+          "right_key": "2",
+          "right_text": "bitten"
+        },
+        {
+          "left_key": "C",
+          "left_text": "hid",
+          "right_key": "3",
+          "right_text": "hidden"
+        },
+        {
+          "left_key": "D",
+          "left_text": "sank",
+          "right_key": "4",
+          "right_text": "sunk"
+        },
+        {
+          "left_key": "E",
+          "left_text": "blew",
+          "right_key": "5",
+          "right_text": "blown"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "sit",
+          "right_key": "1",
+          "right_text": "sat"
+        },
+        {
+          "left_key": "B",
+          "left_text": "broke",
+          "right_key": "2",
+          "right_text": "broken"
+        },
+        {
+          "left_key": "C",
+          "left_text": "hold",
+          "right_key": "3",
+          "right_text": "held"
+        },
+        {
+          "left_key": "D",
+          "left_text": "bring",
+          "right_key": "4",
+          "right_text": "brought"
+        },
+        {
+          "left_key": "E",
+          "left_text": "hurt",
+          "right_key": "5",
+          "right_text": "hurt"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "broadcast",
+          "right_key": "1",
+          "right_text": "broadcast"
+        },
+        {
+          "left_key": "B",
+          "left_text": "kept",
+          "right_key": "2",
+          "right_text": "kept"
+        },
+        {
+          "left_key": "C",
+          "left_text": "spoke",
+          "right_key": "3",
+          "right_text": "spoken"
+        },
+        {
+          "left_key": "D",
+          "left_text": "build",
+          "right_key": "4",
+          "right_text": "built"
+        },
+        {
+          "left_key": "E",
+          "left_text": "kneel",
+          "right_key": "5",
+          "right_text": "knelt"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "spend",
+          "right_key": "1",
+          "right_text": "spent"
+        },
+        {
+          "left_key": "B",
+          "left_text": "burst",
+          "right_key": "2",
+          "right_text": "burst"
+        },
+        {
+          "left_key": "C",
+          "left_text": "knew",
+          "right_key": "3",
+          "right_text": "known"
+        },
+        {
+          "left_key": "D",
+          "left_text": "spit",
+          "right_key": "4",
+          "right_text": "spat"
+        },
+        {
+          "left_key": "E",
+          "left_text": "buy",
+          "right_key": "5",
+          "right_text": "bought"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "lay",
+          "right_key": "1",
+          "right_text": "laid"
+        },
+        {
+          "left_key": "B",
+          "left_text": "split",
+          "right_key": "2",
+          "right_text": "split"
+        },
+        {
+          "left_key": "C",
+          "left_text": "catch",
+          "right_key": "3",
+          "right_text": "caught"
+        },
+        {
+          "left_key": "D",
+          "left_text": "lead",
+          "right_key": "4",
+          "right_text": "led"
+        },
+        {
+          "left_key": "E",
+          "left_text": "spread",
+          "right_key": "5",
+          "right_text": "spread"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "chose",
+          "right_key": "1",
+          "right_text": "chosen"
+        },
+        {
+          "left_key": "B",
+          "left_text": "leave",
+          "right_key": "2",
+          "right_text": "left"
+        },
+        {
+          "left_key": "C",
+          "left_text": "sprang",
+          "right_key": "3",
+          "right_text": "sprung"
+        },
+        {
+          "left_key": "D",
+          "left_text": "came",
+          "right_key": "4",
+          "right_text": "come"
+        },
+        {
+          "left_key": "E",
+          "left_text": "lend",
+          "right_key": "5",
+          "right_text": "lent"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "stand",
+          "right_key": "1",
+          "right_text": "stood"
+        },
+        {
+          "left_key": "B",
+          "left_text": "cost",
+          "right_key": "2",
+          "right_text": "cost"
+        },
+        {
+          "left_key": "C",
+          "left_text": "let",
+          "right_key": "3",
+          "right_text": "let"
+        },
+        {
+          "left_key": "D",
+          "left_text": "stole",
+          "right_key": "4",
+          "right_text": "stolen"
+        },
+        {
+          "left_key": "E",
+          "left_text": "creep",
+          "right_key": "5",
+          "right_text": "crept"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "lay",
+          "right_key": "1",
+          "right_text": "lain"
+        },
+        {
+          "left_key": "B",
+          "left_text": "stick",
+          "right_key": "2",
+          "right_text": "stuck"
+        },
+        {
+          "left_key": "C",
+          "left_text": "cut",
+          "right_key": "3",
+          "right_text": "cut"
+        },
+        {
+          "left_key": "D",
+          "left_text": "light",
+          "right_key": "4",
+          "right_text": "lit"
+        },
+        {
+          "left_key": "E",
+          "left_text": "sting",
+          "right_key": "5",
+          "right_text": "stung"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "deal",
+          "right_key": "1",
+          "right_text": "dealt"
+        },
+        {
+          "left_key": "B",
+          "left_text": "slide",
+          "right_key": "2",
+          "right_text": "slid"
+        },
+        {
+          "left_key": "C",
+          "left_text": "lose",
+          "right_key": "3",
+          "right_text": "lost"
+        },
+        {
+          "left_key": "D",
+          "left_text": "stank",
+          "right_key": "4",
+          "right_text": "stunk"
+        },
+        {
+          "left_key": "E",
+          "left_text": "dig",
+          "right_key": "5",
+          "right_text": "dug"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "make",
+          "right_key": "1",
+          "right_text": "made"
+        },
+        {
+          "left_key": "B",
+          "left_text": "strike",
+          "right_key": "2",
+          "right_text": "struck"
+        },
+        {
+          "left_key": "C",
+          "left_text": "did",
+          "right_key": "3",
+          "right_text": "done"
+        },
+        {
+          "left_key": "D",
+          "left_text": "mean",
+          "right_key": "4",
+          "right_text": "meant"
+        },
+        {
+          "left_key": "E",
+          "left_text": "swore",
+          "right_key": "5",
+          "right_text": "sworn"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "drew",
+          "right_key": "1",
+          "right_text": "drawn"
+        },
+        {
+          "left_key": "B",
+          "left_text": "meet",
+          "right_key": "2",
+          "right_text": "met"
+        },
+        {
+          "left_key": "C",
+          "left_text": "sweep",
+          "right_key": "3",
+          "right_text": "swept"
+        },
+        {
+          "left_key": "D",
+          "left_text": "drank",
+          "right_key": "4",
+          "right_text": "drunk"
+        },
+        {
+          "left_key": "E",
+          "left_text": "pay",
+          "right_key": "5",
+          "right_text": "paid"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "swam",
+          "right_key": "1",
+          "right_text": "swum"
+        },
+        {
+          "left_key": "B",
+          "left_text": "drove",
+          "right_key": "2",
+          "right_text": "driven"
+        },
+        {
+          "left_key": "C",
+          "left_text": "put",
+          "right_key": "3",
+          "right_text": "put"
+        },
+        {
+          "left_key": "D",
+          "left_text": "swing",
+          "right_key": "4",
+          "right_text": "swung"
+        },
+        {
+          "left_key": "E",
+          "left_text": "ate",
+          "right_key": "5",
+          "right_text": "eaten"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "swam",
+          "right_key": "1",
+          "right_text": "swum"
+        },
+        {
+          "left_key": "B",
+          "left_text": "drove",
+          "right_key": "2",
+          "right_text": "driven"
+        },
+        {
+          "left_key": "C",
+          "left_text": "put",
+          "right_key": "3",
+          "right_text": "put"
+        },
+        {
+          "left_key": "D",
+          "left_text": "swing",
+          "right_key": "4",
+          "right_text": "swung"
+        },
+        {
+          "left_key": "E",
+          "left_text": "ate",
+          "right_key": "5",
+          "right_text": "eaten"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Took",
+          "right_key": "1",
+          "right_text": "taken"
+        },
+        {
+          "left_key": "B",
+          "left_text": "fell",
+          "right_key": "2",
+          "right_text": "fallen"
+        },
+        {
+          "left_key": "C",
+          "left_text": "rode",
+          "right_key": "3",
+          "right_text": "ridden"
+        },
+        {
+          "left_key": "D",
+          "left_text": "teach",
+          "right_key": "4",
+          "right_text": "taught"
+        },
+        {
+          "left_key": "E",
+          "left_text": "feed",
+          "right_key": "5",
+          "right_text": "fed"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "rang",
+          "right_key": "1",
+          "right_text": "rung"
+        },
+        {
+          "left_key": "B",
+          "left_text": "tore",
+          "right_key": "2",
+          "right_text": "torn"
+        },
+        {
+          "left_key": "C",
+          "left_text": "feel",
+          "right_key": "3",
+          "right_text": "felt"
+        },
+        {
+          "left_key": "D",
+          "left_text": "rose",
+          "right_key": "4",
+          "right_text": "risen"
+        },
+        {
+          "left_key": "E",
+          "left_text": "tell",
+          "right_key": "5",
+          "right_text": "told"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "fought",
+          "right_key": "1",
+          "right_text": "fought"
+        },
+        {
+          "left_key": "B",
+          "left_text": "ran",
+          "right_key": "2",
+          "right_text": "run"
+        },
+        {
+          "left_key": "C",
+          "left_text": "think",
+          "right_key": "3",
+          "right_text": "thought"
+        },
+        {
+          "left_key": "D",
+          "left_text": "found",
+          "right_key": "4",
+          "right_text": "found"
+        },
+        {
+          "left_key": "E",
+          "left_text": "say",
+          "right_key": "5",
+          "right_text": "said"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "threw",
+          "right_key": "1",
+          "right_text": "thrown"
+        },
+        {
+          "left_key": "B",
+          "left_text": "flee",
+          "right_key": "2",
+          "right_text": "fled"
+        },
+        {
+          "left_key": "C",
+          "left_text": "saw",
+          "right_key": "3",
+          "right_text": "seen"
+        },
+        {
+          "left_key": "D",
+          "left_text": "understand",
+          "right_key": "4",
+          "right_text": "understood"
+        },
+        {
+          "left_key": "E",
+          "left_text": "flew",
+          "right_key": "5",
+          "right_text": "flown"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "seek",
+          "right_key": "1",
+          "right_text": "sought"
+        },
+        {
+          "left_key": "B",
+          "left_text": "woke",
+          "right_key": "2",
+          "right_text": "woken"
+        },
+        {
+          "left_key": "C",
+          "left_text": "forbade",
+          "right_key": "3",
+          "right_text": "forbidden"
+        },
+        {
+          "left_key": "D",
+          "left_text": "sell",
+          "right_key": "4",
+          "right_text": "sold"
+        },
+        {
+          "left_key": "E",
+          "left_text": "wear",
+          "right_key": "5",
+          "right_text": "wore"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "forgot",
+          "right_key": "1",
+          "right_text": "forgotten"
+        },
+        {
+          "left_key": "B",
+          "left_text": "send",
+          "right_key": "2",
+          "right_text": "sent"
+        },
+        {
+          "left_key": "C",
+          "left_text": "weep",
+          "right_key": "3",
+          "right_text": "wept"
+        },
+        {
+          "left_key": "D",
+          "left_text": "forgave",
+          "right_key": "4",
+          "right_text": "forgiven"
+        },
+        {
+          "left_key": "E",
+          "left_text": "set",
+          "right_key": "5",
+          "right_text": "set"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "win",
+          "right_key": "1",
+          "right_text": "won"
+        },
+        {
+          "left_key": "B",
+          "left_text": "froze",
+          "right_key": "2",
+          "right_text": "frozen"
+        },
+        {
+          "left_key": "C",
+          "left_text": "sewn",
+          "right_key": "3",
+          "right_text": "sewed"
+        },
+        {
+          "left_key": "D",
+          "left_text": "wrote",
+          "right_key": "4",
+          "right_text": "written"
+        },
+        {
+          "left_key": "E",
+          "left_text": "got",
+          "right_key": "5",
+          "right_text": "gotten"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "arose",
+          "right_key": "1",
+          "right_text": "arisen"
+        },
+        {
+          "left_key": "B",
+          "left_text": "awoke",
+          "right_key": "2",
+          "right_text": "awoken"
+        },
+        {
+          "left_key": "C",
+          "left_text": "shook",
+          "right_key": "3",
+          "right_text": "shaken"
+        },
+        {
+          "left_key": "D",
+          "left_text": "drew",
+          "right_key": "4",
+          "right_text": "drawn"
+        },
+        {
+          "left_key": "E",
+          "left_text": "meet",
+          "right_key": "5",
+          "right_text": "met"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "like",
+          "right_key": "1",
+          "right_text": "dislike"
+        },
+        {
+          "left_key": "B",
+          "left_text": "join",
+          "right_key": "2",
+          "right_text": "disjoin"
+        },
+        {
+          "left_key": "C",
+          "left_text": "known",
+          "right_key": "3",
+          "right_text": "unknown"
+        },
+        {
+          "left_key": "D",
+          "left_text": "cover",
+          "right_key": "4",
+          "right_text": "uncover"
+        },
+        {
+          "left_key": "E",
+          "left_text": "go",
+          "right_key": "5",
+          "right_text": "shopping"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "play",
+          "right_key": "1",
+          "right_text": "the piano"
+        },
+        {
+          "left_key": "B",
+          "left_text": "draw",
+          "right_key": "2",
+          "right_text": "picture"
+        },
+        {
+          "left_key": "C",
+          "left_text": "eat",
+          "right_key": "3",
+          "right_text": "cake"
+        },
+        {
+          "left_key": "D",
+          "left_text": "send",
+          "right_key": "4",
+          "right_text": "sent"
+        },
+        {
+          "left_key": "E",
+          "left_text": "drive",
+          "right_key": "5",
+          "right_text": "drove"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "win",
+          "right_key": "1",
+          "right_text": "won"
+        },
+        {
+          "left_key": "B",
+          "left_text": "speak",
+          "right_key": "2",
+          "right_text": "spoke"
+        },
+        {
+          "left_key": "C",
+          "left_text": "send",
+          "right_key": "3",
+          "right_text": "letter"
+        },
+        {
+          "left_key": "D",
+          "left_text": "drive",
+          "right_key": "4",
+          "right_text": "car"
+        },
+        {
+          "left_key": "E",
+          "left_text": "win",
+          "right_key": "5",
+          "right_text": "prize"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "speak",
+          "right_key": "1",
+          "right_text": "fast"
+        },
+        {
+          "left_key": "B",
+          "left_text": "to watch",
+          "right_key": "2",
+          "right_text": "TV"
+        },
+        {
+          "left_key": "C",
+          "left_text": "go to",
+          "right_key": "3",
+          "right_text": "bed"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to cook",
+          "right_key": "4",
+          "right_text": "meals"
+        },
+        {
+          "left_key": "E",
+          "left_text": "to do",
+          "right_key": "5",
+          "right_text": "homework"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "watch",
+          "right_key": "1",
+          "right_text": "watched"
+        },
+        {
+          "left_key": "B",
+          "left_text": "move",
+          "right_key": "2",
+          "right_text": "moved"
+        },
+        {
+          "left_key": "C",
+          "left_text": "start",
+          "right_key": "3",
+          "right_text": "started"
+        },
+        {
+          "left_key": "D",
+          "left_text": "close",
+          "right_key": "4",
+          "right_text": "closed"
+        },
+        {
+          "left_key": "E",
+          "left_text": "English",
+          "right_key": "5",
+          "right_text": "language"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "high",
+          "right_key": "1",
+          "right_text": "building"
+        },
+        {
+          "left_key": "B",
+          "left_text": "How",
+          "right_key": "2",
+          "right_text": "long"
+        },
+        {
+          "left_key": "C",
+          "left_text": "personal",
+          "right_key": "3",
+          "right_text": "computer"
+        },
+        {
+          "left_key": "D",
+          "left_text": "company",
+          "right_key": "4",
+          "right_text": "manager"
+        },
+        {
+          "left_key": "E",
+          "left_text": "offer",
+          "right_key": "5",
+          "right_text": "from GML"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "large",
+          "right_key": "1",
+          "right_text": "computer"
+        },
+        {
+          "left_key": "B",
+          "left_text": "football",
+          "right_key": "2",
+          "right_text": "player"
+        },
+        {
+          "left_key": "C",
+          "left_text": "interesting",
+          "right_key": "3",
+          "right_text": "difficult"
+        },
+        {
+          "left_key": "D",
+          "left_text": "sunny",
+          "right_key": "4",
+          "right_text": "boring"
+        },
+        {
+          "left_key": "E",
+          "left_text": "cold",
+          "right_key": "5",
+          "right_text": "hot"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "translate",
+          "right_key": "1",
+          "right_text": "translated"
+        },
+        {
+          "left_key": "B",
+          "left_text": "move",
+          "right_key": "2",
+          "right_text": "moved"
+        },
+        {
+          "left_key": "C",
+          "left_text": "start",
+          "right_key": "3",
+          "right_text": "started"
+        },
+        {
+          "left_key": "D",
+          "left_text": "open",
+          "right_key": "4",
+          "right_text": "opened"
+        },
+        {
+          "left_key": "E",
+          "left_text": "Where",
+          "right_key": "5",
+          "right_text": "are you"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "When",
+          "right_key": "1",
+          "right_text": "did you come"
+        },
+        {
+          "left_key": "B",
+          "left_text": "How much",
+          "right_key": "2",
+          "right_text": "does it cost"
+        },
+        {
+          "left_key": "C",
+          "left_text": "How",
+          "right_key": "3",
+          "right_text": "old"
+        },
+        {
+          "left_key": "D",
+          "left_text": "wash",
+          "right_key": "4",
+          "right_text": "your hands"
+        },
+        {
+          "left_key": "E",
+          "left_text": "do you do your",
+          "right_key": "5",
+          "right_text": "homework"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "to have",
+          "right_key": "1",
+          "right_text": "a contract"
+        },
+        {
+          "left_key": "B",
+          "left_text": "to make",
+          "right_key": "2",
+          "right_text": "talks"
+        },
+        {
+          "left_key": "C",
+          "left_text": "it is half past five",
+          "right_key": "3",
+          "right_text": "5:30;"
+        },
+        {
+          "left_key": "D",
+          "left_text": "it is five o’clock",
+          "right_key": "4",
+          "right_text": "5:00"
+        },
+        {
+          "left_key": "E",
+          "left_text": "it is a quarter past five",
+          "right_key": "5",
+          "right_text": "5:15"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "it is a quarter to six",
+          "right_key": "1",
+          "right_text": "5:45"
+        },
+        {
+          "left_key": "B",
+          "left_text": "political",
+          "right_key": "2",
+          "right_text": "сиёси"
+        },
+        {
+          "left_key": "C",
+          "left_text": "price",
+          "right_key": "3",
+          "right_text": "шартхо"
+        },
+        {
+          "left_key": "D",
+          "left_text": "goods",
+          "right_key": "4",
+          "right_text": "молхо"
+        },
+        {
+          "left_key": "E",
+          "left_text": "terms",
+          "right_key": "5",
+          "right_text": "футболбоз"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "to want",
+          "right_key": "1",
+          "right_text": "хостан"
+        },
+        {
+          "left_key": "B",
+          "left_text": "tea",
+          "right_key": "2",
+          "right_text": "чой"
+        },
+        {
+          "left_key": "C",
+          "left_text": "coffee",
+          "right_key": "3",
+          "right_text": "кахва"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to drink",
+          "right_key": "4",
+          "right_text": "нушидан"
+        },
+        {
+          "left_key": "E",
+          "left_text": "to discuss",
+          "right_key": "5",
+          "right_text": "мухокима кардан"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "difficult",
+          "right_key": "1",
+          "right_text": "мушкил"
+        },
+        {
+          "left_key": "B",
+          "left_text": "to help",
+          "right_key": "2",
+          "right_text": "ёри расонидан"
+        },
+        {
+          "left_key": "C",
+          "left_text": "to be tired",
+          "right_key": "3",
+          "right_text": "хаста шудан"
+        },
+        {
+          "left_key": "D",
+          "left_text": "a businessmen",
+          "right_key": "4",
+          "right_text": "савдогар, точир"
+        },
+        {
+          "left_key": "E",
+          "left_text": "каталог (фехраст)",
+          "right_key": "5",
+          "right_text": "адабиёт"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "a cinema",
+          "right_key": "1",
+          "right_text": "синамо, кинотеатр"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a film",
+          "right_key": "2",
+          "right_text": "филм"
+        },
+        {
+          "left_key": "C",
+          "left_text": "especially",
+          "right_key": "3",
+          "right_text": "махсус"
+        },
+        {
+          "left_key": "D",
+          "left_text": "yesterday",
+          "right_key": "4",
+          "right_text": "дируз"
+        },
+        {
+          "left_key": "E",
+          "left_text": "autumn",
+          "right_key": "5",
+          "right_text": "тирамох"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "spring",
+          "right_key": "1",
+          "right_text": "бахор"
+        },
+        {
+          "left_key": "B",
+          "left_text": "winter",
+          "right_key": "2",
+          "right_text": "зимистон"
+        },
+        {
+          "left_key": "C",
+          "left_text": "summer",
+          "right_key": "3",
+          "right_text": "тобистон"
+        },
+        {
+          "left_key": "D",
+          "left_text": "easy",
+          "right_key": "4",
+          "right_text": "осон, сабук"
+        },
+        {
+          "left_key": "E",
+          "left_text": "an idea",
+          "right_key": "5",
+          "right_text": "акида"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "to tell",
+          "right_key": "1",
+          "right_text": "накл кардан"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a river",
+          "right_key": "2",
+          "right_text": "дарё"
+        },
+        {
+          "left_key": "C",
+          "left_text": "a holiday",
+          "right_key": "3",
+          "right_text": "рухсати"
+        },
+        {
+          "left_key": "D",
+          "left_text": "a thing",
+          "right_key": "4",
+          "right_text": "ашё"
+        },
+        {
+          "left_key": "E",
+          "left_text": "to enjoy",
+          "right_key": "5",
+          "right_text": "халоват бурдан"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "resort",
+          "right_key": "1",
+          "right_text": "осоишгох"
+        },
+        {
+          "left_key": "B",
+          "left_text": "television",
+          "right_key": "2",
+          "right_text": "оинаи нилгун"
+        },
+        {
+          "left_key": "C",
+          "left_text": "a program",
+          "right_key": "3",
+          "right_text": "барнома"
+        },
+        {
+          "left_key": "D",
+          "left_text": "a comedy",
+          "right_key": "4",
+          "right_text": "мазхака"
+        },
+        {
+          "left_key": "E",
+          "left_text": "a documentary",
+          "right_key": "5",
+          "right_text": "хуччати"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "book",
+          "right_key": "1",
+          "right_text": "store"
+        },
+        {
+          "left_key": "B",
+          "left_text": "motor",
+          "right_key": "2",
+          "right_text": "bike"
+        },
+        {
+          "left_key": "C",
+          "left_text": "sun",
+          "right_key": "3",
+          "right_text": "lights"
+        },
+        {
+          "left_key": "D",
+          "left_text": "traffic",
+          "right_key": "4",
+          "right_text": "glasses"
+        },
+        {
+          "left_key": "E",
+          "left_text": "a bookshelf",
+          "right_key": "5",
+          "right_text": "рафи китоб"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "a magazine",
+          "right_key": "1",
+          "right_text": "мачалла"
+        },
+        {
+          "left_key": "B",
+          "left_text": "music",
+          "right_key": "2",
+          "right_text": "мусики"
+        },
+        {
+          "left_key": "C",
+          "left_text": "quiet",
+          "right_key": "3",
+          "right_text": "ором"
+        },
+        {
+          "left_key": "D",
+          "left_text": "hand",
+          "right_key": "4",
+          "right_text": "bag"
+        },
+        {
+          "left_key": "E",
+          "left_text": "football",
+          "right_key": "5",
+          "right_text": "stadium"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "week",
+          "right_key": "1",
+          "right_text": "end"
+        },
+        {
+          "left_key": "B",
+          "left_text": "bus",
+          "right_key": "2",
+          "right_text": "stop"
+        },
+        {
+          "left_key": "C",
+          "left_text": "to live",
+          "right_key": "3",
+          "right_text": "зиндаги кардан"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to like",
+          "right_key": "4",
+          "right_text": "маъкул шудан"
+        },
+        {
+          "left_key": "E",
+          "left_text": "own",
+          "right_key": "5",
+          "right_text": "худи, шахси"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "floor",
+          "right_key": "1",
+          "right_text": "ошёна"
+        },
+        {
+          "left_key": "B",
+          "left_text": "a garden",
+          "right_key": "2",
+          "right_text": "бог"
+        },
+        {
+          "left_key": "C",
+          "left_text": "a study",
+          "right_key": "3",
+          "right_text": "утоки кори"
+        },
+        {
+          "left_key": "D",
+          "left_text": "to invite",
+          "right_key": "4",
+          "right_text": "даъват намудан"
+        },
+        {
+          "left_key": "E",
+          "left_text": "to spend",
+          "right_key": "5",
+          "right_text": "гузаронидан"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "watch",
+          "right_key": "1",
+          "right_text": "TV"
+        },
+        {
+          "left_key": "B",
+          "left_text": "listen to",
+          "right_key": "2",
+          "right_text": "music"
+        },
+        {
+          "left_key": "C",
+          "left_text": "get up",
+          "right_key": "3",
+          "right_text": "late"
+        },
+        {
+          "left_key": "D",
+          "left_text": "cook",
+          "right_key": "4",
+          "right_text": "dinner"
+        },
+        {
+          "left_key": "E",
+          "left_text": "translate",
+          "right_key": "5",
+          "right_text": "translated"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "move",
+          "right_key": "1",
+          "right_text": "moved"
+        },
+        {
+          "left_key": "B",
+          "left_text": "start",
+          "right_key": "2",
+          "right_text": "started"
+        },
+        {
+          "left_key": "C",
+          "left_text": "open",
+          "right_key": "3",
+          "right_text": "opened"
+        },
+        {
+          "left_key": "D",
+          "left_text": "Where",
+          "right_key": "4",
+          "right_text": "are you"
+        },
+        {
+          "left_key": "E",
+          "left_text": "football",
+          "right_key": "5",
+          "right_text": "stadium"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "Took",
+          "right_key": "1",
+          "right_text": "taken"
+        },
+        {
+          "left_key": "B",
+          "left_text": "fell",
+          "right_key": "2",
+          "right_text": "fallen"
+        },
+        {
+          "left_key": "C",
+          "left_text": "rode",
+          "right_key": "3",
+          "right_text": "ridden"
+        },
+        {
+          "left_key": "D",
+          "left_text": "teach",
+          "right_key": "4",
+          "right_text": "taught"
+        },
+        {
+          "left_key": "E",
+          "left_text": "feed",
+          "right_key": "5",
+          "right_text": "fed"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "chose",
+          "right_key": "1",
+          "right_text": "chosen"
+        },
+        {
+          "left_key": "B",
+          "left_text": "leave",
+          "right_key": "2",
+          "right_text": "left"
+        },
+        {
+          "left_key": "C",
+          "left_text": "sprang",
+          "right_key": "3",
+          "right_text": "sprung"
+        },
+        {
+          "left_key": "D",
+          "left_text": "came",
+          "right_key": "4",
+          "right_text": "come"
+        },
+        {
+          "left_key": "E",
+          "left_text": "lend",
+          "right_key": "5",
+          "right_text": "lent"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Match the Past Simple (V2) and Past Participle (V3) of verbs**:**",
+      "type": "matching",
+      "pairs": [
+        {
+          "left_key": "A",
+          "left_text": "drew",
+          "right_key": "1",
+          "right_text": "drawn"
+        },
+        {
+          "left_key": "B",
+          "left_text": "meet",
+          "right_key": "2",
+          "right_text": "met"
+        },
+        {
+          "left_key": "C",
+          "left_text": "sweep",
+          "right_key": "3",
+          "right_text": "swept"
+        },
+        {
+          "left_key": "D",
+          "left_text": "drank",
+          "right_key": "4",
+          "right_text": "drunk"
+        },
+        {
+          "left_key": "E",
+          "left_text": "pay",
+          "right_key": "5",
+          "right_text": "paid"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "question": "Choose the correct article: ___ office.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "an+"
+        },
+        {
+          "key": "B",
+          "text": "the"
+        },
+        {
+          "key": "C",
+          "text": "big red apple+"
+        },
+        {
+          "key": "D",
+          "text": "two pen"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Correct negative sentences (Ин миз нест):",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is not a desk.+"
+        },
+        {
+          "key": "B",
+          "text": "It isn’t a good pen.+"
+        },
+        {
+          "key": "C",
+          "text": "Desk not is blue."
+        },
+        {
+          "key": "D",
+          "text": "No is it pen."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Translate: «Ин мактуби корӣ аст».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is a business letter.+"
+        },
+        {
+          "key": "B",
+          "text": "It’s a letter.+"
+        },
+        {
+          "key": "C",
+          "text": "Water is cold."
+        },
+        {
+          "key": "D",
+          "text": "I am a boy."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Which are correct questions?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is it a desk?+"
+        },
+        {
+          "key": "B",
+          "text": "Is it a file?+"
+        },
+        {
+          "key": "C",
+          "text": "Desk it is?"
+        },
+        {
+          "key": "D",
+          "text": "File a is it?"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Vocabulary: «карандаш» — ин...",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a pencil+"
+        },
+        {
+          "key": "B",
+          "text": "a pencil (дуруст навишта шудааст)+"
+        },
+        {
+          "key": "C",
+          "text": "a car"
+        },
+        {
+          "key": "D",
+          "text": "a window"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Which are correct short answers?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yes, it is.+"
+        },
+        {
+          "key": "B",
+          "text": "No, it isn’t.+"
+        },
+        {
+          "key": "C",
+          "text": "Yes, is it."
+        },
+        {
+          "key": "D",
+          "text": "No, is it."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Choose sentences with “my” (аз ман):",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is my pen.+"
+        },
+        {
+          "key": "B",
+          "text": "It’s my desk.+"
+        },
+        {
+          "key": "C",
+          "text": "My is desk red."
+        },
+        {
+          "key": "D",
+          "text": "Desk my is this."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Which words mean “папка, ҳуҷҷат”?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a file+"
+        },
+        {
+          "key": "B",
+          "text": "a business file+"
+        },
+        {
+          "key": "C",
+          "text": "a green tree"
+        },
+        {
+          "key": "D",
+          "text": "a fast car"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Correct translations: «Ин карандаш нест».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is not a pencil.+"
+        },
+        {
+          "key": "B",
+          "text": "It isn’t a pencil.+"
+        },
+        {
+          "key": "C",
+          "text": "Pencil no it is."
+        },
+        {
+          "key": "D",
+          "text": "No is pencil it."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Vocabulary check: «пешниҳод (корӣ)» — ин...",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "an offer+"
+        },
+        {
+          "key": "B",
+          "text": "a business offer+"
+        },
+        {
+          "key": "C",
+          "text": "a small cat"
+        },
+        {
+          "key": "D",
+          "text": "a rainy day"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Mr Bell is ___ manager.",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a company+"
+        },
+        {
+          "key": "B",
+          "text": "the company+"
+        },
+        {
+          "key": "C",
+          "text": "manager is sun"
+        },
+        {
+          "key": "D",
+          "text": "blue office sky"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Where is the telephone?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is on the desk.+"
+        },
+        {
+          "key": "B",
+          "text": "It is in the office.+"
+        },
+        {
+          "key": "C",
+          "text": "It is a banana."
+        },
+        {
+          "key": "D",
+          "text": "Telephone is jump."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Whose offer is it? (Пешниҳоди кӣ аст?)",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is an offer from Ross Export.+"
+        },
+        {
+          "key": "B",
+          "text": "It’s Betsy’s offer.+"
+        },
+        {
+          "key": "C",
+          "text": "It is a rain."
+        },
+        {
+          "key": "D",
+          "text": "Offer is a bread."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Correct questions with “to be”:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is the desk good?+"
+        },
+        {
+          "key": "B",
+          "text": "Is Mr Bell in the office?+"
+        },
+        {
+          "key": "C",
+          "text": "Office is the desk?"
+        },
+        {
+          "key": "D",
+          "text": "Good is the Bell?"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Vocabulary: «котиб» — ин...",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a secretary+"
+        },
+        {
+          "key": "B",
+          "text": "a good secretary+"
+        },
+        {
+          "key": "C",
+          "text": "a long river"
+        },
+        {
+          "key": "D",
+          "text": "a football"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Translate: «Ин компютери ман аст».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is my computer.+"
+        },
+        {
+          "key": "B",
+          "text": "It’s my computer.+"
+        },
+        {
+          "key": "C",
+          "text": "Computer is bread."
+        },
+        {
+          "key": "D",
+          "text": "My is computer apple."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Which are correct sentences?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The office is not large.+"
+        },
+        {
+          "key": "B",
+          "text": "The desk is good.+"
+        },
+        {
+          "key": "C",
+          "text": "Office is the small not."
+        },
+        {
+          "key": "D",
+          "text": "Good desk the is."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Choose correct words for “ҷевони ҳуҷҷатҳо”:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a file cabinet+"
+        },
+        {
+          "key": "B",
+          "text": "a cabinet+"
+        },
+        {
+          "key": "C",
+          "text": "a sweet cake"
+        },
+        {
+          "key": "D",
+          "text": "a hot soup"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Translate: «Телефон дар куҷост?»",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Where is the telephone?+"
+        },
+        {
+          "key": "B",
+          "text": "Where is the phone?+"
+        },
+        {
+          "key": "C",
+          "text": "Phone where is?"
+        },
+        {
+          "key": "D",
+          "text": "Is phone where?"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Correct special questions:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "What’s it? — It’s a pen.+"
+        },
+        {
+          "key": "B",
+          "text": "Whose file is it?+"
+        },
+        {
+          "key": "C",
+          "text": "What it is?"
+        },
+        {
+          "key": "D",
+          "text": "File whose is?"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Choose the correct forms of “to be”:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "I am+"
+        },
+        {
+          "key": "B",
+          "text": "You are+"
+        },
+        {
+          "key": "C",
+          "text": "I is"
+        },
+        {
+          "key": "D",
+          "text": "You am"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Correct plural forms (шакли ҷамъ):",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "faxes+"
+        },
+        {
+          "key": "B",
+          "text": "children+"
+        },
+        {
+          "key": "C",
+          "text": "childs"
+        },
+        {
+          "key": "D",
+          "text": "mans"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Which sentences are correct?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "These are contracts.+"
+        },
+        {
+          "key": "B",
+          "text": "Those are letters.+"
+        },
+        {
+          "key": "C",
+          "text": "This are pens."
+        },
+        {
+          "key": "D",
+          "text": "That are desk."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Translate: «Ин сурати оила аст».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This is a picture of a family.+"
+        },
+        {
+          "key": "B",
+          "text": "It is a picture of the family.+"
+        },
+        {
+          "key": "C",
+          "text": "Family picture this is."
+        },
+        {
+          "key": "D",
+          "text": "This are family picture."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Vocabulary: Which mean “писар”?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a son+"
+        },
+        {
+          "key": "B",
+          "text": "sons (писарон)+"
+        },
+        {
+          "key": "C",
+          "text": "a sun (офтоб)"
+        },
+        {
+          "key": "D",
+          "text": "soon (ба наздикӣ)"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Which are correct questions?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Where are the pencils?+"
+        },
+        {
+          "key": "B",
+          "text": "Whose letters are these?+"
+        },
+        {
+          "key": "C",
+          "text": "Pencils where are?"
+        },
+        {
+          "key": "D",
+          "text": "Letters these are whose?"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Translate: «Ӯ ҷавон аст».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "He is a young man.+"
+        },
+        {
+          "key": "B",
+          "text": "He’s young.+"
+        },
+        {
+          "key": "C",
+          "text": "He man young is."
+        },
+        {
+          "key": "D",
+          "text": "Young he is man."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Choose correct sentences:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "My wife is a doctor.+"
+        },
+        {
+          "key": "B",
+          "text": "These are my children.+"
+        },
+        {
+          "key": "C",
+          "text": "Wife my is doctor."
+        },
+        {
+          "key": "D",
+          "text": "Children my is nice."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Nationalities (Миллатҳо):",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Russian+"
+        },
+        {
+          "key": "B",
+          "text": "English+"
+        },
+        {
+          "key": "C",
+          "text": "Russish"
+        },
+        {
+          "key": "D",
+          "text": "Englian"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Which greetings are correct?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Good morning!+"
+        },
+        {
+          "key": "B",
+          "text": "How are you?+"
+        },
+        {
+          "key": "C",
+          "text": "Morning good."
+        },
+        {
+          "key": "D",
+          "text": "How you are?"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Possessive case (шакли соҳибӣ):",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mr Bell’s house+"
+        },
+        {
+          "key": "B",
+          "text": "the children’s desks+"
+        },
+        {
+          "key": "C",
+          "text": "Bell house is."
+        },
+        {
+          "key": "D",
+          "text": "Childrens desks are."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Translate: «Мо хона (квартира) дорем».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "We have got a flat.+"
+        },
+        {
+          "key": "B",
+          "text": "We’ve got a flat.+"
+        },
+        {
+          "key": "C",
+          "text": "We flat has."
+        },
+        {
+          "key": "D",
+          "text": "Got we flat."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Correct alternative questions:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Is your friend an engineer or an economist?+"
+        },
+        {
+          "key": "B",
+          "text": "Is Mr Bell a manager or a banker?+"
+        },
+        {
+          "key": "C",
+          "text": "Friend or engineer is he?"
+        },
+        {
+          "key": "D",
+          "text": "Is he doctor or?"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Vocabulary: Which mean “меҳмонхона”?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a sitting room+"
+        },
+        {
+          "key": "B",
+          "text": "a living room+"
+        },
+        {
+          "key": "C",
+          "text": "a bathroom (ҳамом)"
+        },
+        {
+          "key": "D",
+          "text": "a kitchen (ошхона)"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Translate: «Қолин қаҳваранг аст».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The carpet is brown.+"
+        },
+        {
+          "key": "B",
+          "text": "It’s a brown carpet.+"
+        },
+        {
+          "key": "C",
+          "text": "Carpet brown is."
+        },
+        {
+          "key": "D",
+          "text": "Is carpet brown."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "question": "Which are correct sentences with “have got”:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They have got a new house.+"
+        },
+        {
+          "key": "B",
+          "text": "She has got a large kitchen.+"
+        },
+        {
+          "key": "C",
+          "text": "They has got house."
+        },
+        {
+          "key": "D",
+          "text": "She have got kitchen."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Vocabulary: Which words are family members?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a father+"
+        },
+        {
+          "key": "B",
+          "text": "a daughter+"
+        },
+        {
+          "key": "C",
+          "text": "a table"
+        },
+        {
+          "key": "D",
+          "text": "a pen"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Correct special questions:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "What colour is the sofa?+"
+        },
+        {
+          "key": "B",
+          "text": "How old is your son?+"
+        },
+        {
+          "key": "C",
+          "text": "Colour what is?"
+        },
+        {
+          "key": "D",
+          "text": "Old how is?"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Translate: «Ин писари онҳост».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This is their son.+"
+        },
+        {
+          "key": "B",
+          "text": "It’s their son.+"
+        },
+        {
+          "key": "C",
+          "text": "Their son this is."
+        },
+        {
+          "key": "D",
+          "text": "Is their son this."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Which sentences are correct?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "The house is large and comfortable.+"
+        },
+        {
+          "key": "B",
+          "text": "Their children are at home.+"
+        },
+        {
+          "key": "C",
+          "text": "House large is very."
+        },
+        {
+          "key": "D",
+          "text": "Home children are."
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Translate: «Ин оилаи ҷаноби Блейк аст».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This is Mr Blake’s family.+"
+        },
+        {
+          "key": "B",
+          "text": "It’s Mr Blake’s family.+"
+        },
+        {
+          "key": "C",
+          "text": "Blake family is."
+        },
+        {
+          "key": "D",
+          "text": "This family Blake is."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Vocabulary: Which words are relatives?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a husband+"
+        },
+        {
+          "key": "B",
+          "text": "a wife+"
+        },
+        {
+          "key": "C",
+          "text": "a window"
+        },
+        {
+          "key": "D",
+          "text": "a desk"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Which sentences are correct?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Their son is a student.+"
+        },
+        {
+          "key": "B",
+          "text": "Their daughter is a secretary.+"
+        },
+        {
+          "key": "C",
+          "text": "Son student is."
+        },
+        {
+          "key": "D",
+          "text": "Daughter secretary is."
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Translate: «Онҳо ду кӯдак доранд».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They have got two children.+"
+        },
+        {
+          "key": "B",
+          "text": "They’ve got two children.+"
+        },
+        {
+          "key": "C",
+          "text": "They two children has."
+        },
+        {
+          "key": "D",
+          "text": "Have they children two."
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Correct sentences with professions:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "He is an engineer.+"
+        },
+        {
+          "key": "B",
+          "text": "She is a teacher.+"
+        },
+        {
+          "key": "C",
+          "text": "He is engineer. (бе артикл)"
+        },
+        {
+          "key": "D",
+          "text": "She teacher is."
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Nationalities (кишварҳо):",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "French+"
+        },
+        {
+          "key": "B",
+          "text": "Italian+"
+        },
+        {
+          "key": "C",
+          "text": "Franchy"
+        },
+        {
+          "key": "D",
+          "text": "Italyan"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Correct short answers:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yes, she is.+"
+        },
+        {
+          "key": "B",
+          "text": "No, he isn’t.+"
+        },
+        {
+          "key": "C",
+          "text": "Yes, she is not."
+        },
+        {
+          "key": "D",
+          "text": "No, he is."
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "question": "Translate: «Ин сурати зани ӯст».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "This is a picture of his wife.+"
+        },
+        {
+          "key": "B",
+          "text": "It is his wife’s picture.+"
+        },
+        {
+          "key": "C",
+          "text": "Wife his picture is."
+        },
+        {
+          "key": "D",
+          "text": "Picture wife his is."
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Vocabulary: Which are correct?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "a grandmother+"
+        },
+        {
+          "key": "B",
+          "text": "a grandfather+"
+        },
+        {
+          "key": "C",
+          "text": "a grand-pen"
+        },
+        {
+          "key": "D",
+          "text": "a grand-desk"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Which questions are correct?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Who is this man?+"
+        },
+        {
+          "key": "B",
+          "text": "What is her job?+"
+        },
+        {
+          "key": "C",
+          "text": "Who this man is?"
+        },
+        {
+          "key": "D",
+          "text": "What job is she?"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "question": "Translate: «Ҷаноби Стэнли — соҳибкор аст».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mr Stanley is a businessman.+"
+        },
+        {
+          "key": "B",
+          "text": "He is a businessman.+"
+        },
+        {
+          "key": "C",
+          "text": "Mr Stanley businessman."
+        },
+        {
+          "key": "D",
+          "text": "Businessman he is Stanley."
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "question": "Correct sentences with Present Simple:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "He works in London.+"
+        },
+        {
+          "key": "B",
+          "text": "He has breakfast at 8.+"
+        },
+        {
+          "key": "C",
+          "text": "He work in London."
+        },
+        {
+          "key": "D",
+          "text": "He have breakfast."
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "question": "Vocabulary: «кор кардан» — ин...",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "to work+"
+        },
+        {
+          "key": "B",
+          "text": "works (кор мекунад)+"
+        },
+        {
+          "key": "C",
+          "text": "to sleep (хоб рафтан)"
+        },
+        {
+          "key": "D",
+          "text": "to eat (хӯрдан)"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "question": "Translate: «Ӯ саҳар рӯзнома мехонад».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "He reads a newspaper in the morning.+"
+        },
+        {
+          "key": "B",
+          "text": "In the morning he reads a newspaper.+"
+        },
+        {
+          "key": "C",
+          "text": "He read newspaper morning."
+        },
+        {
+          "key": "D",
+          "text": "Morning he read."
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "question": "Correct questions:",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "What does he do?+"
+        },
+        {
+          "key": "B",
+          "text": "Where does he work?+"
+        },
+        {
+          "key": "C",
+          "text": "What he does do?"
+        },
+        {
+          "key": "D",
+          "text": "Where he works?"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "question": "Vocabulary: Which are daily activities?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "to have lunch+"
+        },
+        {
+          "key": "B",
+          "text": "to go to the office+"
+        },
+        {
+          "key": "C",
+          "text": "to fly like a bird"
+        },
+        {
+          "key": "D",
+          "text": "to talk with a wall"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "question": "Translate: «Онҳо соати 6 ба хона меоянд».",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "They come home at six.+"
+        },
+        {
+          "key": "B",
+          "text": "They come back home at six.+"
+        },
+        {
+          "key": "C",
+          "text": "They home come six."
+        },
+        {
+          "key": "D",
+          "text": "At six they home."
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "question": "Which sentences are correct?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "He goes to the office every day.+"
+        },
+        {
+          "key": "B",
+          "text": "He comes back at 5.+"
+        },
+        {
+          "key": "C",
+          "text": "He go office every day."
+        },
+        {
+          "key": "D",
+          "text": "He back comes at 5."
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "question": "Vocabulary: Which are meals (хӯрок)?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "breakfast+"
+        },
+        {
+          "key": "B",
+          "text": "lunch+"
+        },
+        {
+          "key": "C",
+          "text": "break-work"
+        },
+        {
+          "key": "D",
+          "text": "office-time"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "question": "Correct short answers (Present Simple):",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yes, he does.+"
+        },
+        {
+          "key": "B",
+          "text": "No, he doesn’t.+"
+        },
+        {
+          "key": "C",
+          "text": "Yes, he do."
+        },
+        {
+          "key": "D",
+          "text": "No, he don’t."
+        }
+      ]
+    }
+  ]
+}
