@@ -32,10 +32,10 @@
       "url": "https://kilobarkash.github.io/test_for/tests/java2.json"
     },
     {
-      "id": "11",
-      "name": "Java (рейтинги2)",
-      "teacher" : "Кадамшоев",
-      "url": "https://kilobarkash.github.io/test_for/tests/java2.json"
+      "id": "12",
+      "name": "KTM",
+      "teacher" : "",
+      "url": "https://kilobarkash.github.io/test_for/tests/KTM.json"
     },
   ],
 }
